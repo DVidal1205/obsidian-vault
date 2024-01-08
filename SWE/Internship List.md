@@ -25,7 +25,6 @@ Applied
 - Jane Street Fellowship
 
 Rejected
-
 - Riot Games
 - Paypal
 - SpaceX
@@ -37,7 +36,7 @@ Rejected
 - Humane
 - RocketLab
 - WeRide
-- Rocke
+- ActiveCampaign
 
 November 03 Proofpoint
 
