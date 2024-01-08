@@ -990,3 +990,10 @@ Nurturing life's abundance, where seeds of tomorrow grow."
 
 ##### Summary
 [[D&D/Player View/Session Summaries/Untitled Summary |Session Summary]]
+
+### Temporal Terror
+Along the streets of the Northern District, 1 Minutemen and 2 Secondries will attack during the Trial of Judgement.
+
+About a mile along the road, the 2 Secondries will detonate a time bomb similar to the Commencement Ceremony. Red smoke will float through the air, and people will run towards where the party is currently stationed, creating a horde of people. Ivory Wardens will rush towards the explosion.
+
+A symbol will activate on both ends of the street at the parties location, activating a wall of force. The symbol cast will be the hand of a clock, jarring out from a brick on the top right and bottom corners of the street. Alleyways will still be open, but soon they will become hazardous for tramples. This segment will be 500 feet long and 50 feet wide. Civilians and Competitors will be trapped there, in the range of 200-300, mostly containing civilians.

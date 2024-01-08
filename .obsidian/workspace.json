@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b657bb5a14a1af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -238,8 +250,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "df5d7dd354c33805",
+  "active": "4b657bb5a14a1af4",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 008.md",
+    "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Project Wildspace.md",
     "Dashboard.md",
     "School/Spring 2024",
@@ -247,7 +261,6 @@
     "Obsidian/Excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "SWE/Internship List.md",
     "Life/Journal/Daily Notes/2024-01-08.md",
-    "D&D/Game Information/Sessions/Session 008.md",
     "SWE/Project Wildspace",
     "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
@@ -271,7 +284,6 @@
     "Obsidian/Attachments/Pasted image 20231216175959.png",
     "Obsidian/Attachments/Pasted image 20231216175433.png",
     "D&D/Game Information/Resources/Temporal Dread/Structure.md",
-    "Life/Journal/Daily Notes/2023-12-16.md",
     "D&D/Game Information/Resources/Temporal Dread"
   ]
 }
