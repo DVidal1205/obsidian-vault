@@ -998,10 +998,42 @@ About a mile along the road, the 2 Secondries will detonate a time bomb similar 
 
 A symbol will activate on both ends of the street at the parties location, activating a wall of force. The symbol cast will be the hand of a clock, jarring out from a brick on the top right and bottom corners of the street. Alleyways will still be open, but soon they will become hazardous for tramples. This segment will be 500 feet long and 50 feet wide. Civilians and Competitors will be trapped there, in the range of 200-300, mostly containing civilians.
 
-Trapped inside the segment will be th
+Trapped inside the segment will be the party, including new members, Vouhi and Torty. Together they will have two options/approaches to this encounter.
 
+**Option 1: Collateral Damage**
+The party can choose to focus more on the event at hand. By making a DC18 Investigation check, they can find the corner castings of the Wall of Force. After locating the Symbols, each can be negated using Dispel Magic with a DC18, or through the dealing of 100 damage (vulnerable to radiant).
 
+There is also the problem of the trampling at the 4 alleyway exits. For every round that passes, an additional 5-10 civilians will become trampled. The party can intervene with the trampling in a variety of ways.
 
+**Option 2: Engage the Minuteman**
+The party can also choose to engage the Minuteman in combat. Doing so is a risky gambit, but they will be assisted by 2 Ivory Warden that remained behind, as well as 3 other contestants in the challenge.
+
+| Name               | Aria Shadowdancer |
+|--------------------|-------------------|
+| Race               | Tiefling          |
+| HP                 | 60                |
+| AC                 | 15                |
+| Class              | Rogue             |
+| Action             | Sneak Attack      |
+| Bonus Action       | Cunning Action    |
+
+| Name               | Magnus Stoneshield |
+|--------------------|--------------------|
+| Race               | Dwarf              |
+| HP                 | 80                 |
+| AC                 | 18                 |
+| Class              | Fighter            |
+| Action             | Greatsword Strike  |
+| Bonus Action       | Second Wind        |
+
+| Name               | Seraphina Lightweaver |
+|--------------------|-----------------------|
+| Race               | High Elf              |
+| HP                 | 40                    |
+| AC                 | 17                    |
+| Class              | Cleric                |
+| Action             | Sacred Flame          |
+| Bonus Action       | Healing Word          |
 
 #### Secondary
 | Stat          | Value  |
@@ -1022,3 +1054,22 @@ Trapped inside the segment will be th
 | **Speed**     | 40 ft.  |
 | **Abilities** |         |
 | *Spellcasting*   | The Minuteman is a spellcaster. Its spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). The Minuteman has the following spells prepared: <br>- Cantrips (at will): Eldritch Blast, Mage Hand, Prestidigitation<br>- 1st level (4 slots): Armor of Agathys, Hellish Rebuke<br>- 2nd level (3 slots): Hold Person, Invisibility<br>- 3rd level (3 slots): Fireball, Counterspell<br>- 4th level (3 slots): Banishment, Dimension Door<br>- 5th level (2 slots): Hold Monster, Cone of Cold |
+
+After the fight prolongs, it will be clear that all hope is lost. As the Minuteman charges up an arching fireball and fires it towards the remaining group, Veroah will enter the fray. Flying in on their hawk, they will slice through the fireball and immediately engage the Minuteman, who teleports back.
+
+In a 60 foot standoff, the two will engage. The Minuteman will teleport away Veroah's blade using Vortex Warp, leaving them to hand to hand combat. Flying towards the Minuteman, Veroah will unleash an action surge, landing 6 melee attacks, and using pushing attack. These attacks will be backed with a purple glow as Veroah's scales illuminate a light purple with each attack. The Minuteman will teleport away, but Veroah will swiftly follow. Sending him airborne, Veroah captures them with a Detricite cage carried by the Giant Hawk. Retrieving their sword, they tell the crowd:
+
+"Good people of Morellus, today we have prevailed against the Minuteman's terror once again. But let us not forget the sacrifices made, the lives lost in this relentless fight. We must remain vigilant, for our struggle is far from over. 
+
+Though darkness surrounds us, let it not extinguish the flame of hope within our hearts. Let this victory be a reminder that we are strong, united, and determined to reclaim our kingdom's peace. 
+
+To all those who dare to dream of being the rightful ruler of Morellus, I implore you to join us in the Royal Crucible. Let this victory inspire you to continue fighting for justice and prosperity.
+
+Together, we shall overcome these trying times and restore harmony to our land. Remember, it is in unity that we find strength. Stay resolute and never lose faith in our cause.
+
+May the light of hope guide us through these dark days, as we march forward towards a brighter future for Morellus!"
+
+Rewrite this text of this speech into one paragraph of 6-8 sentences
+
+
+
