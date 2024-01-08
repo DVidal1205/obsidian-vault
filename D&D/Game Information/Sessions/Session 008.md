@@ -1059,17 +1059,7 @@ After the fight prolongs, it will be clear that all hope is lost. As the Minutem
 
 In a 60 foot standoff, the two will engage. The Minuteman will teleport away Veroah's blade using Vortex Warp, leaving them to hand to hand combat. Flying towards the Minuteman, Veroah will unleash an action surge, landing 6 melee attacks, and using pushing attack. These attacks will be backed with a purple glow as Veroah's scales illuminate a light purple with each attack. The Minuteman will teleport away, but Veroah will swiftly follow. Sending him airborne, Veroah captures them with a Detricite cage carried by the Giant Hawk. Retrieving their sword, they tell the crowd:
 
-"Good people of Morellus, today we have prevailed against the Minuteman's terror once again. But let us not forget the sacrifices made, the lives lost in this relentless fight. We must remain vigilant, for our struggle is far from over. 
-
-Though darkness surrounds us, let it not extinguish the flame of hope within our hearts. Let this victory be a reminder that we are strong, united, and determined to reclaim our kingdom's peace. 
-
-To all those who dare to dream of being the rightful ruler of Morellus, I implore you to join us in the Royal Crucible. Let this victory inspire you to continue fighting for justice and prosperity.
-
-Together, we shall overcome these trying times and restore harmony to our land. Remember, it is in unity that we find strength. Stay resolute and never lose faith in our cause.
-
-May the light of hope guide us through these dark days, as we march forward towards a brighter future for Morellus!"
-
-Rewrite this text of this speech into one paragraph of 6-8 sentences
+Today, the people of Morellus have once again triumphed over the Minuteman's reign of terror. We must not forget the sacrifices made and lives lost in this relentless fight. Our struggle is far from over, and we must remain vigilant. Though darkness surrounds us, let it not extinguish the flame of hope within our hearts. This victory serves as a reminder of our strength, unity, and determination to reclaim peace in our kingdom. I implore all those who dream of being the rightful ruler of Morellus to join us in the Royal Crucible, and let this triumph inspire continued fighting for justice and prosperity. Together, we shall overcome these trying times and restore harmony to our land. Let us remember that it is in unity that we find strength; therefore, we must stay resolute and never lose faith in our cause. May the light of hope guide us through these dark days as we march forward towards a brighter future for Morellus!
 
 
 
