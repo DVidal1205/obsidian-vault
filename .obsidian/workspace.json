@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df5d7dd354c33805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,15 +44,8 @@
       {
         "id": "42bcd85d0359ee96",
         "type": "tabs",
+        "dimension": 70.15503875968993,
         "children": [
-          {
-            "id": "634f023a640225f6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "1526aaabbc5d35ef",
             "type": "leaf",
@@ -74,6 +80,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "9389252bc8f01de6",
+        "type": "tabs",
+        "dimension": 29.844961240310074,
+        "children": [
+          {
+            "id": "634f023a640225f6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md"
+                "file": "D&D/Game Information/Sessions/Session 008.md"
               }
             }
           },
@@ -194,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +238,16 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "df5d7dd354c33805",
   "lastOpenFiles": [
+    "SWE/Project Wildspace/Project Wildspace.md",
+    "Dashboard.md",
+    "School/Spring 2024",
+    "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
+    "Obsidian/Excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "SWE/Internship List.md",
     "Life/Journal/Daily Notes/2024-01-08.md",
     "D&D/Game Information/Sessions/Session 008.md",
-    "SWE/Project Wildspace/Project Wildspace.md",
     "SWE/Project Wildspace",
     "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
