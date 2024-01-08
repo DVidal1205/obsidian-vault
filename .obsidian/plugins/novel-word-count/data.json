@@ -57,14 +57,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3566666666666667,
-      "characterCount": 593,
+      "characterCount": 597,
       "nonWhitespaceCharacterCount": 483,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739476655,
-      "modifiedDate": 1704746222309,
-      "sizeInBytes": 593
+      "modifiedDate": 1704747428534,
+      "sizeInBytes": 597
     },
     "SWE/IBM Notes.md": {
       "isDirectory": false,
@@ -505,14 +505,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5833333333333334,
-      "characterCount": 1033,
+      "characterCount": 1034,
       "nonWhitespaceCharacterCount": 813,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739476599,
-      "modifiedDate": 1692045305000,
-      "sizeInBytes": 1253
+      "modifiedDate": 1704747301739,
+      "sizeInBytes": 1254
     },
     "Programming/Practice Problems/lonelyInt.md": {
       "isDirectory": false,
@@ -15013,18 +15013,18 @@
     "D&D/Game Information/Sessions/Session 008.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 11183,
+      "wordCount": 11396,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 37.276666666666664,
-      "characterCount": 75430,
-      "nonWhitespaceCharacterCount": 63196,
+      "pageCount": 37.986666666666665,
+      "characterCount": 76822,
+      "nonWhitespaceCharacterCount": 64253,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739475402,
-      "modifiedDate": 1704740351809,
-      "sizeInBytes": 75529
+      "modifiedDate": 1704747892829,
+      "sizeInBytes": 76921
     },
     "D&D/Game Information/Sessions/Session 007.md": {
       "isDirectory": false,

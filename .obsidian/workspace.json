@@ -11,9 +11,11 @@
             "id": "5f5434642409d763",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf"
+                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf"
+                "file": "D&D/Game Information/Sessions/Session 008.md"
               }
             }
           },
@@ -226,9 +228,13 @@
   },
   "active": "5f5434642409d763",
   "lastOpenFiles": [
-    "School/Spring 2024/COP3502/Test.md",
-    "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
+    "D&D/Game Information/Sessions/Session 003.md",
+    "D&D/Game Information/Sessions/Session 00X.md",
     "SWE/Internship List.md",
+    "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
+    "D&D/Game Information/Sessions/Session 001.md",
+    "Programming/Practice Problems/miniMaxSum.md",
+    "School/Spring 2024/COP3502/Test.md",
     "Life/Journal/Daily Notes/2024-01-08.md",
     "School/Events.md",
     "Dashboard.md",
@@ -251,7 +257,6 @@
     "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "Life/Journal/Daily Notes/2024-01-03.md",
-    "D&D/Game Information/Sessions/Session 00X.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
@@ -259,8 +264,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md",
     "D&D/Player View/Territories/Morellus/Places/Districts/Western District.md",
     "D&D/Player View/Territories/Morellus/Morellan Places.md",
-    "D&D/Player View/Territories/Morellus/Places/Districts/Eastern District.md",
-    "D&D/Game Information/Sessions/Session 007.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",

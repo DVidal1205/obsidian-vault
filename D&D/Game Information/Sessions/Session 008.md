@@ -997,3 +997,28 @@ Along the streets of the Northern District, 1 Minutemen and 2 Secondries will at
 About a mile along the road, the 2 Secondries will detonate a time bomb similar to the Commencement Ceremony. Red smoke will float through the air, and people will run towards where the party is currently stationed, creating a horde of people. Ivory Wardens will rush towards the explosion.
 
 A symbol will activate on both ends of the street at the parties location, activating a wall of force. The symbol cast will be the hand of a clock, jarring out from a brick on the top right and bottom corners of the street. Alleyways will still be open, but soon they will become hazardous for tramples. This segment will be 500 feet long and 50 feet wide. Civilians and Competitors will be trapped there, in the range of 200-300, mostly containing civilians.
+
+Trapped inside the segment will be th
+
+
+
+
+#### Secondary
+| Stat          | Value  |
+|---------------|--------|
+| **CR**        | 6      |
+| **HP**        | 100    |
+| **AC**        | 15     |
+| **Speed**     | 30 ft. |
+| **Abilities** |        |
+| *Spellcasting* | The Secondary is a spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The Secondary has the following spells prepared: <br>- Cantrips (at will): Fire Bolt, Mage Hand, Minor Illusion<br>- 1st level (4 slots): Magic Missile, Shield<br>- 2nd level (3 slots): Misty Step, Scorching Ray<br>- 3rd level (3 slots): Counterspell, Fireball |
+
+#### Minuteman
+| Stat          | Value   |
+|---------------|---------|
+| **CR**        | 12      |
+| **HP**        | 200     |
+| **AC**        | 18      |
+| **Speed**     | 40 ft.  |
+| **Abilities** |         |
+| *Spellcasting*   | The Minuteman is a spellcaster. Its spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). The Minuteman has the following spells prepared: <br>- Cantrips (at will): Eldritch Blast, Mage Hand, Prestidigitation<br>- 1st level (4 slots): Armor of Agathys, Hellish Rebuke<br>- 2nd level (3 slots): Hold Person, Invisibility<br>- 3rd level (3 slots): Fireball, Counterspell<br>- 4th level (3 slots): Banishment, Dimension Door<br>- 5th level (2 slots): Hold Monster, Cone of Cold |
