@@ -1,0 +1,3 @@
+As the [[Haunted Wilds]] are more of a region than a nation or territory, no formal government stands. It is largely up to the individual community that you accidentally stumble upon, should you go exploring.
+
+Because of the diversity and uniqueness in the wilds, you could probably find all sorts of forms of government. Dictatorships, meritocracies, theocracies, and the likes, but only on a scale of 15 people at most.

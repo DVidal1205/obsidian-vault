@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "baseFontSize": 29,
+  "cssTheme": "Dracula for Obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
+}

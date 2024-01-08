@@ -1,0 +1,1 @@
+An assembly of vigilant people, mostly druids, tasked with monitoring the status of the rifts and wild magic in the [[Old Stones]]

@@ -1,0 +1,3 @@
+Legendary fighter of [[Morellus]] and one of [[The Legendary Crownsguard]]. Has ties to his draconic ancestory from the [[Dragonhide Summits]].
+
+A combatant in the name of justice, Hugh sought to liberate Morellus with the inspiration of his ancestral guardian [[Miria, the Moonstone Dragon]]. Fighting with a pike forged from scale and tooth, he carried the ways of the summits into Morellus, and inevitably shut down a malicious program meant to enslave dragons for war, as well as created looser regulations on the presence of dragons in Morellus. Since then, there has been note of a few dragons entering Morellus, with Miria continuing to live there to this day.

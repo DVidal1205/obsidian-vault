@@ -1,0 +1,14 @@
+The [[Haunted Wilds]] has some of the most diverse demographics of any region, but the primarily dominant races are as follows.
+- Tiefling
+- Human
+- Gnome
+- Dwarf
+- Elf
+- Halfling
+- Duergar
+- Deep Gnome
+- Firbolg
+- Satyr
+- Shadar-Kai
+- Kalashtar
+- Aasimar

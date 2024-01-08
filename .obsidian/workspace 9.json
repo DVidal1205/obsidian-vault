@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "06cb867ea7073b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda8609ec91dab9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b758fef195c8643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2023/PHY2049C/Module 2 - Gauss's Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47595026a48237b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "682db8ab3514f12e",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "907c415db8cad760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Players/Tova/Tova Andreas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aaf1b42edcabf9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "139523abea4fa72a",
+        "type": "tabs",
+        "dimension": 69.57364341085271,
+        "children": [
+          {
+            "id": "37511c5632661266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cda1306107f5867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "604729e1cbf3c2e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1504723f538e7a9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b5262bfe78162334",
+        "type": "tabs",
+        "dimension": 30.426356589147286,
+        "children": [
+          {
+            "id": "91d8c919dc55bf83",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "304dcc12a9283d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "1772dc6cd5a25ffe",
+        "type": "tabs",
+        "dimension": 55.717054263565885,
+        "children": [
+          {
+            "id": "5f50eabe1512511a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f46ca0a77ff0c3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/Game Information/Players/Tova/Tova Andreas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c0c57f0ba2a05d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/Game Information/Players/Tova/Tova Andreas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72e1465cb3c2af02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "822785c98563c664",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D&D/Game Information/Players/Tova/Tova Andreas.md"
+              }
+            }
+          },
+          {
+            "id": "aa480a614d960a17",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "e25e8b9edbbb151b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "99cd31cee6f83643",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "939d501293f5e857",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "992f4a11690a6d9a",
+        "type": "tabs",
+        "dimension": 44.282945736434115,
+        "children": [
+          {
+            "id": "ca9ef0db36e78077",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 737.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "907c415db8cad760",
+  "lastOpenFiles": [
+    "D&D/Game Information/Players/Tova/Thaddeus Andreas.md",
+    "D&D/Game Information/Players/Emil/Emil Albrecht.md",
+    "D&D/Game Information/Players/Emil/Carlos the Dwarf.md",
+    "D&D/Game Information/Players/Dvita/Dvita Armonia.md",
+    "D&D/Game Information/Players/Dvita/Xavier Soter.md",
+    "D&D/Game Information/NPCs/Juggah the Orc.md",
+    "D&D/Game Information/NPCs/Borris Multivar.md",
+    "D&D/Game Information/Combat Logs/1692210029634 - Combat.md",
+    "D&D/Game Information/Sessions/Session 002.md",
+    "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
+    "D&D/Game Information/Sessions/The Royal Crucible/Trial 1 - Perseverance.md",
+    "Life/Journal/Daily Notes/2023-08-29.md",
+    "D&D/Game Information/Sessions/The Royal Crucible",
+    "Obsidian/Attachments/Pasted image 20230828144817.png",
+    "Obsidian/Attachments/Pasted image 20230828145300.png",
+    "Obsidian/Attachments/Pasted image 20230828144814.png",
+    "Obsidian/Attachments/Pasted image 20230828155216.png",
+    "Life/People/Isabella Morales.md",
+    "School/Fall 2023/STA2023/Chapter 2 - Methods for Describing Sets of Data.md",
+    "Obsidian/Attachments/Pasted image 20230828144330.png",
+    "Life/Journal/Daily Notes/2023-08-28.md",
+    "School/Fall 2023/PHY2049C/Module 2 - Gauss's Law.md",
+    "D&D/Player View/Territories/Morellus/Morellan Magistrate.md",
+    "Obsidian/Attachments/Module 2 - Gauss's Law 2023-08-28 09.38.15.excalidraw.md",
+    "School/Fall 2023/PHY2049C/Module 1 - Electric Forces and Electric Fields.md",
+    "D&D/Game Information/Sessions/Session 001.md",
+    "D&D/Player View/Territories/Morellus/People/Queen Sejua.md",
+    "D&D/Player View/Territories/Morellus/People/King Ganon.md",
+    "D&D/Player View/Territories/Morellus/People/Princess Jaedra.md",
+    "D&D/Player View/Territories/Morellus/Places/Districts/Eastern District.md",
+    "D&D/Game Information/Resources/Morellus Travel/Morellus Travel Map.md",
+    "D&D/Game Information/Players/Zero/The Broken Barstool.md",
+    "Obsidian/Attachments/Pasted image 20230826154059.png",
+    "Obsidian/Attachments/Pasted image 20230826154309.png",
+    "Obsidian/Attachments/Pasted image 20230826154336.png",
+    "Obsidian/Attachments/Pasted image 20230826154947.png",
+    "Obsidian/Attachments/Pasted image 20230826154455.png",
+    "D&D/Game Information/Players/Dvita",
+    "School/Fall 2023/STA2023/Chapter 1 - Statistics, Data, and Statistical Thinking",
+    "School/Fall 2023/MAC2313/Chapter 2 - Vectors in Space",
+    "School/Fall 2023/PHY2049C/Chapter 2",
+    "Obsidian/Excalidraw",
+    "Untitled.canvas",
+    "D&D/Game Information/Statblocks",
+    "D&D/Game Information/Places",
+    "D&D/Game Information/NPCs",
+    "Programming/Practice Problems"
+  ]
+}

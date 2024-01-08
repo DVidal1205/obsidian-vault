@@ -1,0 +1,1 @@
+The current ruler of [[Rexia]], and perhaps one of the most controversial. Incredibly violent and merciless, the weakest of Rexia fear Madran on a cellular level. However, he has accomplished more than any of [[The Rexian Might]] before him, raising the greatest army Rexia has seen in the last millennia

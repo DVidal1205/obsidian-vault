@@ -1,0 +1,1 @@
+Three large and fortuitous ports built by [[Morellus]] along the Northern coast in agreeance to the [[Claystone-Morellan Treaty]] between [[Morellus]] and the [[Claystone Mages]]. Here, many of [[The Ivory Wardens]] guard the port and conduct ship building, as well as promise to provide aid to nearby towns in the event of a siege.

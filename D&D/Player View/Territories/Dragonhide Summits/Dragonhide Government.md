@@ -1,0 +1,3 @@
+As in many other places in Miravalis, there is no formal government for the [[Dragonhide Summits]], and authority is largely decentralized. Most enclaves and groups would have a hierarchical structure unique to themselves.
+
+The land does have some informal order, though. Conflict in the summits is usually low, and people tend to get along. Hearing stories from other enclaves keeps life interesting and new, and people tend to be amiable when running into other groups. The only time issues arise are when food is involved, or rather, lack thereof.

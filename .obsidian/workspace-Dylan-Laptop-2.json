@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "06cb867ea7073b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5ffbc77b4bc9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9046aea7622c245f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Emil/Emil Albrecht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ebd843e5864eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Emil/Carlos the Dwarf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d429e0872bc519c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Emil/Carlos the Dwarf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aaf1b42edcabf9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "139523abea4fa72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37511c5632661266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cda1306107f5867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "604729e1cbf3c2e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1504723f538e7a9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "304dcc12a9283d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "1772dc6cd5a25ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f46ca0a77ff0c3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Players/Emil/Carlos the Dwarf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c0c57f0ba2a05d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Players/Emil/Carlos the Dwarf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72e1465cb3c2af02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "822785c98563c664",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Players/Emil/Carlos the Dwarf.md"
+              }
+            }
+          },
+          {
+            "id": "aa480a614d960a17",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcfd209883cc79a9",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fe2a3d54f9e84fc",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "e25e8b9edbbb151b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c44db82bc8771b9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 649.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4d429e0872bc519c",
+  "lastOpenFiles": [
+    "Players/Zero/Taxidus.md",
+    "Players/Tova/Thaddeus Andreas.md",
+    "Players/Tova/Thaddeus.png",
+    "Players/Tova/Tova Andreas.md",
+    "Players/Zero/Taxidus.png",
+    "Players/Zero/Zero Drakeheart Vauquelin.md",
+    "Territories/Rexia/Rexia.md",
+    "Players/Emil/Carlos the Dwarf.md",
+    "Players/Emil/Emil Albrecht.md",
+    "Players/Tova/Automata Andreas.md",
+    "Territories/Starless Swamps/Starless People and Groups.md",
+    "Territories/Starless Swamps/Starless Places.md",
+    "Territories/Starless Swamps/Starless Swamps.md",
+    "Miravalis/Power System.md",
+    "Miravalis/Power System Drawing.md",
+    "Miravalis/Power System.png",
+    "Sessions/Session 1.md",
+    "Excalidraw",
+    "Combat Logs",
+    "Sessions",
+    "Miravalis/Miravalis.md",
+    "Miravalis/Calendar System.md",
+    "Territories/Haunted Wilds/Haunted Wilds.md",
+    "Miravalis/Events/The Unbounding.md",
+    "Miravalis/Events/The Cataclysm.md",
+    "Miravalis/Events/The Battle that Never Happened.md",
+    "Territories/Morellus/People/The Legendary Crownsguard.md",
+    "Territories/Morellus/Morellus.md",
+    "Territories/Dragonhide Summits/People/Miria, the Moonstone Dragon.md",
+    "Territories/Morellus/People/Kyle Smith.md",
+    "Territories/Haunted Wilds/People/Killroy Styx.md",
+    "Miravalis/Events",
+    "Resources/Morellus Travel Methods.png",
+    "Resources/Morellus Travel/Morellus Travel Methods.png",
+    "Miravalis/Miravalis.png",
+    "Players/Tova",
+    "Players/Zero",
+    "Players/Emil",
+    "Players",
+    "Miravalis/miravalis.json",
+    "Resources/Morellus Travel",
+    "Pasted Image 20230727175106_516.png",
+    "Pasted image 20230727161254.png",
+    "Territories/Morellus/Images/Amplicite and Detricite.png",
+    "Territories/Morellus/Images/Morellus.png"
+  ]
+}

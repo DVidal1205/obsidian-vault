@@ -1,0 +1,1 @@
+[[The Rexian Might]] during the years leading up to [[The Unbounding]], who made a deal with Gnoxrus in exchange for eternal life and an eternal rule. Thankfully, he was slaughtered by the The Legendary Crownsguard of Morellus before his rule could harm thousands.

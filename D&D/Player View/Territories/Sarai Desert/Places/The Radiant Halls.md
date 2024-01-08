@@ -1,0 +1,1 @@
+The largest temple of worship of [[Setre]] in the [[Sarai Desert]], and serves as a sort of informal capitol for the region, and is a bustling center for trade.

@@ -1,0 +1,2 @@
+- [x] E-Portfolio Workshop 1 - 1:00PM - 2:00PM [[2023-08-28]]
+- [ ] E-Portfolio Workshop 2 - 1:00PM - 2:00PM [[2023-10-09]]

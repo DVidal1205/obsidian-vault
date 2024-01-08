@@ -1,0 +1,1 @@
+The man behind the nation of [[Rexia]], [[Rex the Earnest]] was the eager visionary who united and formed the nation of Rexia thousands of years ago, in the year 124. He was quite the persuasive man, and instilled the concept of strength into the nation so vehemently that his ideals still stand tall to this day.

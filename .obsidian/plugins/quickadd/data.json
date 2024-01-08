@@ -1,0 +1,175 @@
+{
+  "choices": [
+    {
+      "id": "86bd3613-7d74-4476-97fe-54cca54e0df8",
+      "name": "New Coding Problem",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Obsidian/Templates/coding-problem.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Programming/Practice Problems"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "724d5610-5d67-4852-8bea-6f24b1871c6b",
+      "name": "New D&D Statblock",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Obsidian/Templates/dnd-statblock.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D&D/Game Information/Statblocks"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "8d6b90d1-59b2-48f1-9b13-fd1dc501991d",
+      "name": "New D&D Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Obsidian/Templates/dnd-session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Session {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D&D/Game Information/Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "abdf31a2-bdb9-4b4e-bd09-c1a775b7ebac",
+      "name": "New D&D Summary",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Obsidian/Templates/dnd-summary.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Session {{value}} Summary"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D&D/Player View/Session Summaries"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "horizontal",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f0ec0851-340e-4114-a1ed-92b56478a04a",
+      "name": "New D&D NPC",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Obsidian/Templates/dnd-npc.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "D&D/Game Information/NPCs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "horizontal",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Obsidian/Templates",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

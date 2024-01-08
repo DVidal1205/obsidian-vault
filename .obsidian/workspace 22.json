@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "c463c2e6ebb6da7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84d526efc2a39c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8bf6e7313f5124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2023/STA2023/Chapter 2 - Methods for Describing Sets of Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db6171b153c86856",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6c478d6f39b726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0577f0abe6667ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "462da8271a1332c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60b603de6c2b2a9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a3449ac45bab0c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d2ff6428aaff58d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5eed9c9d3affc3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd35d58a293f460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b29f76d3351d75",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8e4f2f297c7bfd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Fall 2023/STA2023/Chapter 2 - Methods for Describing Sets of Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "247af29b1e737a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Fall 2023/STA2023/Chapter 2 - Methods for Describing Sets of Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c73b07f71c4f8754",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06ddd4a8239c9e7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Fall 2023/STA2023/Chapter 2 - Methods for Describing Sets of Data.md"
+              }
+            }
+          },
+          {
+            "id": "13b6cad98c2e39fa",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bd521513027f2ad",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a42b83912b390d3f",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa8bf6e7313f5124",
+  "lastOpenFiles": [
+    "Life/Journal/Daily Notes/2023-09-08.md"
+  ]
+}
