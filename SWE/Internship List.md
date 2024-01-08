@@ -23,6 +23,7 @@ Applied
 - NetApp
 - Kleiner Perkins
 - Jane Street Fellowship
+- Inari Agriculture
 
 Rejected
 - Riot Games
