@@ -154,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Spring 2024/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,14 +217,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "1526aaabbc5d35ef",
+  "active": "d91bb53bc5a51747",
   "lastOpenFiles": [
+    "School/Spring 2024/Untitled.md",
     "School/Spring 2024/REL3930",
     "School/Spring 2024/PEM2121",
     "School/Spring 2024/COT3100",
     "School/Spring 2024/COP3330",
     "School/Spring 2024/COP3502",
-    "School/Spring 2024/Untitled.md",
     "SWE/Project Wildspace/Project Wildspace.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "conflict-files-obsidian-git.md",
