@@ -53,18 +53,18 @@
     "SWE/Internship List.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 105,
+      "wordCount": 107,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.35,
-      "characterCount": 605,
-      "nonWhitespaceCharacterCount": 498,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 593,
+      "nonWhitespaceCharacterCount": 483,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739476655,
-      "modifiedDate": 1704745395774,
-      "sizeInBytes": 605
+      "modifiedDate": 1704746222309,
+      "sizeInBytes": 593
     },
     "SWE/IBM Notes.md": {
       "isDirectory": false,

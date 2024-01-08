@@ -38,11 +38,11 @@ Rejected
 - WeRide
 - ActiveCampaign
 
-November 03 Proofpoint
+
 
 Freshman Only
-Google STEP
-Microsoft Explore
-Meta University
-NVIDIA Ignite
-Jane Street
+- Google STEP
+- Microsoft Explore
+- Meta University
+- NVIDIA Ignite
+- Jane Street
