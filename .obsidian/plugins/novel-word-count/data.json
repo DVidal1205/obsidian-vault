@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 594,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704740288492,
-      "modifiedDate": 1704740288927,
-      "sizeInBytes": 701
-    },
     "SWE/Serverless AWS Workshop Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14761,14 +14745,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 37.276666666666664,
-      "characterCount": 76421,
+      "characterCount": 75430,
       "nonWhitespaceCharacterCount": 63196,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739475402,
-      "modifiedDate": 1704740288384,
-      "sizeInBytes": 76527
+      "modifiedDate": 1704740351809,
+      "sizeInBytes": 75529
     },
     "D&D/Game Information/Sessions/Session 005.md": {
       "isDirectory": false,
