@@ -11,8 +11,12 @@
             "id": "46b61aeb18e3439e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SWE/Internship List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SWE/Internship List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SWE/Internship List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SWE/Internship List.md"
+              }
             }
           },
           {
@@ -219,11 +227,12 @@
   },
   "active": "46b61aeb18e3439e",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 002.md",
+    "SWE/Internship List.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "D&D/Player View/Territories/Morellus/The Morellan Crownsguard.md",
     "D&D/Game Information/Sessions/Session 003.md",
     "D&D/Game Information/Sessions/Session 00X.md",
-    "SWE/Internship List.md",
     "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
     "D&D/Game Information/Sessions/Session 001.md",
     "Programming/Practice Problems/miniMaxSum.md",
@@ -254,7 +263,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md",
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md",
-    "D&D/Player View/Territories/Morellus/Places/Districts/Western District.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",

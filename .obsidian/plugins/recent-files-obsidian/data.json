@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Internship List",
+      "path": "SWE/Internship List.md"
+    },
+    {
+      "basename": "Session 002",
+      "path": "D&D/Game Information/Sessions/Session 002.md"
+    },
+    {
       "basename": "Session 008",
       "path": "D&D/Game Information/Sessions/Session 008.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Session 00X",
       "path": "D&D/Game Information/Sessions/Session 00X.md"
-    },
-    {
-      "basename": "Internship List",
-      "path": "SWE/Internship List.md"
     },
     {
       "basename": "Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley)",
