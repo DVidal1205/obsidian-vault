@@ -53,18 +53,18 @@
     "SWE/Internship List.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 105,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 558,
-      "nonWhitespaceCharacterCount": 458,
+      "pageCount": 0.35,
+      "characterCount": 597,
+      "nonWhitespaceCharacterCount": 489,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704739476655,
-      "modifiedDate": 1702928500647,
-      "sizeInBytes": 558
+      "modifiedDate": 1704745192449,
+      "sizeInBytes": 597
     },
     "SWE/IBM Notes.md": {
       "isDirectory": false,
@@ -129,6 +129,22 @@
       "createdDate": 1704739476650,
       "modifiedDate": 1699136357000,
       "sizeInBytes": 491
+    },
+    "School/Events.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476606,
+      "modifiedDate": 1704744229782,
+      "sizeInBytes": 0
     },
     "School/Fall 2023/STA2023/Chapter 6 - Sampling Distributions.md": {
       "isDirectory": false,
@@ -242,22 +258,6 @@
       "modifiedDate": 1691607076000,
       "sizeInBytes": 36
     },
-    "School/Fall 2023/PHY2049C/Module 2 - Gauss's Law.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 106,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 709,
-      "nonWhitespaceCharacterCount": 603,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739476633,
-      "modifiedDate": 1693229898000,
-      "sizeInBytes": 771
-    },
     "School/Fall 2023/PHY2049C/Module 1 - Electric Forces and Electric Fields.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -273,6 +273,22 @@
       "createdDate": 1704739476632,
       "modifiedDate": 1692970525000,
       "sizeInBytes": 2975
+    },
+    "School/Fall 2023/PHY2049C/Module 2 - Gauss's Law.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 709,
+      "nonWhitespaceCharacterCount": 603,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704739476633,
+      "modifiedDate": 1693229898000,
+      "sizeInBytes": 771
     },
     "School/Fall 2023/PHY2049C/Homework/Homework 27 - Current and Resistance.md": {
       "isDirectory": false,
@@ -386,22 +402,6 @@
       "modifiedDate": 1694525941000,
       "sizeInBytes": 0
     },
-    "School/Fall 2023/Assignment List.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 136,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4533333333333333,
-      "characterCount": 854,
-      "nonWhitespaceCharacterCount": 717,
-      "linkCount": 15,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476609,
-      "modifiedDate": 1693489010000,
-      "sizeInBytes": 864
-    },
     "School/Fall 2023/COP3223C/C Programming Syntax Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -434,21 +434,37 @@
       "modifiedDate": 1692707244000,
       "sizeInBytes": 4154
     },
-    "School/Events.md": {
+    "School/Fall 2023/Assignment List.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 21,
+      "wordCount": 136,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 123,
-      "nonWhitespaceCharacterCount": 103,
-      "linkCount": 2,
+      "pageCount": 0.4533333333333333,
+      "characterCount": 854,
+      "nonWhitespaceCharacterCount": 717,
+      "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476606,
-      "modifiedDate": 1693247127000,
-      "sizeInBytes": 123
+      "createdDate": 1704739476609,
+      "modifiedDate": 1693489010000,
+      "sizeInBytes": 864
+    },
+    "Programming/Practice Problems/matchingStrings.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 1239,
+      "nonWhitespaceCharacterCount": 968,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704739476598,
+      "modifiedDate": 1692045305000,
+      "sizeInBytes": 1542
     },
     "Programming/Practice Problems/timeConversion.md": {
       "isDirectory": false,
@@ -497,22 +513,6 @@
       "createdDate": 1704739476599,
       "modifiedDate": 1692045305000,
       "sizeInBytes": 1253
-    },
-    "Programming/Practice Problems/matchingStrings.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 142,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.47333333333333333,
-      "characterCount": 1239,
-      "nonWhitespaceCharacterCount": 968,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739476598,
-      "modifiedDate": 1692045305000,
-      "sizeInBytes": 1542
     },
     "Programming/Practice Problems/lonelyInt.md": {
       "isDirectory": false,
@@ -818,22 +818,6 @@
       "modifiedDate": 1692214803119,
       "sizeInBytes": 239
     },
-    "Life/People/Dylan.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 228,
-      "nonWhitespaceCharacterCount": 196,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476480,
-      "modifiedDate": 1691607076000,
-      "sizeInBytes": 228
-    },
     "Life/People/Briana.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -849,6 +833,22 @@
       "createdDate": 1704739476479,
       "modifiedDate": 1692388629000,
       "sizeInBytes": 902
+    },
+    "Life/People/Dylan.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 228,
+      "nonWhitespaceCharacterCount": 196,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476480,
+      "modifiedDate": 1691607076000,
+      "sizeInBytes": 228
     },
     "Life/People/Anto.md": {
       "isDirectory": false,
@@ -898,7 +898,7 @@
       "modifiedDate": 1699153277000,
       "sizeInBytes": 676
     },
-    "Life/Journal/Daily Notes/2024-01-03.md": {
+    "Life/Journal/Daily Notes/2023-09-12.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 209,
@@ -910,9 +910,9 @@
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476472,
-      "modifiedDate": 1704318641293,
-      "sizeInBytes": 1644
+      "createdDate": 1704739476411,
+      "modifiedDate": 1694559487000,
+      "sizeInBytes": 1653
     },
     "Life/Journal/Daily Notes/2024-01-08.md": {
       "isDirectory": false,
@@ -928,6 +928,22 @@
       "aliases": null,
       "createdDate": 1704739476472,
       "modifiedDate": 1704738448499,
+      "sizeInBytes": 1644
+    },
+    "Life/Journal/Daily Notes/2024-01-03.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 209,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1486,
+      "nonWhitespaceCharacterCount": 1249,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476472,
+      "modifiedDate": 1704318641293,
       "sizeInBytes": 1644
     },
     "Life/Journal/Daily Notes/2023-12-21.md": {
@@ -960,22 +976,6 @@
       "aliases": null,
       "createdDate": 1704739476470,
       "modifiedDate": 1702928485905,
-      "sizeInBytes": 1644
-    },
-    "Life/Journal/Daily Notes/2023-12-12.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 209,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6966666666666667,
-      "characterCount": 1486,
-      "nonWhitespaceCharacterCount": 1249,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476467,
-      "modifiedDate": 1702417367674,
       "sizeInBytes": 1644
     },
     "Life/Journal/Daily Notes/2023-12-17.md": {
@@ -1024,6 +1024,22 @@
       "aliases": null,
       "createdDate": 1704739476468,
       "modifiedDate": 1702521495541,
+      "sizeInBytes": 1644
+    },
+    "Life/Journal/Daily Notes/2023-12-12.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 209,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1486,
+      "nonWhitespaceCharacterCount": 1249,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476467,
+      "modifiedDate": 1702417367674,
       "sizeInBytes": 1644
     },
     "Life/Journal/Daily Notes/2023-12-11.md": {
@@ -1922,6 +1938,22 @@
       "modifiedDate": 1695128936000,
       "sizeInBytes": 1655
     },
+    "Life/Journal/Daily Notes/2023-09-15.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 209,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1486,
+      "nonWhitespaceCharacterCount": 1249,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476414,
+      "modifiedDate": 1694959439000,
+      "sizeInBytes": 1655
+    },
     "Life/Journal/Daily Notes/2023-09-17.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1952,22 +1984,6 @@
       "aliases": null,
       "createdDate": 1704739476414,
       "modifiedDate": 1694959413000,
-      "sizeInBytes": 1655
-    },
-    "Life/Journal/Daily Notes/2023-09-15.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 209,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6966666666666667,
-      "characterCount": 1486,
-      "nonWhitespaceCharacterCount": 1249,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476414,
-      "modifiedDate": 1694959439000,
       "sizeInBytes": 1655
     },
     "Life/Journal/Daily Notes/2023-09-14.md": {
@@ -2001,22 +2017,6 @@
       "createdDate": 1704739476411,
       "modifiedDate": 1694706058000,
       "sizeInBytes": 1656
-    },
-    "Life/Journal/Daily Notes/2023-09-12.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 209,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6966666666666667,
-      "characterCount": 1486,
-      "nonWhitespaceCharacterCount": 1249,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476411,
-      "modifiedDate": 1694559487000,
-      "sizeInBytes": 1653
     },
     "Life/Journal/Daily Notes/2023-09-11.md": {
       "isDirectory": false,
@@ -2626,6 +2626,22 @@
       "modifiedDate": 1691607076000,
       "sizeInBytes": 417
     },
+    "Life/Habits/Mood Tracker.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 288,
+      "nonWhitespaceCharacterCount": 252,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476367,
+      "modifiedDate": 1691607075000,
+      "sizeInBytes": 288
+    },
     "Life/Habits/Sleep Tracker.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2673,22 +2689,6 @@
       "createdDate": 1704739476366,
       "modifiedDate": 1691607076000,
       "sizeInBytes": 467
-    },
-    "Life/Habits/Mood Tracker.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 288,
-      "nonWhitespaceCharacterCount": 252,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476367,
-      "modifiedDate": 1691607075000,
-      "sizeInBytes": 288
     },
     "Life/Habits/Gym Tracker.md": {
       "isDirectory": false,
@@ -2882,6 +2882,22 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 251
     },
+    "D&D/Player View/Territories/Sarai Desert/Sarai Culture.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 330,
+      "nonWhitespaceCharacterCount": 281,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476324,
+      "modifiedDate": 1691607075000,
+      "sizeInBytes": 330
+    },
     "D&D/Player View/Territories/Sarai Desert/Sarai Places.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2897,6 +2913,22 @@
       "createdDate": 1704739476330,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 67
+    },
+    "D&D/Player View/Territories/Sarai Desert/Sarai Geography.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21,
+      "characterCount": 984369,
+      "nonWhitespaceCharacterCount": 984305,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476327,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 984369
     },
     "D&D/Player View/Territories/Sarai Desert/Sarai People and Groups.md": {
       "isDirectory": false,
@@ -2930,22 +2962,6 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 189160
     },
-    "D&D/Player View/Territories/Sarai Desert/Sarai Geography.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 63,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21,
-      "characterCount": 984369,
-      "nonWhitespaceCharacterCount": 984305,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476327,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 984369
-    },
     "D&D/Player View/Territories/Sarai Desert/Sarai Desert.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2978,21 +2994,21 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 298
     },
-    "D&D/Player View/Territories/Sarai Desert/Sarai Culture.md": {
+    "D&D/Player View/Territories/Sarai Desert/Places/Sethara.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 50,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 330,
-      "nonWhitespaceCharacterCount": 281,
-      "linkCount": 2,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 1860551,
+      "nonWhitespaceCharacterCount": 1860464,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476324,
-      "modifiedDate": 1691607075000,
-      "sizeInBytes": 330
+      "createdDate": 1704739476336,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 1860551
     },
     "D&D/Player View/Territories/Sarai Desert/Places/The Radiant Halls.md": {
       "isDirectory": false,
@@ -3009,22 +3025,6 @@
       "createdDate": 1704739476337,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 160
-    },
-    "D&D/Player View/Territories/Sarai Desert/Places/Sethara.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 83,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 1860551,
-      "nonWhitespaceCharacterCount": 1860464,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476336,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 1860551
     },
     "D&D/Player View/Territories/Sarai Desert/People/Setre.md": {
       "isDirectory": false,
@@ -3170,70 +3170,6 @@
       "modifiedDate": 1690574356000,
       "sizeInBytes": 426252
     },
-    "D&D/Player View/Territories/Rexia/Places/Undying Fortress.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 140,
-      "nonWhitespaceCharacterCount": 119,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476319,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 140
-    },
-    "D&D/Player View/Territories/Rexia/Places/Mount Hippon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 136,
-      "nonWhitespaceCharacterCount": 115,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476318,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 136
-    },
-    "D&D/Player View/Territories/Rexia/Places/Forgiving Lands.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 109,
-      "nonWhitespaceCharacterCount": 93,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476316,
-      "modifiedDate": 1691607073000,
-      "sizeInBytes": 109
-    },
-    "D&D/Player View/Territories/Rexia/Places/Deadman's Pass.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 170,
-      "nonWhitespaceCharacterCount": 142,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476316,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 170
-    },
     "D&D/Player View/Territories/Rexia/People/The Rexian Might.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3298,21 +3234,69 @@
       "modifiedDate": 1691607075000,
       "sizeInBytes": 264
     },
-    "D&D/Player View/Territories/Old Stones/Places/Forest Unyielding.md": {
+    "D&D/Player View/Territories/Rexia/Places/Undying Fortress.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 46,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 259,
-      "nonWhitespaceCharacterCount": 214,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 140,
+      "nonWhitespaceCharacterCount": 119,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476319,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 140
+    },
+    "D&D/Player View/Territories/Rexia/Places/Mount Hippon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 136,
+      "nonWhitespaceCharacterCount": 115,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476318,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 136
+    },
+    "D&D/Player View/Territories/Rexia/Places/Forgiving Lands.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 93,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476287,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 261
+      "createdDate": 1704739476316,
+      "modifiedDate": 1691607073000,
+      "sizeInBytes": 109
+    },
+    "D&D/Player View/Territories/Rexia/Places/Deadman's Pass.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 170,
+      "nonWhitespaceCharacterCount": 142,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476316,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 170
     },
     "D&D/Player View/Territories/Old Stones/Places/Lake Arbor.md": {
       "isDirectory": false,
@@ -3362,6 +3346,54 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 327
     },
+    "D&D/Player View/Territories/Old Stones/Places/Forest Unyielding.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 214,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476287,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 261
+    },
+    "D&D/Player View/Territories/Old Stones/Old Stones.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 216,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.72,
+      "characterCount": 1019711,
+      "nonWhitespaceCharacterCount": 1019494,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476274,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 1019711
+    },
+    "D&D/Player View/Territories/Old Stones/Old Stones Places.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 126,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476273,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 149
+    },
     "D&D/Player View/Territories/Old Stones/People/The High Scholars of the Old Stones.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3410,38 +3442,6 @@
       "modifiedDate": 1691607073000,
       "sizeInBytes": 319
     },
-    "D&D/Player View/Territories/Old Stones/Old Stones.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 216,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.72,
-      "characterCount": 1019711,
-      "nonWhitespaceCharacterCount": 1019494,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476274,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 1019711
-    },
-    "D&D/Player View/Territories/Old Stones/Old Stones Places.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 126,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476273,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 149
-    },
     "D&D/Player View/Territories/Old Stones/Old Stones People and Groups.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3458,22 +3458,6 @@
       "modifiedDate": 1691607074000,
       "sizeInBytes": 180
     },
-    "D&D/Player View/Territories/Old Stones/Old Stones Government.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 128,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4266666666666667,
-      "characterCount": 774,
-      "nonWhitespaceCharacterCount": 646,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476272,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 774
-    },
     "D&D/Player View/Territories/Old Stones/Old Stones Geography.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3489,6 +3473,22 @@
       "createdDate": 1704739476270,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 678789
+    },
+    "D&D/Player View/Territories/Old Stones/Old Stones Government.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 128,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 774,
+      "nonWhitespaceCharacterCount": 646,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476272,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 774
     },
     "D&D/Player View/Territories/Old Stones/Old Stones Demographics.md": {
       "isDirectory": false,
@@ -3570,6 +3570,22 @@
       "modifiedDate": 1690574356000,
       "sizeInBytes": 197
     },
+    "D&D/Player View/Territories/Morellus/Places/Districts/Northern District.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 449,
+      "nonWhitespaceCharacterCount": 373,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476260,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 449
+    },
     "D&D/Player View/Territories/Morellus/Places/Districts/Western District.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3601,22 +3617,6 @@
       "createdDate": 1704739476261,
       "modifiedDate": 1690574356000,
       "sizeInBytes": 401
-    },
-    "D&D/Player View/Territories/Morellus/Places/Districts/Northern District.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 65,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 449,
-      "nonWhitespaceCharacterCount": 373,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476260,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 449
     },
     "D&D/Player View/Territories/Morellus/Places/Districts/Eastern District.md": {
       "isDirectory": false,
@@ -3730,38 +3730,6 @@
       "modifiedDate": 1690583538830,
       "sizeInBytes": 657
     },
-    "D&D/Player View/Territories/Morellus/People/The Formidable Five (former).md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 61,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 387,
-      "nonWhitespaceCharacterCount": 327,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476243,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 387
-    },
-    "D&D/Player View/Territories/Morellus/People/Odra Marves.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 226,
-      "nonWhitespaceCharacterCount": 196,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476237,
-      "modifiedDate": 1691607075000,
-      "sizeInBytes": 226
-    },
     "D&D/Player View/Territories/Morellus/People/The Ivory Wardens.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3778,21 +3746,21 @@
       "modifiedDate": 1691607073000,
       "sizeInBytes": 204
     },
-    "D&D/Player View/Territories/Morellus/People/The Blitz.md": {
+    "D&D/Player View/Territories/Morellus/People/The Formidable Five (former).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 86,
+      "wordCount": 61,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2866666666666667,
-      "characterCount": 550,
-      "nonWhitespaceCharacterCount": 465,
-      "linkCount": 2,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 387,
+      "nonWhitespaceCharacterCount": 327,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476242,
+      "createdDate": 1704739476243,
       "modifiedDate": 1690574356000,
-      "sizeInBytes": 550
+      "sizeInBytes": 387
     },
     "D&D/Player View/Territories/Morellus/People/Revelare Ammortis.md": {
       "isDirectory": false,
@@ -3810,6 +3778,22 @@
       "modifiedDate": 1691607073000,
       "sizeInBytes": 292
     },
+    "D&D/Player View/Territories/Morellus/People/The Blitz.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 86,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 550,
+      "nonWhitespaceCharacterCount": 465,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476242,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 550
+    },
     "D&D/Player View/Territories/Morellus/People/Queen Sejua.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3825,22 +3809,6 @@
       "createdDate": 1704739476240,
       "modifiedDate": 1690574356000,
       "sizeInBytes": 198
-    },
-    "D&D/Player View/Territories/Morellus/People/Princess Jaedra.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 190,
-      "linkCount": 6,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739476239,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 221
     },
     "D&D/Player View/Territories/Morellus/People/Prince Sylna.md": {
       "isDirectory": false,
@@ -3858,21 +3826,21 @@
       "modifiedDate": 1690574356000,
       "sizeInBytes": 210
     },
-    "D&D/Player View/Territories/Morellus/People/Morellan Scholar Society.md": {
+    "D&D/Player View/Territories/Morellus/People/Princess Jaedra.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 56,
+      "wordCount": 31,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 389,
-      "nonWhitespaceCharacterCount": 334,
-      "linkCount": 3,
-      "embedCount": 0,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 190,
+      "linkCount": 6,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1704739476237,
+      "createdDate": 1704739476239,
       "modifiedDate": 1690574356000,
-      "sizeInBytes": 389
+      "sizeInBytes": 221
     },
     "D&D/Player View/Territories/Morellus/People/Lightbringers.md": {
       "isDirectory": false,
@@ -3889,6 +3857,38 @@
       "createdDate": 1704739476236,
       "modifiedDate": 1690574356000,
       "sizeInBytes": 460
+    },
+    "D&D/Player View/Territories/Morellus/People/Odra Marves.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 226,
+      "nonWhitespaceCharacterCount": 196,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476237,
+      "modifiedDate": 1691607075000,
+      "sizeInBytes": 226
+    },
+    "D&D/Player View/Territories/Morellus/People/Morellan Scholar Society.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 389,
+      "nonWhitespaceCharacterCount": 334,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476237,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 389
     },
     "D&D/Player View/Territories/Morellus/People/Liberation Mages (former).md": {
       "isDirectory": false,
@@ -4210,6 +4210,22 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 90
     },
+    "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 6319768,
+      "nonWhitespaceCharacterCount": 6319675,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476168,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 6319768
+    },
     "D&D/Player View/Territories/Haunted Wilds/Wilds People and Groups.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4241,22 +4257,6 @@
       "createdDate": 1704739476178,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 421
-    },
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 92,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 6319768,
-      "nonWhitespaceCharacterCount": 6319675,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476168,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 6319768
     },
     "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics.md": {
       "isDirectory": false,
@@ -4338,22 +4338,6 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 398082
     },
-    "D&D/Player View/Territories/Haunted Wilds/Haunted Wilds.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 164,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5466666666666666,
-      "characterCount": 371231,
-      "nonWhitespaceCharacterCount": 371066,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476162,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 371232
-    },
     "D&D/Player View/Territories/Haunted Wilds/People/Killroy Styx.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4370,6 +4354,22 @@
       "modifiedDate": 1691607074000,
       "sizeInBytes": 241
     },
+    "D&D/Player View/Territories/Haunted Wilds/Haunted Wilds.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 164,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5466666666666666,
+      "characterCount": 371231,
+      "nonWhitespaceCharacterCount": 371066,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476162,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 371232
+    },
     "D&D/Player View/Territories/Dragonhide Summits/Places/The Rager-Den.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4385,6 +4385,22 @@
       "createdDate": 1704739476156,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 742461
+    },
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Summits.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 229,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7633333333333333,
+      "characterCount": 464440,
+      "nonWhitespaceCharacterCount": 464208,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476147,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 464440
     },
     "D&D/Player View/Territories/Dragonhide Summits/People/Zulu, the Bronze Dragon.md": {
       "isDirectory": false,
@@ -4434,21 +4450,21 @@
       "modifiedDate": 1690583490165,
       "sizeInBytes": 331
     },
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Summits.md": {
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Places.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 229,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7633333333333333,
-      "characterCount": 464440,
-      "nonWhitespaceCharacterCount": 464208,
-      "linkCount": 1,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 79,
+      "nonWhitespaceCharacterCount": 69,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739476147,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 464440
+      "createdDate": 1704739476146,
+      "modifiedDate": 1691607074000,
+      "sizeInBytes": 79
     },
     "D&D/Player View/Territories/Dragonhide Summits/Dragonhide People and Groups.md": {
       "isDirectory": false,
@@ -4465,22 +4481,6 @@
       "createdDate": 1704739476145,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 188
-    },
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Places.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 79,
-      "nonWhitespaceCharacterCount": 69,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476146,
-      "modifiedDate": 1691607074000,
-      "sizeInBytes": 79
     },
     "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Government.md": {
       "isDirectory": false,
@@ -4546,22 +4546,6 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 174721
     },
-    "D&D/Player View/Territories/Claystone Mages/Places/The Grand Morellan Ports.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 332,
-      "nonWhitespaceCharacterCount": 280,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476135,
-      "modifiedDate": 1690574357000,
-      "sizeInBytes": 332
-    },
     "D&D/Player View/Territories/Claystone Mages/Places/Earthenhaven.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4577,6 +4561,22 @@
       "createdDate": 1704739476134,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 128
+    },
+    "D&D/Player View/Territories/Claystone Mages/Places/The Grand Morellan Ports.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 332,
+      "nonWhitespaceCharacterCount": 280,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476135,
+      "modifiedDate": 1690574357000,
+      "sizeInBytes": 332
     },
     "D&D/Player View/Territories/Claystone Mages/People and Groups/The Tempest.md": {
       "isDirectory": false,
@@ -4738,22 +4738,6 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 32769
     },
-    "D&D/Player View/Territories/Arboran Commonwealth/Places/Whispering Hollow.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 49,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 285,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476112,
-      "modifiedDate": 1691607075000,
-      "sizeInBytes": 334
-    },
     "D&D/Player View/Territories/Arboran Commonwealth/Places/Rootwood Enclave.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4769,6 +4753,22 @@
       "createdDate": 1704739476111,
       "modifiedDate": 1691607074000,
       "sizeInBytes": 291
+    },
+    "D&D/Player View/Territories/Arboran Commonwealth/Places/Whispering Hollow.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 285,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476112,
+      "modifiedDate": 1691607075000,
+      "sizeInBytes": 334
     },
     "D&D/Player View/Territories/Arboran Commonwealth/Places/Canopy's Edge.md": {
       "isDirectory": false,
@@ -4786,22 +4786,6 @@
       "modifiedDate": 1690574356000,
       "sizeInBytes": 270
     },
-    "D&D/Player View/Territories/Arboran Commonwealth/Places/Barkshroud Glade.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 42,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14,
-      "characterCount": 275,
-      "nonWhitespaceCharacterCount": 234,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476109,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 275
-    },
     "D&D/Player View/Territories/Arboran Commonwealth/Places/Arboran Academy of Arcane Arts.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4817,6 +4801,22 @@
       "createdDate": 1704739476108,
       "modifiedDate": 1690574357000,
       "sizeInBytes": 271
+    },
+    "D&D/Player View/Territories/Arboran Commonwealth/Places/Barkshroud Glade.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 275,
+      "nonWhitespaceCharacterCount": 234,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476109,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 275
     },
     "D&D/Player View/Territories/Arboran Commonwealth/People and Groups/The Verdant Assembly.md": {
       "isDirectory": false,
@@ -4930,22 +4930,6 @@
       "modifiedDate": 1690574356000,
       "sizeInBytes": 208
     },
-    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Geography.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 99,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 124949,
-      "nonWhitespaceCharacterCount": 124849,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739476090,
-      "modifiedDate": 1690574356000,
-      "sizeInBytes": 124949
-    },
     "D&D/Player View/Territories/Arboran Commonwealth/Arboran Government.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4961,6 +4945,22 @@
       "createdDate": 1704739476090,
       "modifiedDate": 1690574356000,
       "sizeInBytes": 600
+    },
+    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Geography.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 99,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33,
+      "characterCount": 124949,
+      "nonWhitespaceCharacterCount": 124849,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739476090,
+      "modifiedDate": 1690574356000,
+      "sizeInBytes": 124949
     },
     "D&D/Player View/Territories/Arboran Commonwealth/Arboran Demographics.md": {
       "isDirectory": false,
@@ -5122,22 +5122,6 @@
       "modifiedDate": 1698696425000,
       "sizeInBytes": 3008
     },
-    "D&D/Player View/Miravalis/Power System.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2413,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.043333333333333,
-      "characterCount": 31938,
-      "nonWhitespaceCharacterCount": 13057,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739475979,
-      "modifiedDate": 1700691730000,
-      "sizeInBytes": 31940
-    },
     "D&D/Player View/Miravalis/Power System Drawing.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5153,6 +5137,22 @@
       "createdDate": 1704739475979,
       "modifiedDate": 1691607077000,
       "sizeInBytes": 17434
+    },
+    "D&D/Player View/Miravalis/Power System.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2413,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.043333333333333,
+      "characterCount": 31938,
+      "nonWhitespaceCharacterCount": 13057,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704739475979,
+      "modifiedDate": 1700691730000,
+      "sizeInBytes": 31940
     },
     "D&D/Player View/Miravalis/Power System Changelog.md": {
       "isDirectory": false,
@@ -5266,21 +5266,309 @@
       "modifiedDate": 1690574357000,
       "sizeInBytes": 492
     },
-    "D&D/Game Information/Statblocks/Zombie Knight.md": {
+    "D&D/Game Information/Resources/Temporal Dread/Ecliptics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 1014,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 35,
+      "pageCount": 3.38,
+      "characterCount": 6522,
+      "nonWhitespaceCharacterCount": 5488,
+      "linkCount": 0,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1704739475389,
+      "modifiedDate": 1702768078086,
+      "sizeInBytes": 6524
+    },
+    "D&D/Game Information/Resources/Temporal Dread/Structure.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 282,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.94,
+      "characterCount": 1643,
+      "nonWhitespaceCharacterCount": 1360,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739475962,
-      "modifiedDate": 1693934015000,
-      "sizeInBytes": 1482
+      "createdDate": 1704739475390,
+      "modifiedDate": 1702750023460,
+      "sizeInBytes": 1643
+    },
+    "D&D/Game Information/Resources/Story Progression.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 89,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 473,
+      "nonWhitespaceCharacterCount": 384,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475335,
+      "modifiedDate": 1699136357000,
+      "sizeInBytes": 473
+    },
+    "D&D/Game Information/Resources/Insanity Chart.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704739475333,
+      "modifiedDate": 1691607077000,
+      "sizeInBytes": 36
+    },
+    "D&D/Game Information/Resources/Morellus Travel/Morellus Travel Map.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1704739475361,
+      "modifiedDate": 1693164459000,
+      "sizeInBytes": 31534
+    },
+    "D&D/Game Information/Resources/Injury Chart.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1704739475332,
+      "modifiedDate": 1691607075000,
+      "sizeInBytes": 37
+    },
+    "D&D/Game Information/Resources/Critical Fumbles.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 544,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8133333333333332,
+      "characterCount": 3391,
+      "nonWhitespaceCharacterCount": 2843,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1704739475331,
+      "modifiedDate": 1691607076000,
+      "sizeInBytes": 3391
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/First 2 Year Schedule.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 671,
+      "nonWhitespaceCharacterCount": 563,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475340,
+      "modifiedDate": 1699136357000,
+      "sizeInBytes": 671
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Curriculum Breakdown.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 303,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.01,
+      "characterCount": 1735,
+      "nonWhitespaceCharacterCount": 1428,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475339,
+      "modifiedDate": 1702330912000,
+      "sizeInBytes": 1735
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Colleges.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1162,
+      "nonWhitespaceCharacterCount": 976,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475338,
+      "modifiedDate": 1702330410246,
+      "sizeInBytes": 1162
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 302,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0066666666666666,
+      "characterCount": 2041,
+      "nonWhitespaceCharacterCount": 1733,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475345,
+      "modifiedDate": 1703136127506,
+      "sizeInBytes": 2041
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 367,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2233333333333334,
+      "characterCount": 2614,
+      "nonWhitespaceCharacterCount": 2239,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475344,
+      "modifiedDate": 1702332517690,
+      "sizeInBytes": 2614
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 336,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.12,
+      "characterCount": 2276,
+      "nonWhitespaceCharacterCount": 1931,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475343,
+      "modifiedDate": 1702332537826,
+      "sizeInBytes": 2276
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 695,
+      "nonWhitespaceCharacterCount": 612,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475351,
+      "modifiedDate": 1702331732700,
+      "sizeInBytes": 695
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 645,
+      "nonWhitespaceCharacterCount": 559,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475351,
+      "modifiedDate": 1702331789660,
+      "sizeInBytes": 645
+    },
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 710,
+      "nonWhitespaceCharacterCount": 614,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475350,
+      "modifiedDate": 1702331769408,
+      "sizeInBytes": 710
+    },
+    "D&D/Game Information/Resources/Critical Hits Revised.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 645,
+      "nonWhitespaceCharacterCount": 569,
+      "linkCount": 0,
+      "embedCount": 13,
+      "aliases": null,
+      "createdDate": 1704739475332,
+      "modifiedDate": 1691607076000,
+      "sizeInBytes": 645
+    },
+    "D&D/Game Information/Statblocks/Young Amethyst Dragon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 42,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475946,
+      "modifiedDate": 1693934028000,
+      "sizeInBytes": 3545
+    },
+    "D&D/Game Information/Statblocks/Yeti.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 27,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475945,
+      "modifiedDate": 1693925001000,
+      "sizeInBytes": 1686
     },
     "D&D/Game Information/Statblocks/Zombie.md": {
       "isDirectory": false,
@@ -5297,6 +5585,22 @@
       "createdDate": 1704739475963,
       "modifiedDate": 1693934021000,
       "sizeInBytes": 1262
+    },
+    "D&D/Game Information/Statblocks/Zombie Knight.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475962,
+      "modifiedDate": 1693934015000,
+      "sizeInBytes": 1482
     },
     "D&D/Game Information/Statblocks/Zombie Horde.md": {
       "isDirectory": false,
@@ -5570,22 +5874,6 @@
       "modifiedDate": 1693934017000,
       "sizeInBytes": 3577
     },
-    "D&D/Game Information/Statblocks/Young Amethyst Dragon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 49,
-      "nonWhitespaceCharacterCount": 42,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475946,
-      "modifiedDate": 1693934028000,
-      "sizeInBytes": 3545
-    },
     "D&D/Game Information/Statblocks/Yobbo.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5601,22 +5889,6 @@
       "createdDate": 1704739475945,
       "modifiedDate": 1693925001000,
       "sizeInBytes": 2235
-    },
-    "D&D/Game Information/Statblocks/Yeti.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 27,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475945,
-      "modifiedDate": 1693925001000,
-      "sizeInBytes": 1686
     },
     "D&D/Game Information/Statblocks/Xorn.md": {
       "isDirectory": false,
@@ -5666,22 +5938,6 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 2653
     },
-    "D&D/Game Information/Statblocks/Wraith Lord.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 39,
-      "nonWhitespaceCharacterCount": 33,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475941,
-      "modifiedDate": 1693934016000,
-      "sizeInBytes": 3950
-    },
     "D&D/Game Information/Statblocks/Worg.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5697,6 +5953,22 @@
       "createdDate": 1704739475941,
       "modifiedDate": 1693925001000,
       "sizeInBytes": 740
+    },
+    "D&D/Game Information/Statblocks/Wraith Lord.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 39,
+      "nonWhitespaceCharacterCount": 33,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475941,
+      "modifiedDate": 1693934016000,
+      "sizeInBytes": 3950
     },
     "D&D/Game Information/Statblocks/Wood Elf Sharpshooter.md": {
       "isDirectory": false,
@@ -5810,6 +6082,22 @@
       "modifiedDate": 1693934021000,
       "sizeInBytes": 2142
     },
+    "D&D/Game Information/Statblocks/Wereboar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 31,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475929,
+      "modifiedDate": 1693934028000,
+      "sizeInBytes": 2516
+    },
     "D&D/Game Information/Statblocks/Wight.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5890,21 +6178,21 @@
       "modifiedDate": 1693925001000,
       "sizeInBytes": 2696
     },
-    "D&D/Game Information/Statblocks/Wereboar.md": {
+    "D&D/Game Information/Statblocks/Weasel.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.013333333333333334,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 31,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 29,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739475929,
-      "modifiedDate": 1693934028000,
-      "sizeInBytes": 2516
+      "createdDate": 1704739475927,
+      "modifiedDate": 1693925001000,
+      "sizeInBytes": 727
     },
     "D&D/Game Information/Statblocks/Werebear.md": {
       "isDirectory": false,
@@ -5922,22 +6210,6 @@
       "modifiedDate": 1693934017000,
       "sizeInBytes": 2815
     },
-    "D&D/Game Information/Statblocks/Weasel.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 34,
-      "nonWhitespaceCharacterCount": 29,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475927,
-      "modifiedDate": 1693925001000,
-      "sizeInBytes": 727
-    },
     "D&D/Game Information/Statblocks/Water Elemental.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5953,38 +6225,6 @@
       "createdDate": 1704739475925,
       "modifiedDate": 1693934016000,
       "sizeInBytes": 1968
-    },
-    "D&D/Game Information/Statblocks/Warrior.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 30,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475925,
-      "modifiedDate": 1693925001000,
-      "sizeInBytes": 952
-    },
-    "D&D/Game Information/Statblocks/Warrior Band.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 40,
-      "nonWhitespaceCharacterCount": 34,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475924,
-      "modifiedDate": 1693934013000,
-      "sizeInBytes": 1377
     },
     "D&D/Game Information/Statblocks/Warlord's Ghost.md": {
       "isDirectory": false,
@@ -6002,6 +6242,22 @@
       "modifiedDate": 1693934013000,
       "sizeInBytes": 2449
     },
+    "D&D/Game Information/Statblocks/Warrior.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475925,
+      "modifiedDate": 1693925001000,
+      "sizeInBytes": 952
+    },
     "D&D/Game Information/Statblocks/Warhorse.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6017,6 +6273,22 @@
       "createdDate": 1704739475923,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 575
+    },
+    "D&D/Game Information/Statblocks/Warrior Band.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475924,
+      "modifiedDate": 1693934013000,
+      "sizeInBytes": 1377
     },
     "D&D/Game Information/Statblocks/Warhordling Orc Warrior.md": {
       "isDirectory": false,
@@ -6066,22 +6338,6 @@
       "modifiedDate": 1693934021000,
       "sizeInBytes": 3324
     },
-    "D&D/Game Information/Statblocks/Wallflower.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 38,
-      "nonWhitespaceCharacterCount": 33,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475919,
-      "modifiedDate": 1693934018000,
-      "sizeInBytes": 1469
-    },
     "D&D/Game Information/Statblocks/Walking Statue.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6097,6 +6353,22 @@
       "createdDate": 1704739475918,
       "modifiedDate": 1693925001000,
       "sizeInBytes": 1523
+    },
+    "D&D/Game Information/Statblocks/Wallflower.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 33,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475919,
+      "modifiedDate": 1693934018000,
+      "sizeInBytes": 1469
     },
     "D&D/Game Information/Statblocks/Vulture.md": {
       "isDirectory": false,
@@ -6210,22 +6482,6 @@
       "modifiedDate": 1693934028000,
       "sizeInBytes": 6365
     },
-    "D&D/Game Information/Statblocks/Vampire Spawn.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 35,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475912,
-      "modifiedDate": 1693934018000,
-      "sizeInBytes": 2510
-    },
     "D&D/Game Information/Statblocks/Vampire Mage.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6241,6 +6497,22 @@
       "createdDate": 1704739475910,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 7447
+    },
+    "D&D/Game Information/Statblocks/Vampire Spawn.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475912,
+      "modifiedDate": 1693934018000,
+      "sizeInBytes": 2510
     },
     "D&D/Game Information/Statblocks/Vampire Assassin.md": {
       "isDirectory": false,
@@ -6402,22 +6674,6 @@
       "modifiedDate": 1693934022000,
       "sizeInBytes": 6739
     },
-    "D&D/Game Information/Statblocks/Titanic Dragon Turtle.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 49,
-      "nonWhitespaceCharacterCount": 42,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475900,
-      "modifiedDate": 1693925001000,
-      "sizeInBytes": 4807
-    },
     "D&D/Game Information/Statblocks/Tiger.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6433,6 +6689,22 @@
       "createdDate": 1704739475899,
       "modifiedDate": 1693934017000,
       "sizeInBytes": 987
+    },
+    "D&D/Game Information/Statblocks/Titanic Dragon Turtle.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 42,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475900,
+      "modifiedDate": 1693925001000,
+      "sizeInBytes": 4807
     },
     "D&D/Game Information/Statblocks/Thunderbird.md": {
       "isDirectory": false,
@@ -6530,6 +6802,22 @@
       "modifiedDate": 1693925001000,
       "sizeInBytes": 1034
     },
+    "D&D/Game Information/Statblocks/Swarm of Insects.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475892,
+      "modifiedDate": 1693934021000,
+      "sizeInBytes": 1106
+    },
     "D&D/Game Information/Statblocks/Swarm of Poisonous Snakes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6561,22 +6849,6 @@
       "createdDate": 1704739475892,
       "modifiedDate": 1693925001000,
       "sizeInBytes": 1944
-    },
-    "D&D/Game Information/Statblocks/Swarm of Insects.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 37,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475892,
-      "modifiedDate": 1693934021000,
-      "sizeInBytes": 1106
     },
     "D&D/Game Information/Statblocks/Swarm of Bats.md": {
       "isDirectory": false,
@@ -6658,6 +6930,22 @@
       "modifiedDate": 1693934016000,
       "sizeInBytes": 3674
     },
+    "D&D/Game Information/Statblocks/Stone Giant Stonetalker.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475885,
+      "modifiedDate": 1693934017000,
+      "sizeInBytes": 3722
+    },
     "D&D/Game Information/Statblocks/Stone Guardian.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6689,22 +6977,6 @@
       "createdDate": 1704739475886,
       "modifiedDate": 1693934015000,
       "sizeInBytes": 2524
-    },
-    "D&D/Game Information/Statblocks/Stone Giant Stonetalker.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 51,
-      "nonWhitespaceCharacterCount": 44,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475885,
-      "modifiedDate": 1693934017000,
-      "sizeInBytes": 3722
     },
     "D&D/Game Information/Statblocks/Stone Colossus.md": {
       "isDirectory": false,
@@ -6738,22 +7010,6 @@
       "modifiedDate": 1693925001000,
       "sizeInBytes": 995
     },
-    "D&D/Game Information/Statblocks/Stegosaurus.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 39,
-      "nonWhitespaceCharacterCount": 34,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475882,
-      "modifiedDate": 1693934005000,
-      "sizeInBytes": 546
-    },
     "D&D/Game Information/Statblocks/Steam Mephit.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -6769,6 +7025,22 @@
       "createdDate": 1704739475880,
       "modifiedDate": 1693934024000,
       "sizeInBytes": 1480
+    },
+    "D&D/Game Information/Statblocks/Stegosaurus.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 39,
+      "nonWhitespaceCharacterCount": 34,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475882,
+      "modifiedDate": 1693934005000,
+      "sizeInBytes": 546
     },
     "D&D/Game Information/Statblocks/Spymaster.md": {
       "isDirectory": false,
@@ -7138,22 +7410,6 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 2566
     },
-    "D&D/Game Information/Statblocks/Shambling Mound.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 37,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475860,
-      "modifiedDate": 1693925000000,
-      "sizeInBytes": 1660
-    },
     "D&D/Game Information/Statblocks/Shadow.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -7169,6 +7425,22 @@
       "createdDate": 1704739475859,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 2079
+    },
+    "D&D/Game Information/Statblocks/Shambling Mound.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475860,
+      "modifiedDate": 1693925000000,
+      "sizeInBytes": 1660
     },
     "D&D/Game Information/Statblocks/Shadow Elf Warrior.md": {
       "isDirectory": false,
@@ -8738,22 +9010,6 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 2245
     },
-    "D&D/Game Information/Statblocks/Mountain Dwarf Defender.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 51,
-      "nonWhitespaceCharacterCount": 44,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475772,
-      "modifiedDate": 1693925000000,
-      "sizeInBytes": 2152
-    },
     "D&D/Game Information/Statblocks/Miremuck Goblin King.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -8769,6 +9025,22 @@
       "createdDate": 1704739475771,
       "modifiedDate": 1693925000000,
       "sizeInBytes": 2069
+    },
+    "D&D/Game Information/Statblocks/Mountain Dwarf Defender.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475772,
+      "modifiedDate": 1693925000000,
+      "sizeInBytes": 2152
     },
     "D&D/Game Information/Statblocks/Mirage Monster.md": {
       "isDirectory": false,
@@ -9266,22 +9538,6 @@
       "modifiedDate": 1693924999000,
       "sizeInBytes": 1734
     },
-    "D&D/Game Information/Statblocks/Lamia.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 28,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475741,
-      "modifiedDate": 1693924999000,
-      "sizeInBytes": 2497
-    },
     "D&D/Game Information/Statblocks/Lacedon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -9297,6 +9553,22 @@
       "createdDate": 1704739475741,
       "modifiedDate": 1693934015000,
       "sizeInBytes": 1688
+    },
+    "D&D/Game Information/Statblocks/Lamia.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475741,
+      "modifiedDate": 1693924999000,
+      "sizeInBytes": 2497
     },
     "D&D/Game Information/Statblocks/Kraken.md": {
       "isDirectory": false,
@@ -9538,22 +9810,6 @@
       "modifiedDate": 1693924999000,
       "sizeInBytes": 1400
     },
-    "D&D/Game Information/Statblocks/Jackalwere.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 38,
-      "nonWhitespaceCharacterCount": 33,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475727,
-      "modifiedDate": 1693934011000,
-      "sizeInBytes": 3139
-    },
     "D&D/Game Information/Statblocks/Jackalwere Pack Leader.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -9569,6 +9825,22 @@
       "createdDate": 1704739475725,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 3295
+    },
+    "D&D/Game Information/Statblocks/Jackalwere.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 33,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475727,
+      "modifiedDate": 1693934011000,
+      "sizeInBytes": 3139
     },
     "D&D/Game Information/Statblocks/Jackalope.md": {
       "isDirectory": false,
@@ -9682,6 +9954,22 @@
       "modifiedDate": 1693924999000,
       "sizeInBytes": 2524
     },
+    "D&D/Game Information/Statblocks/Horned Tauric.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475712,
+      "modifiedDate": 1693934017000,
+      "sizeInBytes": 1599
+    },
     "D&D/Game Information/Statblocks/Ice Worm.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -9713,6 +10001,22 @@
       "createdDate": 1704739475717,
       "modifiedDate": 1693934020000,
       "sizeInBytes": 1859
+    },
+    "D&D/Game Information/Statblocks/Hydra.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475715,
+      "modifiedDate": 1693934027000,
+      "sizeInBytes": 3852
     },
     "D&D/Game Information/Statblocks/Ice Devil.md": {
       "isDirectory": false,
@@ -9746,22 +10050,6 @@
       "modifiedDate": 1693934005000,
       "sizeInBytes": 595
     },
-    "D&D/Game Information/Statblocks/Hydra.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 28,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475715,
-      "modifiedDate": 1693934027000,
-      "sizeInBytes": 3852
-    },
     "D&D/Game Information/Statblocks/Hunter Shark.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -9793,22 +10081,6 @@
       "createdDate": 1704739475713,
       "modifiedDate": 1693924999000,
       "sizeInBytes": 1666
-    },
-    "D&D/Game Information/Statblocks/Horned Tauric.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 35,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475712,
-      "modifiedDate": 1693934017000,
-      "sizeInBytes": 1599
     },
     "D&D/Game Information/Statblocks/Horned Devil.md": {
       "isDirectory": false,
@@ -10418,22 +10690,6 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 7102
     },
-    "D&D/Game Information/Statblocks/Gray Ooze.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 31,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475674,
-      "modifiedDate": 1693924999000,
-      "sizeInBytes": 1832
-    },
     "D&D/Game Information/Statblocks/Gorgon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -10449,6 +10705,22 @@
       "createdDate": 1704739475673,
       "modifiedDate": 1693934013000,
       "sizeInBytes": 1738
+    },
+    "D&D/Game Information/Statblocks/Gray Ooze.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 31,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475674,
+      "modifiedDate": 1693924999000,
+      "sizeInBytes": 1832
     },
     "D&D/Game Information/Statblocks/Gold Dragon Wyrmling.md": {
       "isDirectory": false,
@@ -10546,22 +10818,6 @@
       "modifiedDate": 1693934021000,
       "sizeInBytes": 1477
     },
-    "D&D/Game Information/Statblocks/Goblin Dreadnought.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 40,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475668,
-      "modifiedDate": 1693934013000,
-      "sizeInBytes": 1315
-    },
     "D&D/Game Information/Statblocks/Goblin Boss.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -10578,21 +10834,21 @@
       "modifiedDate": 1693934013000,
       "sizeInBytes": 1566
     },
-    "D&D/Game Information/Statblocks/Goblin Alchemist.md": {
+    "D&D/Game Information/Statblocks/Goblin Dreadnought.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 38,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 40,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739475665,
+      "createdDate": 1704739475668,
       "modifiedDate": 1693934013000,
-      "sizeInBytes": 1624
+      "sizeInBytes": 1315
     },
     "D&D/Game Information/Statblocks/Goat.md": {
       "isDirectory": false,
@@ -10609,6 +10865,22 @@
       "createdDate": 1704739475664,
       "modifiedDate": 1693924999000,
       "sizeInBytes": 668
+    },
+    "D&D/Game Information/Statblocks/Goblin Alchemist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 38,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475665,
+      "modifiedDate": 1693934013000,
+      "sizeInBytes": 1624
     },
     "D&D/Game Information/Statblocks/Gnoll.md": {
       "isDirectory": false,
@@ -11122,22 +11394,6 @@
       "modifiedDate": 1693924999000,
       "sizeInBytes": 1035
     },
-    "D&D/Game Information/Statblocks/Giant Constrictor Snake.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 51,
-      "nonWhitespaceCharacterCount": 44,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475630,
-      "modifiedDate": 1693924999000,
-      "sizeInBytes": 796
-    },
     "D&D/Game Information/Statblocks/Giant Crab.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11154,21 +11410,21 @@
       "modifiedDate": 1693924999000,
       "sizeInBytes": 665
     },
-    "D&D/Game Information/Statblocks/Giant Boar.md": {
+    "D&D/Game Information/Statblocks/Giant Constrictor Snake.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 38,
-      "nonWhitespaceCharacterCount": 32,
+      "pageCount": 0.02,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 44,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704739475628,
+      "createdDate": 1704739475630,
       "modifiedDate": 1693924999000,
-      "sizeInBytes": 795
+      "sizeInBytes": 796
     },
     "D&D/Game Information/Statblocks/Giant Centipede.md": {
       "isDirectory": false,
@@ -11185,6 +11441,22 @@
       "createdDate": 1704739475630,
       "modifiedDate": 1693924999000,
       "sizeInBytes": 725
+    },
+    "D&D/Game Information/Statblocks/Giant Boar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475628,
+      "modifiedDate": 1693924999000,
+      "sizeInBytes": 795
     },
     "D&D/Game Information/Statblocks/Giant Bat.md": {
       "isDirectory": false,
@@ -11378,22 +11650,6 @@
       "modifiedDate": 1693934026000,
       "sizeInBytes": 2179
     },
-    "D&D/Game Information/Statblocks/Frog.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 32,
-      "nonWhitespaceCharacterCount": 27,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475614,
-      "modifiedDate": 1693934005000,
-      "sizeInBytes": 545
-    },
     "D&D/Game Information/Statblocks/Frost Giant Jarl.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11409,6 +11665,22 @@
       "createdDate": 1704739475615,
       "modifiedDate": 1693934018000,
       "sizeInBytes": 2458
+    },
+    "D&D/Game Information/Statblocks/Frog.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 27,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475614,
+      "modifiedDate": 1693934005000,
+      "sizeInBytes": 545
     },
     "D&D/Game Information/Statblocks/Forgotten God.md": {
       "isDirectory": false,
@@ -11426,22 +11698,6 @@
       "modifiedDate": 1693934017000,
       "sizeInBytes": 3666
     },
-    "D&D/Game Information/Statblocks/Forest Gnome Scout.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 39,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475612,
-      "modifiedDate": 1693934024000,
-      "sizeInBytes": 1233
-    },
     "D&D/Game Information/Statblocks/Forest Gnome Illusionist.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11457,6 +11713,22 @@
       "createdDate": 1704739475611,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 4249
+    },
+    "D&D/Game Information/Statblocks/Forest Gnome Scout.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475612,
+      "modifiedDate": 1693934024000,
+      "sizeInBytes": 1233
     },
     "D&D/Game Information/Statblocks/Fomorian.md": {
       "isDirectory": false,
@@ -11602,22 +11874,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 2308
     },
-    "D&D/Game Information/Statblocks/Fell Nightmare.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 42,
-      "nonWhitespaceCharacterCount": 36,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475601,
-      "modifiedDate": 1693934027000,
-      "sizeInBytes": 2057
-    },
     "D&D/Game Information/Statblocks/Fey Knight.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11633,6 +11889,22 @@
       "createdDate": 1704739475602,
       "modifiedDate": 1693934018000,
       "sizeInBytes": 2841
+    },
+    "D&D/Game Information/Statblocks/Fell Nightmare.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475601,
+      "modifiedDate": 1693934027000,
+      "sizeInBytes": 2057
     },
     "D&D/Game Information/Statblocks/Fallen Solar.md": {
       "isDirectory": false,
@@ -11794,22 +12066,6 @@
       "modifiedDate": 1693934020000,
       "sizeInBytes": 2667
     },
-    "D&D/Game Information/Statblocks/Empyrean.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 31,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475590,
-      "modifiedDate": 1693934027000,
-      "sizeInBytes": 4341
-    },
     "D&D/Game Information/Statblocks/Encounter.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11825,6 +12081,22 @@
       "createdDate": 1704739475590,
       "modifiedDate": 1692303544702,
       "sizeInBytes": 1
+    },
+    "D&D/Game Information/Statblocks/Empyrean.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 31,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475590,
+      "modifiedDate": 1693934027000,
+      "sizeInBytes": 4341
     },
     "D&D/Game Information/Statblocks/Emerald Dragon Wyrmling.md": {
       "isDirectory": false,
@@ -11938,22 +12210,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 4307
     },
-    "D&D/Game Information/Statblocks/Earth Elemental.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 37,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475583,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 1895
-    },
     "D&D/Game Information/Statblocks/Earth Dragon Wyrmling.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -11969,6 +12225,22 @@
       "createdDate": 1704739475582,
       "modifiedDate": 1693934011000,
       "sizeInBytes": 3186
+    },
+    "D&D/Game Information/Statblocks/Earth Elemental.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475583,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 1895
     },
     "D&D/Game Information/Statblocks/Eagle.md": {
       "isDirectory": false,
@@ -12290,22 +12562,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 3362
     },
-    "D&D/Game Information/Statblocks/Cosmopolitan Alchemist.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 50,
-      "nonWhitespaceCharacterCount": 44,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475530,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 2820
-    },
     "D&D/Game Information/Statblocks/Divi Noble.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -12370,22 +12626,6 @@
       "modifiedDate": 1693934018000,
       "sizeInBytes": 2125
     },
-    "D&D/Game Information/Statblocks/Dire Centipede.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 42,
-      "nonWhitespaceCharacterCount": 36,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475556,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 885
-    },
     "D&D/Game Information/Statblocks/Diplodocus.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -12401,6 +12641,22 @@
       "createdDate": 1704739475555,
       "modifiedDate": 1693924998000,
       "sizeInBytes": 793
+    },
+    "D&D/Game Information/Statblocks/Dire Centipede.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475556,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 885
     },
     "D&D/Game Information/Statblocks/Deva.md": {
       "isDirectory": false,
@@ -12786,6 +13042,22 @@
       "modifiedDate": 1693934016000,
       "sizeInBytes": 2966
     },
+    "D&D/Game Information/Statblocks/Cosmopolitan Alchemist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475530,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 2820
+    },
     "D&D/Game Information/Statblocks/Coralfish.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13170,22 +13442,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 2342
     },
-    "D&D/Game Information/Statblocks/Bugbear.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 30,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475502,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 1677
-    },
     "D&D/Game Information/Statblocks/Bugbear Chief.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13201,6 +13457,22 @@
       "createdDate": 1704739475500,
       "modifiedDate": 1693924998000,
       "sizeInBytes": 1447
+    },
+    "D&D/Game Information/Statblocks/Bugbear.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475502,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 1677
     },
     "D&D/Game Information/Statblocks/Brown Bear.md": {
       "isDirectory": false,
@@ -13218,22 +13490,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 868
     },
-    "D&D/Game Information/Statblocks/Bronze Dragon Wyrmling.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 50,
-      "nonWhitespaceCharacterCount": 43,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475498,
-      "modifiedDate": 1693934027000,
-      "sizeInBytes": 2610
-    },
     "D&D/Game Information/Statblocks/Brass Dragon Wyrmling.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13249,6 +13505,22 @@
       "createdDate": 1704739475497,
       "modifiedDate": 1693934028000,
       "sizeInBytes": 2783
+    },
+    "D&D/Game Information/Statblocks/Bronze Dragon Wyrmling.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475498,
+      "modifiedDate": 1693934027000,
+      "sizeInBytes": 2610
     },
     "D&D/Game Information/Statblocks/Bone Devil.md": {
       "isDirectory": false,
@@ -13394,22 +13666,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 822
     },
-    "D&D/Game Information/Statblocks/Black Pudding.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 35,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475485,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 2375
-    },
     "D&D/Game Information/Statblocks/Blackguard.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13426,22 +13682,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 2069
     },
-    "D&D/Game Information/Statblocks/Black Dragon Wyrmling.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 49,
-      "nonWhitespaceCharacterCount": 42,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475484,
-      "modifiedDate": 1693934015000,
-      "sizeInBytes": 2390
-    },
     "D&D/Game Information/Statblocks/Black Bear.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13457,6 +13697,38 @@
       "createdDate": 1704739475483,
       "modifiedDate": 1693924998000,
       "sizeInBytes": 795
+    },
+    "D&D/Game Information/Statblocks/Black Pudding.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475485,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 2375
+    },
+    "D&D/Game Information/Statblocks/Black Dragon Wyrmling.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 42,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475484,
+      "modifiedDate": 1693934015000,
+      "sizeInBytes": 2390
     },
     "D&D/Game Information/Statblocks/Berserker.md": {
       "isDirectory": false,
@@ -13730,22 +14002,6 @@
       "modifiedDate": 1693924998000,
       "sizeInBytes": 411
     },
-    "D&D/Game Information/Statblocks/Awakened Tree.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 35,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475458,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 671
-    },
     "D&D/Game Information/Statblocks/Assassin.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13761,6 +14017,22 @@
       "createdDate": 1704739475456,
       "modifiedDate": 1693924998000,
       "sizeInBytes": 2312
+    },
+    "D&D/Game Information/Statblocks/Awakened Tree.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475458,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 671
     },
     "D&D/Game Information/Statblocks/Awakened Shrub.md": {
       "isDirectory": false,
@@ -13794,22 +14066,6 @@
       "modifiedDate": 1693934013000,
       "sizeInBytes": 2680
     },
-    "D&D/Game Information/Statblocks/Archpriest.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 38,
-      "nonWhitespaceCharacterCount": 33,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475455,
-      "modifiedDate": 1693924998000,
-      "sizeInBytes": 4887
-    },
     "D&D/Game Information/Statblocks/Archmage.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13825,6 +14081,22 @@
       "createdDate": 1704739475454,
       "modifiedDate": 1693924998000,
       "sizeInBytes": 5421
+    },
+    "D&D/Game Information/Statblocks/Archpriest.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 33,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475455,
+      "modifiedDate": 1693924998000,
+      "sizeInBytes": 4887
     },
     "D&D/Game Information/Statblocks/Archfey.md": {
       "isDirectory": false,
@@ -13954,22 +14226,6 @@
       "modifiedDate": 1693934013000,
       "sizeInBytes": 2161
     },
-    "D&D/Game Information/Statblocks/Animated Armor.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 42,
-      "nonWhitespaceCharacterCount": 36,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475448,
-      "modifiedDate": 1693934021000,
-      "sizeInBytes": 1187
-    },
     "D&D/Game Information/Statblocks/Ancient White Dragon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -13985,6 +14241,22 @@
       "createdDate": 1704739475447,
       "modifiedDate": 1693925021000,
       "sizeInBytes": 5579
+    },
+    "D&D/Game Information/Statblocks/Animated Armor.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 36,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475448,
+      "modifiedDate": 1693934021000,
+      "sizeInBytes": 1187
     },
     "D&D/Game Information/Statblocks/Ancient Silver Dragon.md": {
       "isDirectory": false,
@@ -14178,22 +14450,6 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 6914
     },
-    "D&D/Game Information/Statblocks/Ancient Blue Dragon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 40,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475436,
-      "modifiedDate": 1693934018000,
-      "sizeInBytes": 6179
-    },
     "D&D/Game Information/Statblocks/Ancient Black Dragon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14209,6 +14465,22 @@
       "createdDate": 1704739475435,
       "modifiedDate": 1693934027000,
       "sizeInBytes": 5916
+    },
+    "D&D/Game Information/Statblocks/Ancient Blue Dragon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 40,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475436,
+      "modifiedDate": 1693934018000,
+      "sizeInBytes": 6179
     },
     "D&D/Game Information/Statblocks/Ancient Amethyst Dragon.md": {
       "isDirectory": false,
@@ -14274,6 +14546,22 @@
       "modifiedDate": 1693934013000,
       "sizeInBytes": 3100
     },
+    "D&D/Game Information/Statblocks/Aklea.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 28,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475430,
+      "modifiedDate": 1693934018000,
+      "sizeInBytes": 4893
+    },
     "D&D/Game Information/Statblocks/Allosaurus.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14306,22 +14594,6 @@
       "modifiedDate": 1693934020000,
       "sizeInBytes": 2725
     },
-    "D&D/Game Information/Statblocks/Aklea.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 28,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475430,
-      "modifiedDate": 1693934018000,
-      "sizeInBytes": 4893
-    },
     "D&D/Game Information/Statblocks/Air Elemental.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14338,6 +14610,22 @@
       "modifiedDate": 1693934027000,
       "sizeInBytes": 2039
     },
+    "D&D/Game Information/Statblocks/Adult Red Dragon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 37,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475425,
+      "modifiedDate": 1693924997000,
+      "sizeInBytes": 5702
+    },
     "D&D/Game Information/Statblocks/Adult White Dragon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14353,22 +14641,6 @@
       "createdDate": 1704739475429,
       "modifiedDate": 1693924997000,
       "sizeInBytes": 5428
-    },
-    "D&D/Game Information/Statblocks/Adult Shadow Dragon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 40,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475428,
-      "modifiedDate": 1693934026000,
-      "sizeInBytes": 5990
     },
     "D&D/Game Information/Statblocks/Adult Silver Dragon.md": {
       "isDirectory": false,
@@ -14402,6 +14674,22 @@
       "modifiedDate": 1693934017000,
       "sizeInBytes": 6459
     },
+    "D&D/Game Information/Statblocks/Adult Shadow Dragon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 40,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475428,
+      "modifiedDate": 1693934026000,
+      "sizeInBytes": 5990
+    },
     "D&D/Game Information/Statblocks/Adult River Dragon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14417,22 +14705,6 @@
       "createdDate": 1704739475426,
       "modifiedDate": 1693934020000,
       "sizeInBytes": 6318
-    },
-    "D&D/Game Information/Statblocks/Adult Red Dragon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 37,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475425,
-      "modifiedDate": 1693924997000,
-      "sizeInBytes": 5702
     },
     "D&D/Game Information/Statblocks/Adult Green Dragon.md": {
       "isDirectory": false,
@@ -14530,6 +14802,22 @@
       "modifiedDate": 1693924997000,
       "sizeInBytes": 6920
     },
+    "D&D/Game Information/Statblocks/Adult Black Dragon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 39,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475417,
+      "modifiedDate": 1693934026000,
+      "sizeInBytes": 5847
+    },
     "D&D/Game Information/Statblocks/Adult Brass Dragon.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14561,22 +14849,6 @@
       "createdDate": 1704739475418,
       "modifiedDate": 1693924997000,
       "sizeInBytes": 5944
-    },
-    "D&D/Game Information/Statblocks/Adult Black Dragon.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 39,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475417,
-      "modifiedDate": 1693934026000,
-      "sizeInBytes": 5847
     },
     "D&D/Game Information/Statblocks/Adult Black Dragon Lich.md": {
       "isDirectory": false,
@@ -14754,22 +15026,6 @@
       "modifiedDate": 1704740351809,
       "sizeInBytes": 75529
     },
-    "D&D/Game Information/Sessions/Session 005.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1392,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.64,
-      "characterCount": 9223,
-      "nonWhitespaceCharacterCount": 7643,
-      "linkCount": 1,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1704739475398,
-      "modifiedDate": 1698693105000,
-      "sizeInBytes": 9329
-    },
     "D&D/Game Information/Sessions/Session 007.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -14785,6 +15041,22 @@
       "createdDate": 1704739475400,
       "modifiedDate": 1699136358000,
       "sizeInBytes": 74650
+    },
+    "D&D/Game Information/Sessions/Session 005.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1392,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.64,
+      "characterCount": 9223,
+      "nonWhitespaceCharacterCount": 7643,
+      "linkCount": 1,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1704739475398,
+      "modifiedDate": 1698693105000,
+      "sizeInBytes": 9329
     },
     "D&D/Game Information/Sessions/Session 006.md": {
       "isDirectory": false,
@@ -14865,278 +15137,6 @@
       "createdDate": 1704739475395,
       "modifiedDate": 1698693088000,
       "sizeInBytes": 8001
-    },
-    "D&D/Game Information/Resources/Temporal Dread/Structure.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 282,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.94,
-      "characterCount": 1643,
-      "nonWhitespaceCharacterCount": 1360,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475390,
-      "modifiedDate": 1702750023460,
-      "sizeInBytes": 1643
-    },
-    "D&D/Game Information/Resources/Temporal Dread/Ecliptics.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1014,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.38,
-      "characterCount": 6522,
-      "nonWhitespaceCharacterCount": 5488,
-      "linkCount": 0,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1704739475389,
-      "modifiedDate": 1702768078086,
-      "sizeInBytes": 6524
-    },
-    "D&D/Game Information/Resources/Story Progression.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 89,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 473,
-      "nonWhitespaceCharacterCount": 384,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475335,
-      "modifiedDate": 1699136357000,
-      "sizeInBytes": 473
-    },
-    "D&D/Game Information/Resources/Morellus Travel/Morellus Travel Map.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1704739475361,
-      "modifiedDate": 1693164459000,
-      "sizeInBytes": 31534
-    },
-    "D&D/Game Information/Resources/Insanity Chart.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 34,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739475333,
-      "modifiedDate": 1691607077000,
-      "sizeInBytes": 36
-    },
-    "D&D/Game Information/Resources/Injury Chart.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1704739475332,
-      "modifiedDate": 1691607075000,
-      "sizeInBytes": 37
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/First 2 Year Schedule.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 108,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.36,
-      "characterCount": 671,
-      "nonWhitespaceCharacterCount": 563,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475340,
-      "modifiedDate": 1699136357000,
-      "sizeInBytes": 671
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Curriculum Breakdown.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 303,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.01,
-      "characterCount": 1735,
-      "nonWhitespaceCharacterCount": 1428,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475339,
-      "modifiedDate": 1702330912000,
-      "sizeInBytes": 1735
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Colleges.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 184,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6133333333333333,
-      "characterCount": 1162,
-      "nonWhitespaceCharacterCount": 976,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475338,
-      "modifiedDate": 1702330410246,
-      "sizeInBytes": 1162
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 84,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 695,
-      "nonWhitespaceCharacterCount": 612,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475351,
-      "modifiedDate": 1702331732700,
-      "sizeInBytes": 695
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 87,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 645,
-      "nonWhitespaceCharacterCount": 559,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475351,
-      "modifiedDate": 1702331789660,
-      "sizeInBytes": 645
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 710,
-      "nonWhitespaceCharacterCount": 614,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475350,
-      "modifiedDate": 1702331769408,
-      "sizeInBytes": 710
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 302,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0066666666666666,
-      "characterCount": 2041,
-      "nonWhitespaceCharacterCount": 1733,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475345,
-      "modifiedDate": 1703136127506,
-      "sizeInBytes": 2041
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 367,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2233333333333334,
-      "characterCount": 2614,
-      "nonWhitespaceCharacterCount": 2239,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475344,
-      "modifiedDate": 1702332517690,
-      "sizeInBytes": 2614
-    },
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 336,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.12,
-      "characterCount": 2276,
-      "nonWhitespaceCharacterCount": 1931,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475343,
-      "modifiedDate": 1702332537826,
-      "sizeInBytes": 2276
-    },
-    "D&D/Game Information/Resources/Critical Hits Revised.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 65,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 645,
-      "nonWhitespaceCharacterCount": 569,
-      "linkCount": 0,
-      "embedCount": 13,
-      "aliases": null,
-      "createdDate": 1704739475332,
-      "modifiedDate": 1691607076000,
-      "sizeInBytes": 645
-    },
-    "D&D/Game Information/Resources/Critical Fumbles.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 544,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8133333333333332,
-      "characterCount": 3391,
-      "nonWhitespaceCharacterCount": 2843,
-      "linkCount": 0,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1704739475331,
-      "modifiedDate": 1691607076000,
-      "sizeInBytes": 3391
     },
     "D&D/Game Information/Players/Zero/Zero Drakeheart Vauquelin.md": {
       "isDirectory": false,

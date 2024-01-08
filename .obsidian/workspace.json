@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bed2cdd2e47c27b4",
+        "id": "6a0035464f4de971",
         "type": "tabs",
         "children": [
           {
-            "id": "d91bb53bc5a51747",
+            "id": "d489cb9df3f85aa6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SWE/Internship List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +71,7 @@
       {
         "id": "9389252bc8f01de6",
         "type": "tabs",
-        "dimension": 29.844961240310074,
+        "dimension": 29.84496124031007,
         "children": [
           {
             "id": "634f023a640225f6",
@@ -81,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SWE/Internship List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SWE/Internship List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SWE/Internship List.md"
+              }
             }
           },
           {
@@ -194,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,24 +227,30 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "d91bb53bc5a51747",
+  "active": "d489cb9df3f85aa6",
   "lastOpenFiles": [
+    "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
+    "School/Spring 2024/COP3502/Untitled.md",
+    "Life/Journal/Daily Notes/2024-01-08.md",
+    "School/Events.md",
+    "Dashboard.md",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "School/Spring 2024/REL3930/Janet Jakobsen, Ann Pellegrini - Love the Sin, Sexual Regulation and the Limits of Religious Tolerance (Sexual Cultures) (2003, NYU Press).pdf",
+    "School/Spring 2024/REL3930/Megan Goodwin - Abusing Religion, Literary Persecution, Sex Scandals, and American Minority Religions (2020, Rutgers University Press).pdf",
+    "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).md",
+    "Obsidian/Attachments/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "School/Spring 2024/COP3502/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/Untitled.md",
     "School/Spring 2024/REL3930",
     "School/Spring 2024/PEM2121",
     "School/Spring 2024/COT3100",
-    "School/Spring 2024/COP3330",
-    "School/Spring 2024/COP3502",
     "SWE/Project Wildspace/Project Wildspace.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "conflict-files-obsidian-git.md",
-    "Dashboard.md",
-    "School/Spring 2024",
     "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "Obsidian/Excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "SWE/Internship List.md",
-    "Life/Journal/Daily Notes/2024-01-08.md",
-    "SWE/Project Wildspace",
     "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "Life/Journal/Daily Notes/2024-01-03.md",
@@ -248,13 +264,9 @@
     "D&D/Player View/Territories/Morellus/Morellan Places.md",
     "D&D/Player View/Territories/Morellus/Places/Districts/Eastern District.md",
     "D&D/Game Information/Sessions/Session 007.md",
-    "Life/Journal/Daily Notes/2023-12-21.md",
-    "Life/Journal/Daily Notes/2023-12-18.md",
-    "Life/Journal/Daily Notes/2023-12-17.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
-    "Obsidian/Attachments/Pasted image 20231216175433.png",
-    "D&D/Game Information/Resources/Temporal Dread"
+    "Obsidian/Attachments/Pasted image 20231216175433.png"
   ]
 }

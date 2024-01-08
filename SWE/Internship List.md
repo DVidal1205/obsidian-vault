@@ -12,7 +12,6 @@ Applied
 - Microsoft Explore
 - Simbe Robotics
 - NimbleRx
-- humane
 - The Boring Company
 - Exostellar
 - Limbitless
@@ -34,6 +33,11 @@ Rejected
 - Roblox
 - Ripple
 - Intel
+- Postera
+- Humane
+- RocketLab
+- WeRide
+- Rocke
 
 November 03 Proofpoint
 
