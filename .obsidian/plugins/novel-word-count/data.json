@@ -15409,6 +15409,22 @@
       "createdDate": 1704739476493,
       "modifiedDate": 1692899025113,
       "sizeInBytes": 38
+    },
+    "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1704820361495,
+      "modifiedDate": 1704820926175,
+      "sizeInBytes": 510722
     }
   }
 }
