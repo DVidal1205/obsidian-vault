@@ -338,7 +338,7 @@
       "modifiedDate": 1704744229782,
       "sizeInBytes": 0
     },
-    "School/Spring 2024/COP3502/C Review/File-IO Quiz.md": {
+    "School/Spring 2024/COP3502/C Review/Strings Quiz.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -350,9 +350,25 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1704818456490,
-      "modifiedDate": 1704818456490,
+      "createdDate": 1704819809166,
+      "modifiedDate": 1704819809166,
       "sizeInBytes": 0
+    },
+    "School/Spring 2024/COP3502/C Review/File-IO Quiz.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 23,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704818456490,
+      "modifiedDate": 1704819808151,
+      "sizeInBytes": 28
     },
     "School/Spring 2024/COP3502/C Review/Struct Quiz.md": {
       "isDirectory": false,
