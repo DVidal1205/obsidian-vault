@@ -11,8 +11,12 @@
             "id": "46b61aeb18e3439e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md"
+              }
             }
           },
           {
@@ -220,6 +228,7 @@
   },
   "active": "46b61aeb18e3439e",
   "lastOpenFiles": [
+    "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
