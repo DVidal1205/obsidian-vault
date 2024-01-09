@@ -207,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,12 +223,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "46b61aeb18e3439e",
+  "active": "1526aaabbc5d35ef",
   "lastOpenFiles": [
+    "School/Spring 2024/COP3330",
     "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
@@ -264,7 +265,6 @@
     "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "Obsidian/Excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
