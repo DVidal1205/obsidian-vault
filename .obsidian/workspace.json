@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Internship List.md",
+                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Internship List.md",
+                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Internship List.md",
+                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Internship List.md"
+                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md"
               }
             }
           },
@@ -227,8 +227,11 @@
   },
   "active": "46b61aeb18e3439e",
   "lastOpenFiles": [
-    "Programming/Practice Problems/flippingBits.md",
     "SWE/Internship List.md",
+    "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
+    "School/Spring 2024/COP3502/C Review",
+    "School/Spring 2024/COP3330/Untitled.md",
+    "Programming/Practice Problems/flippingBits.md",
     "D&D/Game Information/Sessions/Session 002.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "D&D/Player View/Territories/Morellus/The Morellan Crownsguard.md",
@@ -251,7 +254,6 @@
     "School/Spring 2024/Untitled.md",
     "School/Spring 2024/REL3930",
     "School/Spring 2024/PEM2121",
-    "School/Spring 2024/COT3100",
     "SWE/Project Wildspace/Project Wildspace.md",
     "conflict-files-obsidian-git.md",
     "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
@@ -261,8 +263,6 @@
     "Life/Journal/Daily Notes/2024-01-03.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
