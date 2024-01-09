@@ -338,21 +338,37 @@
       "modifiedDate": 1704744229782,
       "sizeInBytes": 0
     },
-    "School/Spring 2024/COP3502/C Review/Struct Quiz.md": {
+    "School/Spring 2024/COP3502/C Review/File-IO Quiz.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 122,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 522,
-      "nonWhitespaceCharacterCount": 393,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
+      "createdDate": 1704818456490,
+      "modifiedDate": 1704818456490,
+      "sizeInBytes": 0
+    },
+    "School/Spring 2024/COP3502/C Review/Struct Quiz.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 592,
+      "nonWhitespaceCharacterCount": 452,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
       "createdDate": 1704816724349,
-      "modifiedDate": 1704817593860,
-      "sizeInBytes": 522
+      "modifiedDate": 1704818097675,
+      "sizeInBytes": 592
     },
     "Programming/Practice Problems/plusMinus.md": {
       "isDirectory": false,

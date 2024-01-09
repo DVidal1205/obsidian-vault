@@ -29,3 +29,8 @@ p->y, // 104 as its address
 - D may be correct
 - A
 - B uses strings wrong
+
+### Problem 4:
+
+### 80% Attempt
+![[Pasted image 20240109113455.png]]

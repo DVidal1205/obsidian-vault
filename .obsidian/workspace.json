@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
+                "file": "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
+                "file": "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
+                "file": "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Struct Quiz.md"
+                "file": "School/Spring 2024/COP3502/C Review/File-IO Quiz.md"
               }
             }
           },
@@ -227,8 +227,12 @@
   },
   "active": "46b61aeb18e3439e",
   "lastOpenFiles": [
-    "SWE/Internship List.md",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
+    "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
+    "School/Spring 2024/COP3502/C Review/Struct Quiz.pdf",
+    "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
+    "Obsidian/Attachments/Pasted image 20240109113455.png",
+    "SWE/Internship List.md",
     "School/Spring 2024/COP3502/C Review",
     "School/Spring 2024/COP3330/Untitled.md",
     "Programming/Practice Problems/flippingBits.md",
@@ -252,8 +256,6 @@
     "Obsidian/Attachments/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/COP3502/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/Untitled.md",
-    "School/Spring 2024/REL3930",
-    "School/Spring 2024/PEM2121",
     "SWE/Project Wildspace/Project Wildspace.md",
     "conflict-files-obsidian-git.md",
     "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
@@ -262,7 +264,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "Life/Journal/Daily Notes/2024-01-03.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
