@@ -208,14 +208,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "46b61aeb18e3439e",
