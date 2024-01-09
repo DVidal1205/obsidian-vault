@@ -11,10 +11,8 @@
             "id": "46b61aeb18e3439e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -108,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
