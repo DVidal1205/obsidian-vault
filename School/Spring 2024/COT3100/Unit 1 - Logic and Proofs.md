@@ -90,4 +90,29 @@ Domination
 Idempotent
 - $p \lor p \leftrightarrow p$
 - $p \land p \leftrightarrow p$
+Double Negation
+- $\lnot \lnot p \leftrightarrow p$
+Commutative:
+- $p \lor q \leftrightarrow q \lor p$
+- $p \land q \leftrightarrow q \land p$
+Associative:
+- $(p \lor q) \lor r \leftrightarrow p \lor (q \lor r)$
+- $(p \land q) \land r \leftrightarrow p \land (q \land r)$
+Distributive:
+- $p \land (q \lor r) \leftrightarrow (p \land q) \lor (p \land r)$
+- $p \lor (q \land r) \leftrightarrow (p \lor q) \land (p \lor r)$
+De Morgan's:
+- $\lnot (p \land q)  \leftrightarrow (\lnot p)  \lor (\lnot q)$
+- $\lnot (p \lor q)  \leftrightarrow (\lnot p)  \land (\lnot q)$
+Negation:
+- $p\lor\lnot p\leftrightarrow T$
+- $p\land\lnot p\leftrightarrow F$
+Exclusive or Equivalence:
+- $p \oplus q \leftrightarrow (p \lor q) \land \lnot (p \land q)$
+- $p \oplus q \leftrightarrow (p \land \lnot q) \lor  (q \land \lnot p)$
+Implies:
+- $p \to q \leftrightarrow \lnot p \lor q$
+Biconditional (2 statements):
 - 
+
+$p \leftrightarrow q \leftrightarrow (p \to q) \land (q \to p)$
