@@ -309,18 +309,18 @@
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 325,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 616,
-      "nonWhitespaceCharacterCount": 516,
+      "pageCount": 1.0833333333333333,
+      "characterCount": 1948,
+      "nonWhitespaceCharacterCount": 1618,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704915927862,
-      "modifiedDate": 1704917580308,
-      "sizeInBytes": 616
+      "modifiedDate": 1704919495135,
+      "sizeInBytes": 1948
     },
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md": {
       "isDirectory": false,
@@ -15442,6 +15442,22 @@
       "modifiedDate": 1694376943000,
       "sizeInBytes": 6199
     },
+    "D&D/Game Information/NPCs/Borris Voronstov.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 66,
+      "nonWhitespaceCharacterCount": 52,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704739475300,
+      "modifiedDate": 1693316393000,
+      "sizeInBytes": 157
+    },
     "D&D/Game Information/NPCs/Juggah the Orc.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -15457,22 +15473,6 @@
       "createdDate": 1704739475301,
       "modifiedDate": 1693316620000,
       "sizeInBytes": 156
-    },
-    "D&D/Game Information/NPCs/Borris Multivar.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 66,
-      "nonWhitespaceCharacterCount": 52,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1704739475300,
-      "modifiedDate": 1693316393000,
-      "sizeInBytes": 157
     }
   }
 }
