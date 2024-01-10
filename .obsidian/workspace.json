@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +226,11 @@
   },
   "active": "07a25e34084d1815",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/Dashboard.md",
-    "Obsidian/Excalidraw/Drawing 2024-01-09 21.02.32.excalidraw.md",
-    "SWE/Project Wildspace/Dashboard.md",
-    "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "conflict-files-obsidian-git.md",
+    "SWE/Project Wildspace/Dashboard.md",
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "Obsidian/Excalidraw/Drawing 2024-01-09 21.02.32.excalidraw.md",
+    "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
@@ -263,7 +262,6 @@
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).md",
     "School/Spring 2024/Untitled.md",
     "SWE/Project Wildspace/Project Wildspace.md",
-    "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
