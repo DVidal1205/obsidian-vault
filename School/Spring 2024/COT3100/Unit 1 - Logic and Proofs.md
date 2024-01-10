@@ -51,7 +51,26 @@ Implication - $\rightarrow$
 You need 2^n rows for the number of propositions  you have
 
 ### Construct
-( (p $\land$ q) $\lor$ q)
-| p   | q   | 
-| --- | --- |
-|     |     |
+( (p $\land$ q) $\lor$ $\lnot$q)
+
+| p   | q   | (p $\land$ q) | $\lnot q$ | ( (p $\land$ q) $\lor$ $\lnot$q) |
+| --- | --- | ------------- | --------- | -------------------------------- |
+| 0   | 0   | 0             | 1          | 1                                 |
+| 0   | 1   | 0              | 0          | 0                                 |
+| 1   | 0   | 0              | 1          | 1                                 |
+| 1   | 1   | 1              | 0          | 1                                 |
+
+### Order of Operations
+1. Negation ($\neg$)
+2. Conjunction ($\land$)
+3. Disjunction ($\lor$)
+4. Exclusive Or ($\oplus$)
+5. Implication ($\rightarrow$)
+6. Biconditional ($\leftrightarrow$)
+
+### Propositional Equivalnces
+- A compound proposition that is always true, no matter the truth values of the propositions, is a tautology
+- A compound that is always false is a contradiction
+- Tautology: $p \lor \lnot p$
+- Contradiction: $p \land \lnot p$
+- Conditions are logically equivalent if p $\leftrightarrow$ q is a tautology
