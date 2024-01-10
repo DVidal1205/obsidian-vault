@@ -74,3 +74,20 @@ You need 2^n rows for the number of propositions  you have
 - Tautology: $p \lor \lnot p$
 - Contradiction: $p \land \lnot p$
 - Conditions are logically equivalent if p $\leftrightarrow$ q is a tautology
+
+### Arithmetic
+a + b = b + a
+(a + b) + c = a + (b + c)
+a*(b + c) = a * b + a * c
+
+### Equivalence Laws
+Identity:
+- $p \land T \leftrightarrow p$
+- $p \lor F \leftrightarrow p$
+Domination
+- $p \lor T \leftrightarrow T$
+- $p \land F \leftrightarrow F$
+Idempotent
+- $p \lor p \leftrightarrow p$
+- $p \land p \leftrightarrow p$
+- 
