@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9bd8ed816cf301",
+        "id": "1b189d9147022c43",
         "type": "tabs",
         "children": [
           {
-            "id": "46b61aeb18e3439e",
+            "id": "f9d3cab416b08b58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
