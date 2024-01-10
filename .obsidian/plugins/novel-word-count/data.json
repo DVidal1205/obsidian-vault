@@ -309,18 +309,18 @@
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 65,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 462,
+      "nonWhitespaceCharacterCount": 389,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704915927862,
-      "modifiedDate": 1704916098255,
-      "sizeInBytes": 77
+      "modifiedDate": 1704916765126,
+      "sizeInBytes": 462
     },
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md": {
       "isDirectory": false,

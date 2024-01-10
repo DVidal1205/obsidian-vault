@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -229,6 +228,7 @@
   },
   "active": "07a25e34084d1815",
   "lastOpenFiles": [
+    "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "School/Spring 2024/REL3930/Readings",
@@ -265,7 +265,6 @@
     "School/Spring 2024/REL3930/Megan Goodwin - Abusing Religion, Literary Persecution, Sex Scandals, and American Minority Religions (2020, Rutgers University Press).pdf",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).md",
     "School/Spring 2024/Untitled.md",
-    "SWE/Project Wildspace/Project Wildspace.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
