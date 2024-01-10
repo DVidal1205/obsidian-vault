@@ -11,8 +11,12 @@
             "id": "f9d3cab416b08b58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
               }
             }
           },
@@ -196,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +226,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "f9d3cab416b08b58",
   "lastOpenFiles": [
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "School/Spring 2024/COT3100/Unit 1 - Logic",
+    "School/Spring 2024/COT3100",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Dashboard.md",
     "School/Spring 2024/COP3330",
@@ -250,14 +260,11 @@
     "School/Events.md",
     "Dashboard.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
-    "School/Spring 2024/REL3930/Janet Jakobsen, Ann Pellegrini - Love the Sin, Sexual Regulation and the Limits of Religious Tolerance (Sexual Cultures) (2003, NYU Press).pdf",
-    "School/Spring 2024/REL3930/Megan Goodwin - Abusing Religion, Literary Persecution, Sex Scandals, and American Minority Religions (2020, Rutgers University Press).pdf",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).md",
     "School/Spring 2024/Untitled.md",
     "SWE/Project Wildspace/Project Wildspace.md",
     "obsidian/excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
     "Obsidian/Excalidraw/Drawing 2024-01-08 13.53.03.excalidraw.md",
-    "D&D/Game Information/Sessions/The Royal Crucible/The Royal Crucible.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
