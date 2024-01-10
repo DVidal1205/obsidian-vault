@@ -11,9 +11,11 @@
             "id": "07a25e34084d1815",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SWE/Project Wildspace/World.md"
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/World.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/World.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/World.md"
+                "file": "D&D/Player View/Miravalis/Miravalis.md"
               }
             }
           },
@@ -226,8 +228,8 @@
   },
   "active": "07a25e34084d1815",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/World.md",
+    "SWE/Project Wildspace/Dashboard.md",
     "D&D/Game Information/NPCs/Juggah the Orc.md",
     "D&D/Game Information/NPCs/Borris Voronstov.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
