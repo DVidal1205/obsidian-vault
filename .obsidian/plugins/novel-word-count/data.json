@@ -338,6 +338,22 @@
       "modifiedDate": 1696267653009,
       "sizeInBytes": 2802
     },
+    "SWE/Project Wildspace/Dashboard.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1704852139129,
+      "modifiedDate": 1704852307374,
+      "sizeInBytes": 23683
+    },
     "SWE/Project Wildspace/Project Wildspace.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -721,6 +737,22 @@
       "createdDate": 1704739476606,
       "modifiedDate": 1704744229782,
       "sizeInBytes": 0
+    },
+    "School/Spring 2024/COP3502/C Review/Pointers Quiz.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 69,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23,
+      "characterCount": 331,
+      "nonWhitespaceCharacterCount": 214,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1704852072562,
+      "modifiedDate": 1704852073024,
+      "sizeInBytes": 331
     },
     "School/Spring 2024/COP3502/C Review/Struct Quiz.md": {
       "isDirectory": false,
