@@ -540,6 +540,91 @@ Enter the market, and find much more.""
     - **Physical Description:** Zephyr has windswept hair, almost ethereal skin, and a constant breeze about them.
 ##### Challenge 3/5 - Culinary Convergence
 - **Clue** "In kitchens where flavors converge and talents emerge, prove your mettle and culinary urge. In the heart of the North, with ingredients divine, cook a dish that will forever shine."
+
+Come up with a name for a fish restaurant
+
+The Catch of the Day
+
+Generate me a list of 100 random ingredients, some of which are very bizarre
+
+1. Dragonfruit
+2. Saffron
+3. Cacao nibs
+4. Durian
+5. Ghost pepper
+6. Quinoa
+7. Anchovies
+8. Wasabi peas
+9. Edamame
+10. Kimchi
+11. Black truffle
+12. Nutritional yeast
+13. Kombucha SCOBY
+14. Jackfruit
+15. Bee pollen
+16. Wheatgrass juice
+17. Seaweed salad
+18. Tofu skin (yuba)
+19. Pickled herring
+20. Elderflower syrup
+21. Miso paste
+22. Cricket protein powder 
+23. Spirulina powder 
+24. Smoked paprika 
+25. Bamboo shoots 
+26. Goji berries 
+27 .Black garlic 
+28 .Sardines 
+29 .Mung bean sprouts 
+30 .Dulse flakes 
+31 .Bok choy 
+32 .Dandelion greens 
+33 .Hemp seeds 
+34 .Capers 
+35 .Rambutan fruit 
+36 .Tempeh 
+37 .Pomegranate molasses  
+38 .Nori sheets  
+39 .Blue cheese  
+40 .Jicama  
+41 .Sichuan peppercorns  
+42 .Chia seeds  
+43 .Habanero peppers  
+44  Octopus tentacles  
+45  Cactus pads (nopales)   
+46  Gochujang paste   
+47  Black sesame seeds   
+48  Unagi sauce   
+49  Sumac spice   
+50  Fiddlehead ferns   
+51  Salicornia (sea beans)   
+52  Tamarind pulp    
+53  Pork rinds    
+54  Pomegranate seeds    
+55  Fermented tofu    
+56  Scorpion pepper    
+57  Agar-agar    
+58  Huitlacoche (corn smut)    
+59  Lapsang souchong tea leaves    
+60  Watermelon radish    
+61  Kelp noodles    
+62  Caviar    
+63  Curry leaves    
+64  Ostrich meat    
+65  Chayote squash   
+66  Lavender buds    
+67  Fennel pollen    
+68  Elk meat   
+69  Kumquat   
+70  Duck fat   
+71  Truffle oil   
+72. Bone marrow
+73. Pig's blood
+74. Alligator meat
+75. Crocodile eggs
+76. Camel milk
+77. Venison jerky
+
 - Competitors must navigate to the warehouse of the Howul's Kitchen brand. Here, they will be presented with a plethora of ingredients, and may cook whatever they want at various cooking stations. The chef's food will then be judged by Giyant Howul, an esteemed chef of the Northern District. If they food is good enough, they may proceed. If not, they must recook and try again.
 - Judging Criteria
     1. **Knowledge (Investigation or History, DC 15)**: Contestants need to demonstrate their knowledge of Morellan cooking techniques, including understanding the history and traditional methods of the culinary arts
