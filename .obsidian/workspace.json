@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b189d9147022c43",
+        "id": "5e44420ad020e139",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d3cab416b08b58",
+            "id": "3e1d1816732a217d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md"
+                "file": "D&D/Game Information/Sessions/Session 008.md"
               }
             }
           },
@@ -225,10 +225,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f9d3cab416b08b58",
+  "active": "3e1d1816732a217d",
   "lastOpenFiles": [
-    "D&D/Game Information/Sessions/Session 008.md",
+    "D&D/Game Information/Sessions/Session 007.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+    "D&D/Game Information/Sessions/Session 008.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/REL3930/Readings",
     "School/Spring 2024/REL3930",
@@ -263,7 +264,6 @@
     "School/Events.md",
     "Dashboard.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).md",
-    "School/Spring 2024/Untitled.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
