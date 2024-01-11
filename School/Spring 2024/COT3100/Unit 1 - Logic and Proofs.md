@@ -113,6 +113,4 @@ Exclusive or Equivalence:
 Implies:
 - $p \to q \leftrightarrow \lnot p \lor q$
 Biconditional (2 statements):
-- 
-
-$p \leftrightarrow q \leftrightarrow (p \to q) \land (q \to p)$
+- $p \leftrightarrow q \leftrightarrow (p \to q) \land (q \to p)$
