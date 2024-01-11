@@ -20,3 +20,11 @@ The way the families interacted with one another in the video made me feel very 
  3. **Functionalist Approach:** asking who or what this tradition functions (i.e. the purity ball serving the father).
  4. **Marx:** Religion is social control, meant to incentivize the meek with being intent with harsh working conditions and hours, because ultimately they will live their utmost life in heaven.
  5. **Freud:** Religion is a wish fulfillment, as humans are afraid of fear and aloneness in death.
+#### Sociological Perspective on Purity Balls
+- This ritual re-establishes the authority of the male 
+- Re-inscribes the patriarchy by bringing the daughter under the ownership of the father 
+- Protection is heavily conflated with ownership and authority
+#### Psychological Perspective on Purity Balls
+- Draws on the Freudian theory of the incest taboo and family romance.
+- In the healthy family it is claimed that there are incestuous urges. The Purity Ball reflects this theory.
+- Sublimation: when instinctual wishes become expressed in socially accepted forms such as art or religion.
