@@ -13,4 +13,4 @@ The way the families interacted with one another in the video made me feel very 
 ## Class Time
 ### Questions
 1. What is it (descriptive above)
-2. How does it make me feel (affective)
+2. How does it make me feel (affective above)
