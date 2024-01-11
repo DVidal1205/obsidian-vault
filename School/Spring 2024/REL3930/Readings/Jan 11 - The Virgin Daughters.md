@@ -13,4 +13,10 @@ The way the families interacted with one another in the video made me feel very 
 ## Class Time
 ### Questions
 1. What is it (descriptive above)
-2. How does it make me feel (affective above)
+2. How does it make me feel (affective above
+### Lecture Notes
+ 1. **Macrocosm vs. Microcosm:** the world view that the material world mimics the cosmological world in a macrocosm microcosm relationship.
+ 2. **Academic Study of Religion:** by bracketing the divine or transcendent essence of religion, religious studies instead focus human nature (i.e. the human nature of sexuality and the purity ball).
+ 3. **Functionalist Approach:** asking who or what this tradition functions (i.e. the purity ball serving the father).
+ 4. **Marx:** Religion is social control, meant to incentivize the meek with being intent with harsh working conditions and hours, because ultimately they will live their utmost life in heaven.
+ 5. **Freud:** Religion is a wish fulfillment, as humans are afraid of fear and aloneness in death.
