@@ -540,6 +540,94 @@ Enter the market, and find much more.""
     - **Physical Description:** Zephyr has windswept hair, almost ethereal skin, and a constant breeze about them.
 ##### Challenge 3/5 - Culinary Convergence
 - **Clue** "In kitchens where flavors converge and talents emerge, prove your mettle and culinary urge. In the heart of the North, with ingredients divine, cook a dish that will forever shine."
+
+Come up with a name for a fish restaurant
+
+The Catch of the Day
+
+Generate me a list of 100 random ingredients, some of which are very bizarre
+
+1. Dragonfruit
+2. Saffron
+3. Cacao nibs
+4. Durian
+5. Ghost pepper
+6. Quinoa
+7. Anchovies
+8. Wasabi peas
+9. Edamame
+10. Kimchi
+11. Black truffle
+12. Nutritional yeast
+13. Kombucha SCOBY
+14. Jackfruit
+15. Bee pollen
+16. Wheatgrass juice
+17. Seaweed salad
+18. Tofu skin (yuba)
+19. Pickled herring
+20. Elderflower syrup
+21. Miso paste
+22. Cricket protein powder 
+23. Spirulina powder 
+24. Smoked paprika 
+25. Bamboo shoots 
+26. Goji berries 
+27 .Black garlic 
+28 .Sardines 
+29 .Mung bean sprouts 
+30 .Dulse flakes 
+31 .Bok choy 
+32 .Dandelion greens 
+33 .Hemp seeds 
+34 .Capers 
+35 .Rambutan fruit 
+36 .Tempeh 
+37 .Pomegranate molasses  
+38 .Nori sheets  
+39 .Blue cheese  
+40 .Jicama  
+41 .Sichuan peppercorns  
+42 .Chia seeds  
+43 .Habanero peppers  
+44  Octopus tentacles  
+45  Cactus pads (nopales)   
+46  Gochujang paste   
+47  Black sesame seeds   
+48  Unagi sauce   
+49  Sumac spice   
+50  Fiddlehead ferns   
+51  Salicornia (sea beans)   
+52  Tamarind pulp    
+53  Pork rinds    
+54  Pomegranate seeds    
+55  Fermented tofu    
+56  Scorpion pepper    
+57  Agar-agar    
+58  Huitlacoche (corn smut)    
+59  Lapsang souchong tea leaves    
+60  Watermelon radish    
+61  Kelp noodles    
+62  Caviar    
+
+
+
+63  Curry leaves    
+64  Ostrich meat    
+65  Chayote squash   
+66  Lavender buds    
+67  Fennel pollen    
+68  Elk meat   
+69  Kumquat   
+70  Duck fat   
+71  Truffle oil   
+72. Bone marrow
+73. Pig's blood
+74. Alligator meat
+75. Crocodile eggs
+76. Camel milk
+77. Venison jerky
+
 - Competitors must navigate to the warehouse of the Howul's Kitchen brand. Here, they will be presented with a plethora of ingredients, and may cook whatever they want at various cooking stations. The chef's food will then be judged by Giyant Howul, an esteemed chef of the Northern District. If they food is good enough, they may proceed. If not, they must recook and try again.
 - Judging Criteria
     1. **Knowledge (Investigation or History, DC 15)**: Contestants need to demonstrate their knowledge of Morellan cooking techniques, including understanding the history and traditional methods of the culinary arts
@@ -983,13 +1071,34 @@ Nurturing life's abundance, where seeds of tomorrow grow."
 12. **Chronomancer Duels:** Cultist infiltrators challenge competitors to duels with temporal magic, turning friendly competition into high-stakes encounters filled with uncertainty and dread.
 13. **Time-Altered Environments:** The Temporal Dread cult warps the terrain or environment of certain challenges. Fields may turn into sprawling, surreal labyrinths or participants might find themselves in eerie, alternate realities, all orchestrated by the cult.
 14. **Time-Stranded Competitors:** The Temporal Dread cult transports a few competitors to different time periods briefly, causing them to return with harrowing stories or eerie relics. These temporal anomalies contribute to panic.
-15. **Time-Looped Clues:** For the scavenger hunt challenge, some clues may be trapped in time loops, forcing competitors to unravel complex temporal puzzles while feeling the pressure of looming dread, all part of the cult's plan to harvest fear for Gnoxrus's revival.
+15. **Time-Looped Clues:** For the scavenger hunt challenge, some clues may be trapped in time loops, forcing competitors to unravel complex temporal puzzles while feeling the pressure of looming dread, all part of the cult's plan to harvest fear for Gnoxrus's revival
+
+30/60
+
+
+Generate me 5 dnd races
+
+1. Eladrin: Eladrin are graceful and magical beings, known for their connection to the Feywild. They have fair skin, pointed ears, and often possess vibrant hair and eye colors. Eladrin have a deep affinity for nature and magic, making them exceptional wizards, sorcerers, or druids.
+
+2. Warforged: Warforged are sentient constructs created for war. These living constructs are made of metal and wood, with a humanoid form. They lack the need for sleep or food, and their bodies are resilient against damage. Warforged excel as fighters, barbarians, or artificers.
+
+3. Aasimar: Aasimar are celestial beings with a human appearance but possess divine heritage. They often radiate an inner light or possess ethereal wings. Aasimar have innate magical abilities and can channel divine energy to heal or smite enemies. They make great paladins, clerics, or sorcerers.
+
+4. Tabaxi: Tabaxi are humanoid felines resembling anthropomorphic cats. They possess agile bodies with retractable claws and enhanced senses like night vision and acute smell. Tabaxi excel in stealthy pursuits as rogues or rangers but can also be skilled bards due to their love for storytelling.
+
+5. Goliath: Goliaths are a towering race of muscular humanoids native to mountainous regions. They have stone-like skin tones ranging from gray to brown and often adorn themselves with tribal tattoos or markings representing their achievements. Goliaths thrive as barbarians or fighters due to their immense strength and endurance.
+
 ### Player Subplots
 
 #### Log
 
 ##### Summary
 [[D&D/Player View/Session Summaries/Untitled Summary |Session Summary]]
+
+
+Cultist
+Vouhi
+Tova
 
 ### Temporal Terror
 Along the streets of the Northern District, 1 Minutemen and 2 Secondries will attack during the Trial of Judgement.
@@ -1035,6 +1144,16 @@ The party can also choose to engage the Minuteman in combat. Doing so is a risky
 | Action             | Sacred Flame          |
 | Bonus Action       | Healing Word          |
 
+Cultist
+Veroah
+Zero
+Vouhi
+Tova
+Emil
+Claude
+
+Cultist
+37 /140
 #### Secondary
 | Stat          | Value  |
 |---------------|--------|

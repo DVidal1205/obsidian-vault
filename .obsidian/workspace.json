@@ -16,8 +16,21 @@
                 "file": "SWE/Project Wildspace/World.md"
               }
             }
+          },
+          {
+            "id": "fd1ebd55cdc2404c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/World.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/World.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/World.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -200,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +236,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "07a25e34084d1815",
+  "active": "fd1ebd55cdc2404c",
   "lastOpenFiles": [
-    "D&D/Player View/Miravalis/Miravalis.md",
     "SWE/Project Wildspace/World.md",
+    "conflict-files-obsidian-git.md",
+    "D&D/Player View/Miravalis/Miravalis.md",
     "SWE/Project Wildspace/Dashboard.md",
     "D&D/Game Information/NPCs/Juggah the Orc.md",
     "D&D/Game Information/NPCs/Borris Voronstov.md",
@@ -237,7 +250,6 @@
     "School/Spring 2024/REL3930/Readings",
     "SWE/Internship List.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
-    "conflict-files-obsidian-git.md",
     "Obsidian/Excalidraw/Drawing 2024-01-09 21.02.32.excalidraw.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
