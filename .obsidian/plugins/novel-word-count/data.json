@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 92,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 662,
-      "nonWhitespaceCharacterCount": 560,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705078638294,
-      "modifiedDate": 1705078638631,
-      "sizeInBytes": 662
-    },
     "SWE/Serverless AWS Workshop Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -98,6 +82,22 @@
       "modifiedDate": 1696267653009,
       "sizeInBytes": 2802
     },
+    "SWE/Project Wildspace/Generations.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 15,
+      "nonWhitespaceCharacterCount": 13,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705078817417,
+      "modifiedDate": 1705078830277,
+      "sizeInBytes": 15
+    },
     "SWE/Project Wildspace/World.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -143,8 +143,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1704852139129,
-      "modifiedDate": 1704924249674,
-      "sizeInBytes": 29410
+      "modifiedDate": 1705078698217,
+      "sizeInBytes": 29357
     },
     "SWE/Google Interview Workshop 2023-10-4.md": {
       "isDirectory": false,
