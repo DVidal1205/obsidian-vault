@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "859190a23660a861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Project Wildspace.md"
+                "file": "D&D/Player View/Miravalis/Miravalis.md"
               }
             }
           },
@@ -225,10 +238,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "07a25e34084d1815",
+  "active": "859190a23660a861",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/World.md",
     "SWE/Project Wildspace/Project Wildspace.md",
+    "SWE/Project Wildspace/World.md",
     "SWE/Project Wildspace/Generations.md",
     "SWE/Project Wildspace/Untitled",
     "SWE/Project Wildspace/Dashboard.md",
