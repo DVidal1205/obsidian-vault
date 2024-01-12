@@ -14,6 +14,11 @@ I am creating a project that generates elements of world building for a D&D camp
 - Quirks
 - Goals
 - Backstory
+
+Physical Traits
+Character Traits
+Backstory
+
 ### Buildings
 - Building Name
 - Type
