@@ -1150,6 +1150,9 @@ Vouhi
 Tova
 Emil
 Claude
+
+Cultist
+80/140
 #### Secondary
 | Stat          | Value  |
 |---------------|--------|
