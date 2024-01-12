@@ -1145,6 +1145,7 @@ The party can also choose to engage the Minuteman in combat. Doing so is a risky
 | Bonus Action       | Healing Word          |
 
 Cultist
+Veroah
 Zero
 Vouhi
 Tova
@@ -1152,7 +1153,7 @@ Emil
 Claude
 
 Cultist
-80/140
+37 /140
 #### Secondary
 | Stat          | Value  |
 |---------------|--------|
