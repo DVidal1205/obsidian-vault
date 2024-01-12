@@ -1073,7 +1073,20 @@ Nurturing life's abundance, where seeds of tomorrow grow."
 14. **Time-Stranded Competitors:** The Temporal Dread cult transports a few competitors to different time periods briefly, causing them to return with harrowing stories or eerie relics. These temporal anomalies contribute to panic.
 15. **Time-Looped Clues:** For the scavenger hunt challenge, some clues may be trapped in time loops, forcing competitors to unravel complex temporal puzzles while feeling the pressure of looming dread, all part of the cult's plan to harvest fear for Gnoxrus's revival
 
-50/60
+30/60
+
+Generate me 5 dnd races
+
+1. Eladrin: Eladrin are graceful and magical beings, known for their connection to the Feywild. They have fair skin, pointed ears, and often possess vibrant hair and eye colors. Eladrin have a deep affinity for nature and magic, making them exceptional wizards, sorcerers, or druids.
+
+2. Warforged: Warforged are sentient constructs created for war. These living constructs are made of metal and wood, with a humanoid form. They lack the need for sleep or food, and their bodies are resilient against damage. Warforged excel as fighters, barbarians, or artificers.
+
+3. Aasimar: Aasimar are celestial beings with a human appearance but possess divine heritage. They often radiate an inner light or possess ethereal wings. Aasimar have innate magical abilities and can channel divine energy to heal or smite enemies. They make great paladins, clerics, or sorcerers.
+
+4. Tabaxi: Tabaxi are humanoid felines resembling anthropomorphic cats. They possess agile bodies with retractable claws and enhanced senses like night vision and acute smell. Tabaxi excel in stealthy pursuits as rogues or rangers but can also be skilled bards due to their love for storytelling.
+
+5. Goliath: Goliaths are a towering race of muscular humanoids native to mountainous regions. They have stone-like skin tones ranging from gray to brown and often adorn themselves with tribal tattoos or markings representing their achievements. Goliaths thrive as barbarians or fighters due to their immense strength and endurance.
+
 ### Player Subplots
 
 #### Log
