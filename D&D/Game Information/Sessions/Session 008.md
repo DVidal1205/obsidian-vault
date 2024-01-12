@@ -1144,6 +1144,12 @@ The party can also choose to engage the Minuteman in combat. Doing so is a risky
 | Action             | Sacred Flame          |
 | Bonus Action       | Healing Word          |
 
+Cultist
+Zero
+Vouhi
+Tova
+Emil
+Claude
 #### Secondary
 | Stat          | Value  |
 |---------------|--------|
