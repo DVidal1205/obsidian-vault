@@ -1075,6 +1075,7 @@ Nurturing life's abundance, where seeds of tomorrow grow."
 
 30/60
 
+
 Generate me 5 dnd races
 
 1. Eladrin: Eladrin are graceful and magical beings, known for their connection to the Feywild. They have fair skin, pointed ears, and often possess vibrant hair and eye colors. Eladrin have a deep affinity for nature and magic, making them exceptional wizards, sorcerers, or druids.
@@ -1093,6 +1094,11 @@ Generate me 5 dnd races
 
 ##### Summary
 [[D&D/Player View/Session Summaries/Untitled Summary |Session Summary]]
+
+
+Cultist
+Vouhi
+Tova
 
 ### Temporal Terror
 Along the streets of the Northern District, 1 Minutemen and 2 Secondries will attack during the Trial of Judgement.
