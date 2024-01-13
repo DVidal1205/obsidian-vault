@@ -1,4 +1,3 @@
-I am creating a project that generates elements of world building for a D&D campaign using AI. Please come up with any other entities I can generate that would be useful to a DM, as well as their properties.  
 ### Characters
 - Name: First and Last 
 - Race
