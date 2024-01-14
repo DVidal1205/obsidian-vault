@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Project Wildspace",
+      "path": "SWE/Project Wildspace/Project Wildspace.md"
+    },
+    {
       "basename": "Generations",
       "path": "SWE/Project Wildspace/Generations.md"
     },
     {
-      "basename": "Project Wildspace",
-      "path": "SWE/Project Wildspace/Project Wildspace.md"
+      "basename": "Dashboard",
+      "path": "SWE/Project Wildspace/Dashboard.md"
     },
     {
       "basename": "Miravalis",
@@ -15,10 +19,6 @@
     {
       "basename": "World",
       "path": "SWE/Project Wildspace/World.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "SWE/Project Wildspace/Dashboard.md"
     },
     {
       "basename": "Juggah the Orc",
