@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "899987a1634ea295",
+        "id": "875d78ad1c03d8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "07a25e34084d1815",
+            "id": "58f3fdcbbb4b0064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "859190a23660a861",
+            "id": "22f961a4fb15e070",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
+                "file": "D&D/Player View/Miravalis/Miravalis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md"
+                "file": "D&D/Player View/Miravalis/Miravalis.md"
               }
             }
           },
@@ -237,10 +238,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "07a25e34084d1815",
+  "active": "22f961a4fb15e070",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/Project Wildspace.md",
+    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+    "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "SWE/Project Wildspace/Generations.md",
+    "SWE/Project Wildspace/Project Wildspace.md",
     "SWE/Project Wildspace/Dashboard.md",
     "D&D/Player View/Miravalis/Miravalis.md",
     "SWE/Project Wildspace/World.md",
@@ -248,7 +251,6 @@
     "conflict-files-obsidian-git.md",
     "D&D/Game Information/NPCs/Juggah the Orc.md",
     "D&D/Game Information/NPCs/Borris Voronstov.md",
-    "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/REL3930/Readings",
@@ -275,7 +277,6 @@
     "School/Spring 2024/COP3502/Thomas A. Standish - Data Structures, Algorithms, and Software Principles in C (1995, Addison-Wesley).pdf",
     "D&D/Game Information/Sessions/Session 001.md",
     "Programming/Practice Problems/miniMaxSum.md",
-    "School/Spring 2024/COP3502/Test.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
