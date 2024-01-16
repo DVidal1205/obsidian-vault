@@ -27,3 +27,23 @@
 	- Philosophers
 ### The New Testament
 - Jesus shows tolerance and reduces extremism and judgementalism.
+- Marriage matters
+- Context matters
+- Rules can change
+- Sexual norms taught through and tied to regulating women's behavior
+### Saul/Paul and the Apolistic Era (Apatheia)
+- No suffering: an unattached, non-grasping state of mind and heart
+	- No material pleasure, as they will cause you problems, suffering, and attachment
+- Asceticism
+- Consecrated Virginity
+- Self-Castration
+### Platonic Dualism
+
+Reason
+
+| Plato/Philosophy | Theology | Gender |
+| ---- | ---- | ---- |
+| Form/ Idea, Realm of forms, Truth | Soul, City of God, Good | Man |
+| Illusions/Shadows, Material Appearances, Body/Objects | Evil, Earthy City, Body | Woman |
+
+Emotion and Passion
