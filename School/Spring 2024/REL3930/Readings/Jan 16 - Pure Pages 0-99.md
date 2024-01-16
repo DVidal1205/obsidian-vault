@@ -67,4 +67,12 @@ Emotion and Passion
 - Purifying the Tradition
 ### Reforming Others
 - During Colonialism Christianity expanded to cast indigenous and enslaved people as wanton and savage in need of civilizing.
-### M
+### Masters of Suspicion 
+- The point where new discourses and methods arise to study sexuality and shape sexual norms and values
+- Science, politics, philosophy, sociology, psychology
+- Mark, Freud, Nietzsche
+### Contemporary Concerns
+- Reproductive Freedoms
+- Intersectional Analysis
+- Gender and Sexual Diversity
+- Sexual Abuse and Violence
