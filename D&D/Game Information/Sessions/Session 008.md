@@ -1153,7 +1153,7 @@ Emil
 Claude
 
 Cultist
-37 /140
+30 /140
 #### Secondary
 | Stat          | Value  |
 |---------------|--------|
