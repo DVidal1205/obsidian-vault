@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md"
               }
             }
           },
@@ -223,7 +225,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "22f9e0f09984b16d",
   "lastOpenFiles": [
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "conflict-files-obsidian-git.md",
