@@ -47,3 +47,24 @@ Reason
 | Illusions/Shadows, Material Appearances, Body/Objects | Evil, Earthy City, Body | Woman |
 
 Emotion and Passion
+### Augustine
+- Details the Original Sin of the eating of the Apple with Adam and Eve
+- Dictates that this original sin is passed down throughout humans through sex, and all that is birthed has the original sin.
+- We then have to be baptized to cleanse this.
+- Lust is the desire to pass on the Original Sin
+### Aquinas 
+- Dominican Monk
+- Focus is on the exposition of natural law as it relates to the divine
+- Marriage act for pleasure is okay in the right context
+### Boccaccio's Decameron
+- Social Study in the 1353 after the plague
+- Challenges Authority and Democracy
+### Luther
+- Augustinian Monk
+- Reformer
+- Ninety-Five Theses
+- German Bible
+- Purifying the Tradition
+### Reforming Others
+- During Colonialism Christianity expanded to cast indigenous and enslaved people as wanton and savage in need of civilizing.
+### M
