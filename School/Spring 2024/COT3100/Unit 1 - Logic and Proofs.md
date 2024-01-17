@@ -114,3 +114,11 @@ Implies:
 - $p \to q \leftrightarrow \lnot p \lor q$
 Biconditional (2 statements):
 - $p \leftrightarrow q \leftrightarrow (p \to q) \land (q \to p)$
+
+### Propositional Satisfiability
+- A compound proposition is satisfiable if there is an assignment of truth values to its variables to make it true
+### Predicate Logic
+- Distinguishes subject from predicate
+- **The dog is sleeping**
+- Subject: dog
+- Predicate: is sleeping
