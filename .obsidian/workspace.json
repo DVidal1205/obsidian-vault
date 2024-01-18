@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d44e4e57e91a457c",
+        "id": "ab95f685fb76f6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "22f9e0f09984b16d",
+            "id": "4fa97d108041a7b3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SWE/Project Wildspace/Dashboard.md"
-              }
-            }
-          },
-          {
-            "id": "402d3f554c8a4013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,12 +217,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "4fa97d108041a7b3",
   "lastOpenFiles": [
+    "SWE/Project Wildspace/Dashboard.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Gallery.md",
-    "SWE/Project Wildspace/Dashboard.md",
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "School/Spring 2024/PEM2121/Untitled.md",
