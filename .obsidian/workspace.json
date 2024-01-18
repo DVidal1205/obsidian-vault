@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f01502fde8e51d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md"
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md"
               }
             }
           },
@@ -225,13 +238,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4fa97d108041a7b3",
+  "active": "7f01502fde8e51d4",
   "lastOpenFiles": [
+    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+    "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "SWE/Project Wildspace/Dashboard.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Gallery.md",
-    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "School/Spring 2024/PEM2121/Untitled.md",
     "School/Spring 2024/PEM2121",
@@ -263,7 +277,6 @@
     "D&D/Game Information/Sessions/Session 00X.md",
     "D&D/Game Information/Sessions/Session 001.md",
     "Programming/Practice Problems/miniMaxSum.md",
-    "School/Spring 2024/COP3502/Test.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
