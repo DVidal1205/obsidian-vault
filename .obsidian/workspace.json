@@ -11,8 +11,12 @@
             "id": "4fa97d108041a7b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md"
+              }
             }
           },
           {
