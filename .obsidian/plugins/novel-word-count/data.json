@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 765,
-      "nonWhitespaceCharacterCount": 653,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705634758685,
-      "modifiedDate": 1705634759078,
-      "sizeInBytes": 765
-    },
     "SWE/Serverless AWS Workshop Notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -149,18 +133,18 @@
     "SWE/Project Wildspace/Generations.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 169,
+      "wordCount": 218,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 981,
-      "nonWhitespaceCharacterCount": 807,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 1310,
+      "nonWhitespaceCharacterCount": 1085,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705078817417,
-      "modifiedDate": 1705112430804,
-      "sizeInBytes": 981
+      "modifiedDate": 1705635586298,
+      "sizeInBytes": 1310
     },
     "SWE/Project Wildspace/Dashboard.md": {
       "isDirectory": false,

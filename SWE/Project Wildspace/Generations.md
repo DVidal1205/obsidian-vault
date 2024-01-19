@@ -27,7 +27,9 @@ Backstory
 - Business
 - Description
 - Vendor
-- Goods
+- Goods (Markdown Table?)
+
+Come up with more potential elements for a town
 ### Town
 - Name
 - Population
@@ -38,6 +40,17 @@ Backstory
 - Governance
 - Lore
 - Quests
+
+- Landmarks
+- Economy
+- Education system
+- Healthcare facilities
+- Transportation system
+- Recreation and leisure facilities
+- Cultural festivals and events
+- Local cuisine and restaurants
+- Religious institutions and practices
+- Social organizations and clubs
 ### Encounter
 - Name
 - Enemies
