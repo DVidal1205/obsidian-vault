@@ -27,7 +27,9 @@ Backstory
 - Business
 - Description
 - Vendor
-- Goods
+- Goods (Markdown Table?)
+
+Come up with more potential elements for a town
 ### Town
 - Name
 - Population
@@ -35,9 +37,14 @@ Backstory
 - Architecture
 - Industries
 - Climate
+- Safety
+- Education
+- Healthcare
+- Wealth
 - Governance
 - Lore
 - Quests
+- Description 
 ### Encounter
 - Name
 - Enemies

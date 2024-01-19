@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b822df8b9c1af4d7",
+        "id": "12af580b32562b49",
         "type": "tabs",
         "children": [
           {
-            "id": "05f896772e43db2a",
+            "id": "81cea4bcb8cff231",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Game Information/Sessions/Session 008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 008.md"
+              }
             }
           },
           {
@@ -217,13 +225,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "05f896772e43db2a",
+  "active": "81cea4bcb8cff231",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "SWE/Project Wildspace/Dashboard.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Gallery.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "School/Spring 2024/PEM2121/Untitled.md",
