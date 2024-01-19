@@ -17,5 +17,22 @@
     "pageCountType": "ByWords",
     "excludeComments": false
   },
-  "cachedCounts": {}
+  "cachedCounts": {
+    "conflict-files-obsidian-git.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 102,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.34,
+      "characterCount": 765,
+      "nonWhitespaceCharacterCount": 653,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705601747419,
+      "modifiedDate": 1705634734158,
+      "sizeInBytes": 765
+    }
+  }
 }

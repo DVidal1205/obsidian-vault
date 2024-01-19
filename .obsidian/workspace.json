@@ -16,8 +16,21 @@
                 "file": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf"
               }
             }
+          },
+          {
+            "id": "60824b4865a031cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -223,12 +236,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "58f3fdcbbb4b0064",
+  "active": "60824b4865a031cd",
   "lastOpenFiles": [
-    "School/Spring 2024/PEM2121/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "SWE/Project Wildspace/Gallery.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
+    "conflict-files-obsidian-git.md",
+    "School/Spring 2024/PEM2121/Untitled.md",
+    "SWE/Project Wildspace/Gallery.md",
     "D&D/Player View/Miravalis/Miravalis World Timeline.md",
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "D&D/Player View/Miravalis/Miravalis.md",
@@ -261,7 +274,6 @@
     "D&D/Game Information/Sessions/Session 002.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "D&D/Player View/Territories/Morellus/The Morellan Crownsguard.md",
-    "D&D/Game Information/Sessions/Session 003.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
