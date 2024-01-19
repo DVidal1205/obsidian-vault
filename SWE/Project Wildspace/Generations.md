@@ -37,20 +37,14 @@ Come up with more potential elements for a town
 - Architecture
 - Industries
 - Climate
+- Safety
+- Education
+- Healthcare
+- Wealth
 - Governance
 - Lore
 - Quests
-
-- Landmarks
-- Economy
-- Education system
-- Healthcare facilities
-- Transportation system
-- Recreation and leisure facilities
-- Cultural festivals and events
-- Local cuisine and restaurants
-- Religious institutions and practices
-- Social organizations and clubs
+- Description 
 ### Encounter
 - Name
 - Enemies

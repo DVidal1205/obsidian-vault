@@ -133,18 +133,18 @@
     "SWE/Project Wildspace/Generations.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 218,
+      "wordCount": 190,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7266666666666667,
-      "characterCount": 1310,
-      "nonWhitespaceCharacterCount": 1085,
+      "pageCount": 0.6333333333333333,
+      "characterCount": 1106,
+      "nonWhitespaceCharacterCount": 909,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705078817417,
-      "modifiedDate": 1705635586298,
-      "sizeInBytes": 1310
+      "modifiedDate": 1705635686808,
+      "sizeInBytes": 1106
     },
     "SWE/Project Wildspace/Dashboard.md": {
       "isDirectory": false,
