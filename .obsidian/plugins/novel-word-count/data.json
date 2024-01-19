@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 765,
-      "nonWhitespaceCharacterCount": 653,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705698844284,
-      "modifiedDate": 1705698844625,
-      "sizeInBytes": 765
-    },
     "School/Fall 2023/STA2023/Chapter 6 - Sampling Distributions.md": {
       "isDirectory": false,
       "noteCount": 1,
