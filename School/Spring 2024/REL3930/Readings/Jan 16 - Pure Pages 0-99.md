@@ -76,3 +76,5 @@ Emotion and Passion
 - Intersectional Analysis
 - Gender and Sexual Diversity
 - Sexual Abuse and Violence
+### Convent Erotica
+- Challenge to authority

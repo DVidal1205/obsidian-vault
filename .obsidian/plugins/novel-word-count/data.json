@@ -30,8 +30,8 @@
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1705601747419,
-      "modifiedDate": 1705634734158,
+      "createdDate": 1705634758685,
+      "modifiedDate": 1705634759078,
       "sizeInBytes": 765
     },
     "SWE/Serverless AWS Workshop Notes.md": {
@@ -242,21 +242,37 @@
       "modifiedDate": 1705506789186,
       "sizeInBytes": 5341
     },
+    "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 764,
+      "nonWhitespaceCharacterCount": 628,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705634758462,
+      "modifiedDate": 1705634759052,
+      "sizeInBytes": 764
+    },
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 461,
+      "wordCount": 468,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5366666666666666,
-      "characterCount": 2938,
-      "nonWhitespaceCharacterCount": 2386,
+      "pageCount": 1.56,
+      "characterCount": 2985,
+      "nonWhitespaceCharacterCount": 2424,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705332620214,
-      "modifiedDate": 1705506789186,
-      "sizeInBytes": 2940
+      "modifiedDate": 1705634758462,
+      "sizeInBytes": 2987
     },
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md": {
       "isDirectory": false,
