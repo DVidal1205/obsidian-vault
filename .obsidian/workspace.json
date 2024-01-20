@@ -11,25 +11,28 @@
             "id": "739379ffeca01d16",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
+                "file": "SWE/Project Wildspace/Task List.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "c40df518916a2611",
+            "id": "ee9b9f7dd03581c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
+                "file": "SWE/Project Wildspace/Generations.md"
               }
             }
           },
@@ -237,12 +240,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "739379ffeca01d16",
+  "active": "ee9b9f7dd03581c5",
   "lastOpenFiles": [
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
-    "Obsidian/Banners.md",
     "SWE/Project Wildspace/Task List.md",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "Obsidian/Banners.md",
     "SWE/Project Wildspace/Generations.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",

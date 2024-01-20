@@ -537,14 +537,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.11,
-      "characterCount": 5341,
+      "characterCount": 5218,
       "nonWhitespaceCharacterCount": 3648,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704915326642,
-      "modifiedDate": 1705506789186,
-      "sizeInBytes": 5341
+      "modifiedDate": 1705794362282,
+      "sizeInBytes": 5218
     },
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md": {
       "isDirectory": false,
@@ -645,18 +645,18 @@
     "SWE/Project Wildspace/Task List.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 135,
+      "wordCount": 189,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.45,
-      "characterCount": 703,
-      "nonWhitespaceCharacterCount": 560,
+      "pageCount": 0.63,
+      "characterCount": 1027,
+      "nonWhitespaceCharacterCount": 829,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705787047167,
-      "modifiedDate": 1705787665130,
-      "sizeInBytes": 703
+      "modifiedDate": 1705794442232,
+      "sizeInBytes": 1027
     },
     "SWE/Project Wildspace/World.md": {
       "isDirectory": false,

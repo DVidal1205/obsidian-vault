@@ -1,3 +1,18 @@
+## Pre 1/20
+### Completed Features
+- Context Generation
+- TRPC Setup
+- Kinde Auth Setup
+- Authentication Layer Impermeable
+- Landing Page
+- Database Initialization
+- Type systems with Prisma
+- Image persistence with Uploadthing
+- Prompting with GPT
+- Image generation with Dall-e
+- File Routing with B64 Logic
+
+## Post 1/20
 ### Big Changes
  - [ ] Create encounter generation and view
  - [ ] Create quest generation and view
