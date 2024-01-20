@@ -53,12 +53,15 @@ Come up with more potential elements for a town
 - Surprises
 ### Faction
 - Name
+- Type
 - Population
-- Morality
-- Devotion
-- Case
-- Distinctive Traits
+- Alignment
 - Presence
+- Devotion
+- Description
+- Goals
+- Lore
+- Traits
 ### Creatures
 - Name
 - Type (e.g., beast, humanoid, undead)

@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SWE/Project Wildspace/Generations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SWE/Project Wildspace/Generations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "SWE/Project Wildspace/Generations.md"
               }
             }
           },
@@ -223,10 +225,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "739379ffeca01d16",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/Generations.md",
     "conflict-files-obsidian-git.md",
+    "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "School/Spring 2024/PEM2121/Untitled.md",
