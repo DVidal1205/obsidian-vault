@@ -13,11 +13,6 @@
 - Quirks
 - Goals
 - Backstory
-
-Physical Traits
-Character Traits
-Backstory
-
 ### Buildings
 - Building Name
 - Type
@@ -28,8 +23,6 @@ Backstory
 - Description
 - Vendor
 - Goods (Markdown Table?)
-
-Come up with more potential elements for a town
 ### Town
 - Name
 - Population
@@ -48,6 +41,9 @@ Come up with more potential elements for a town
 ### Encounter
 - Name
 - Enemies
+- Enemy abilities (markdown table)
+- Location
+- Threat Level
 - Description
 - Win Conditions
 - Surprises
@@ -85,3 +81,10 @@ Come up with more potential elements for a town
 - Damage
 - Weight
 - Description
+### Quest
+- Name
+- Objective
+- Location
+- NPCs involved
+- Reward/Consequences
+- Difficulty level
