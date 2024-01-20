@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce249aa0ebad05d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -225,8 +238,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "739379ffeca01d16",
+  "active": "ce249aa0ebad05d5",
   "lastOpenFiles": [
+    "SWE/Project Wildspace/Generations.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
@@ -236,7 +250,6 @@
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "D&D/Player View/Miravalis/Miravalis.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
-    "SWE/Project Wildspace/Generations.md",
     "SWE/Project Wildspace/Project Wildspace.md",
     "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/World.md",
