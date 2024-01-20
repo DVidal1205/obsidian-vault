@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
               }
             }
           },
@@ -238,8 +237,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c40df518916a2611",
+  "active": "739379ffeca01d16",
   "lastOpenFiles": [
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Banners.md",
     "SWE/Project Wildspace/Task List.md",
@@ -260,7 +260,6 @@
     "D&D/Game Information/NPCs/Juggah the Orc.md",
     "D&D/Game Information/NPCs/Borris Voronstov.md",
     "School/Spring 2024/COP3502/test.c",
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/REL3930/Readings",
     "SWE/Internship List.md",
     "Obsidian/Excalidraw/Drawing 2024-01-09 21.02.32.excalidraw.md",
