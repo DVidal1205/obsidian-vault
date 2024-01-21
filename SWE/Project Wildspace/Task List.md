@@ -29,3 +29,8 @@
 - [ ] Update the Navbar depending on page section
 - [ ] Fix all entity retrieval for sidebar
 - [ ] Add a user settings page for account deletion and plan management
+
+### Pricing
+Free Tier - 10 Generations per day, no Images.
+Tier 1 - Dall-e 2 and GPT 3.5, limited.
+Tier 2 - Dall-e 3 and GPT 4, limited.
