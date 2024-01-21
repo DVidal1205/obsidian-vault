@@ -645,18 +645,18 @@
     "SWE/Project Wildspace/Task List.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 189,
+      "wordCount": 196,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.63,
-      "characterCount": 1027,
-      "nonWhitespaceCharacterCount": 829,
+      "pageCount": 0.6533333333333333,
+      "characterCount": 1055,
+      "nonWhitespaceCharacterCount": 849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705787047167,
-      "modifiedDate": 1705794442232,
-      "sizeInBytes": 1027
+      "modifiedDate": 1705795209808,
+      "sizeInBytes": 1055
     },
     "SWE/Project Wildspace/World.md": {
       "isDirectory": false,

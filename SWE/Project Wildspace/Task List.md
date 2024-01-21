@@ -23,6 +23,7 @@
  - [ ] Integrate Stripe payment API
  - [ ] Create pricing page (and come up with prices)
  - [ ] Update rate limiting and model changes per user subscription tier
+ - [ ] Add Try Catch errors
 ### Small Features
 - [ ] Add an are you sure deletion dialog
 - [ ] Update the Navbar depending on page section
