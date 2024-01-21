@@ -15,7 +15,7 @@
 ## Post 1/20
 ### Big Changes
  - [ ] Create encounter generation and view
- - [ ] Create quest generation and view
+ - [x] Create quest generation and view ✅ 2024-01-21
  - [ ] Create creatures generation and view
  - [ ] Create spell/scroll generation and view
  - [ ] Create magic item generation and view
