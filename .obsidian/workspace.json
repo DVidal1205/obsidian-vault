@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12af580b32562b49",
+        "id": "f9b2838fe492f2bf",
         "type": "tabs",
         "children": [
           {
-            "id": "81cea4bcb8cff231",
+            "id": "4bd1d4fa56f47ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md"
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
               }
             }
           },
@@ -225,8 +225,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "81cea4bcb8cff231",
+  "active": "4bd1d4fa56f47ae6",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 008.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
@@ -237,7 +238,6 @@
     "School/Spring 2024/PEM2121/Untitled.md",
     "School/Spring 2024/PEM2121",
     "SWE/Project Wildspace/Generations.md",
-    "D&D/Game Information/Sessions/Session 008.md",
     "D&D/Game Information/Sessions/Session 007.md",
     "School/Spring 2024/REL3930/Readings",
     "School/Spring 2024/REL3930",

@@ -122,3 +122,29 @@ Biconditional (2 statements):
 - **The dog is sleeping**
 - Subject: dog
 - Predicate: is sleeping
+### More Predicates
+- Convention: lowercase variables x, y, z denote objects
+- Uppercase variables, P, Q, R denote propositional functions (predicates)
+- Predicate P = "is sleeping"
+### Universes of Discourse
+- Define all the objects
+- The collection of values that an object variable x can take
+- x: professor
+- y: students
+- z: grades
+### Quantifiers
+- Quantify how many objects in the universe of discourse satisfy a given predicate
+- How many P(x) are true?
+### For All (Universal Quantifier)
+- $\forall$ is the FOR all or universal quantifier means for all x in the domain that P holds
+- Let the universe be real numbers
+- Let $P(x) = \frac{x}{2} < x$
+	- is $\forall x P(x)$  true?
+	- Not true for -4
+	- If the universe is all positive numbers, then the predicate holds
+- Only need to find one exception to disprove a universal quantification
+### Exists (Existential Quantifier)
+- Let the u.d. of x be the Seats in a classroom
+- Let P(x) be the predicate "x is occupied"
+- Seats in a classroom
+	- "Some of the"
