@@ -31,7 +31,7 @@
       {
         "id": "42bcd85d0359ee96",
         "type": "tabs",
-        "dimension": 70.15503875968993,
+        "dimension": 75.72815533980582,
         "children": [
           {
             "id": "1526aaabbc5d35ef",
@@ -57,6 +57,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "9389252bc8f01de6",
+        "type": "tabs",
+        "dimension": 24.271844660194176,
+        "children": [
+          {
+            "id": "634f023a640225f6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           },
           {
             "id": "bd00480a194bb4da",
@@ -66,22 +81,8 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "9389252bc8f01de6",
-        "type": "tabs",
-        "dimension": 29.84496124031007,
-        "children": [
-          {
-            "id": "634f023a640225f6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,10 +222,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4bd1d4fa56f47ae6",
+  "active": "1526aaabbc5d35ef",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Task List.md",
     "D&D/Game Information/Sessions/Session 008.md",
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",

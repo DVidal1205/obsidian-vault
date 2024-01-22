@@ -149,3 +149,8 @@ Biconditional (2 statements):
 - Seats in a classroom
 	- "Some of the seats are occupied"
 	- "At least one seat is occupied"
+- To show an existential quantification is true, you only have to find one value to prove it
+- To show it is false, you must prove it is false for ALL values
+### Binding Variables
+- When a quantifier is used on a variable x, we say that x is bound
+- If no quantifier is used on a variable, the variable is free

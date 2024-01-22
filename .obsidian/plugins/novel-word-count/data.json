@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 765,
-      "nonWhitespaceCharacterCount": 653,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1705933593982,
-      "modifiedDate": 1705933594436,
-      "sizeInBytes": 765
-    },
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -101,18 +85,18 @@
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1130,
+      "wordCount": 1163,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.7666666666666666,
-      "characterCount": 6288,
-      "nonWhitespaceCharacterCount": 4515,
+      "pageCount": 3.8766666666666665,
+      "characterCount": 6446,
+      "nonWhitespaceCharacterCount": 4640,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1704895277794,
-      "modifiedDate": 1705933578469,
-      "sizeInBytes": 6288
+      "modifiedDate": 1705933675097,
+      "sizeInBytes": 6446
     },
     "School/Spring 2024/COP3502/C Review/Struct Quiz.md": {
       "isDirectory": false,
