@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b2838fe492f2bf",
+        "id": "9f564d0536887dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd1d4fa56f47ae6",
+            "id": "739379ffeca01d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "SWE/Project Wildspace/Task List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee9b9f7dd03581c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWE/Project Wildspace/Generations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c45de9f0018e5419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Player View/Miravalis/Power System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +56,7 @@
       {
         "id": "42bcd85d0359ee96",
         "type": "tabs",
-        "dimension": 75.72815533980582,
+        "dimension": 70.15503875968993,
         "children": [
           {
             "id": "1526aaabbc5d35ef",
@@ -57,21 +82,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9389252bc8f01de6",
-        "type": "tabs",
-        "dimension": 24.271844660194176,
-        "children": [
-          {
-            "id": "634f023a640225f6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           },
           {
             "id": "bd00480a194bb4da",
@@ -81,12 +91,27 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9389252bc8f01de6",
+        "type": "tabs",
+        "dimension": 29.84496124031007,
+        "children": [
+          {
+            "id": "634f023a640225f6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 274.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -110,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Player View/Miravalis/Power System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Player View/Miravalis/Power System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Player View/Miravalis/Power System.md"
+              }
             }
           },
           {
@@ -199,11 +228,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,6 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -222,45 +252,44 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "1526aaabbc5d35ef",
+  "active": "c45de9f0018e5419",
   "lastOpenFiles": [
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "conflict-files-obsidian-git.md",
-    "SWE/Project Wildspace/Task List.md",
-    "D&D/Game Information/Sessions/Session 008.md",
-    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
-    "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
-    "SWE/Project Wildspace/Dashboard.md",
-    "SWE/Project Wildspace/Gallery.md",
-    "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
-    "School/Spring 2024/PEM2121/Untitled.md",
-    "School/Spring 2024/PEM2121",
     "SWE/Project Wildspace/Generations.md",
-    "D&D/Game Information/Sessions/Session 007.md",
-    "School/Spring 2024/REL3930/Readings",
-    "School/Spring 2024/REL3930",
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "SWE/Project Wildspace/Task List.md",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "Obsidian/Banners.md",
+    "conflict-files-obsidian-git.md",
+    "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
+    "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
+    "School/Spring 2024/PEM2121/Untitled.md",
+    "SWE/Project Wildspace/Gallery.md",
+    "D&D/Player View/Miravalis/Miravalis World Timeline.md",
+    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
+    "D&D/Player View/Miravalis/Miravalis.md",
+    "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
+    "SWE/Project Wildspace/Project Wildspace.md",
+    "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/World.md",
+    "SWE/Project Wildspace/Untitled",
+    "D&D/Game Information/NPCs/Juggah the Orc.md",
     "D&D/Game Information/NPCs/Borris Voronstov.md",
-    "School/Spring 2024/COT3100/Unit 1 - Logic",
-    "School/Spring 2024/COT3100",
-    "School/Spring 2024/COP3330",
+    "School/Spring 2024/COP3502/test.c",
+    "School/Spring 2024/REL3930/Readings",
+    "SWE/Internship List.md",
+    "Obsidian/Excalidraw/Drawing 2024-01-09 21.02.32.excalidraw.md",
+    "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
-    "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
     "Obsidian/Attachments/Pasted image 20240109113455.png",
-    "SWE/Internship List.md",
+    "School/Spring 2024/COP3502/C Review",
     "School/Spring 2024/COP3330/Untitled.md",
     "Programming/Practice Problems/flippingBits.md",
-    "D&D/Game Information/Sessions/Session 002.md",
-    "D&D/Player View/Territories/Morellus/The Morellan Crownsguard.md",
-    "D&D/Game Information/Sessions/Session 003.md",
-    "D&D/Game Information/Sessions/Session 00X.md",
-    "D&D/Game Information/Sessions/Session 001.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",

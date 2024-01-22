@@ -19,10 +19,10 @@
 - Size
 - Architecture
 - Ambience
-- Business
+- Business Level
 - Description
 - Vendor
-- Goods (Markdown Table?)
+- Goods/Scenes (Markdown Table?)
 ### Town
 - Name
 - Population
