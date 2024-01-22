@@ -18,6 +18,22 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "conflict-files-obsidian-git.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 102,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.34,
+      "characterCount": 765,
+      "nonWhitespaceCharacterCount": 653,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705933593982,
+      "modifiedDate": 1705933594436,
+      "sizeInBytes": 765
+    },
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -514,6 +530,22 @@
       "modifiedDate": 1704740119775,
       "sizeInBytes": 105
     },
+    "SWE/Project Wildspace/Task List.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 226,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 1241,
+      "nonWhitespaceCharacterCount": 969,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1705933593705,
+      "modifiedDate": 1705933594428,
+      "sizeInBytes": 1243
+    },
     "SWE/Project Wildspace/World.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -549,18 +581,18 @@
     "SWE/Project Wildspace/Generations.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 190,
+      "wordCount": 207,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6333333333333333,
-      "characterCount": 1190,
-      "nonWhitespaceCharacterCount": 909,
+      "pageCount": 0.69,
+      "characterCount": 1278,
+      "nonWhitespaceCharacterCount": 977,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1705435438759,
-      "modifiedDate": 1705698844068,
-      "sizeInBytes": 1190
+      "modifiedDate": 1705933593705,
+      "sizeInBytes": 1278
     },
     "SWE/Project Wildspace/Project Wildspace.md": {
       "isDirectory": false,
