@@ -147,4 +147,5 @@ Biconditional (2 statements):
 - Let the u.d. of x be the Seats in a classroom
 - Let P(x) be the predicate "x is occupied"
 - Seats in a classroom
-	- "Some of the"
+	- "Some of the seats are occupied"
+	- "At least one seat is occupied"
