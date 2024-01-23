@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
       {
         "id": "9389252bc8f01de6",
         "type": "tabs",
-        "dimension": 24.271844660194176,
+        "dimension": 24.271844660194173,
         "children": [
           {
             "id": "634f023a640225f6",
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md"
+              }
             }
           },
           {
@@ -222,7 +226,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "1526aaabbc5d35ef",
+  "active": "4bd1d4fa56f47ae6",
   "lastOpenFiles": [
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "conflict-files-obsidian-git.md",
