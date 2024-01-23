@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Player View/Miravalis/Power System.md",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Player View/Miravalis/Power System.md",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Player View/Miravalis/Power System.md",
+                "file": "SWE/Project Wildspace/Generations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Player View/Miravalis/Power System.md"
+                "file": "SWE/Project Wildspace/Generations.md"
               }
             }
           },
@@ -254,8 +254,8 @@
   },
   "active": "c45de9f0018e5419",
   "lastOpenFiles": [
-    "SWE/Project Wildspace/Generations.md",
     "D&D/Player View/Miravalis/Power System.md",
+    "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "SWE/Project Wildspace/Task List.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
