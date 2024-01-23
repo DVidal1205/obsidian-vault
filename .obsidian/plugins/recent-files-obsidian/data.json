@@ -1,40 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Power System",
+      "path": "D&D/Player View/Miravalis/Power System.md"
+    },
+    {
+      "basename": "Generations",
+      "path": "SWE/Project Wildspace/Generations.md"
+    },
+    {
       "basename": "Unit 1 - Logic and Proofs",
       "path": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
     },
     {
-      "basename": "Session 008",
-      "path": "D&D/Game Information/Sessions/Session 008.md"
+      "basename": "Task List",
+      "path": "SWE/Project Wildspace/Task List.md"
+    },
+    {
+      "basename": "Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012)",
+      "path": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
+    },
+    {
+      "basename": "Banners",
+      "path": "Obsidian/Banners.md"
+    },
+    {
+      "basename": "Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books)",
+      "path": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf"
+    },
+    {
+      "basename": "Untitled",
+      "path": "School/Spring 2024/PEM2121/Untitled.md"
+    },
+    {
+      "basename": "Miravalis World Timeline",
+      "path": "D&D/Player View/Miravalis/Miravalis World Timeline.md"
     },
     {
       "basename": "Jan 16 - Pure Pages 0-99",
       "path": "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md"
     },
     {
-      "basename": "Jan 18 - Pure 99-199",
-      "path": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "SWE/Project Wildspace/Dashboard.md"
-    },
-    {
-      "basename": "Gallery",
-      "path": "SWE/Project Wildspace/Gallery.md"
+      "basename": "Miravalis",
+      "path": "D&D/Player View/Miravalis/Miravalis.md"
     },
     {
       "basename": "Jan 11 - The Virgin Daughters",
       "path": "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md"
     },
     {
-      "basename": "Session 007",
-      "path": "D&D/Game Information/Sessions/Session 007.md"
+      "basename": "Project Wildspace",
+      "path": "SWE/Project Wildspace/Project Wildspace.md"
     },
     {
-      "basename": "Pointers Quiz",
-      "path": "School/Spring 2024/COP3502/C Review/Pointers Quiz.md"
+      "basename": "Dashboard",
+      "path": "SWE/Project Wildspace/Dashboard.md"
+    },
+    {
+      "basename": "World",
+      "path": "SWE/Project Wildspace/World.md"
+    },
+    {
+      "basename": "Juggah the Orc",
+      "path": "D&D/Game Information/NPCs/Juggah the Orc.md"
+    },
+    {
+      "basename": "Borris Voronstov",
+      "path": "D&D/Game Information/NPCs/Borris Voronstov.md"
+    },
+    {
+      "basename": "Internship List",
+      "path": "SWE/Internship List.md"
     },
     {
       "basename": "Strings Quiz",
@@ -53,16 +89,16 @@
       "path": "School/Spring 2024/COP3502/C Review/Struct Quiz.md"
     },
     {
-      "basename": "Internship List",
-      "path": "SWE/Internship List.md"
-    },
-    {
       "basename": "flippingBits",
       "path": "Programming/Practice Problems/flippingBits.md"
     },
     {
       "basename": "Session 002",
       "path": "D&D/Game Information/Sessions/Session 002.md"
+    },
+    {
+      "basename": "Session 008",
+      "path": "D&D/Game Information/Sessions/Session 008.md"
     },
     {
       "basename": "The Morellan Crownsguard",
@@ -101,24 +137,12 @@
       "path": "School/Events.md"
     },
     {
-      "basename": "Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012)",
-      "path": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
-    },
-    {
       "basename": "Janet Jakobsen, Ann Pellegrini - Love the Sin, Sexual Regulation and the Limits of Religious Tolerance (Sexual Cultures) (2003, NYU Press)",
       "path": "School/Spring 2024/REL3930/Janet Jakobsen, Ann Pellegrini - Love the Sin, Sexual Regulation and the Limits of Religious Tolerance (Sexual Cultures) (2003, NYU Press).pdf"
     },
     {
       "basename": "Megan Goodwin - Abusing Religion, Literary Persecution, Sex Scandals, and American Minority Religions (2020, Rutgers University Press)",
       "path": "School/Spring 2024/REL3930/Megan Goodwin - Abusing Religion, Literary Persecution, Sex Scandals, and American Minority Religions (2020, Rutgers University Press).pdf"
-    },
-    {
-      "basename": "Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books)",
-      "path": "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf"
-    },
-    {
-      "basename": "Project Wildspace",
-      "path": "SWE/Project Wildspace/Project Wildspace.md"
     },
     {
       "basename": "The Royal Crucible",
@@ -165,28 +189,16 @@
       "path": "D&D/Player View/Territories/Morellus/Places/Districts/Eastern District.md"
     },
     {
+      "basename": "Session 007",
+      "path": "D&D/Game Information/Sessions/Session 007.md"
+    },
+    {
       "basename": "2023-12-21",
       "path": "Life/Journal/Daily Notes/2023-12-21.md"
     },
     {
       "basename": "2023-12-18",
       "path": "Life/Journal/Daily Notes/2023-12-18.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "Life/Journal/Daily Notes/2023-12-17.md"
-    },
-    {
-      "basename": "Ecliptics",
-      "path": "D&D/Game Information/Resources/Temporal Dread/Ecliptics.md"
-    },
-    {
-      "basename": "Structure",
-      "path": "D&D/Game Information/Resources/Temporal Dread/Structure.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "Life/Journal/Daily Notes/2023-12-16.md"
     }
   ],
   "omittedPaths": [],

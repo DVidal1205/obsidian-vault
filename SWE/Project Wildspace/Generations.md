@@ -19,10 +19,10 @@
 - Size
 - Architecture
 - Ambience
-- Business
+- Business Level
 - Description
 - Vendor
-- Goods (Markdown Table?)
+- Goods/Scenes (Markdown Table?)
 ### Town
 - Name
 - Population
@@ -76,11 +76,11 @@
 - Effects/Abilities
 - Components (verbal, somatic, material)
 ### Weapon/Item 
-- Rarity
-- Abilities
-- Damage
-- Weight
+- Type
+- Name
 - Description
+- Lore
+- Abilities
 ### Quest
 - Name
 - Objective
