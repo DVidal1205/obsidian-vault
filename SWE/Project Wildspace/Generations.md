@@ -76,11 +76,11 @@
 - Effects/Abilities
 - Components (verbal, somatic, material)
 ### Weapon/Item 
-- Rarity
-- Abilities
-- Damage
-- Weight
+- Type
+- Name
 - Description
+- Lore
+- Abilities
 ### Quest
 - Name
 - Objective
