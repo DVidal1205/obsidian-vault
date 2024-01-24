@@ -170,3 +170,9 @@ p, therefore p or q - Addition
 p and q, therefore p or therefore q - Simplification
 p q, therefore p and q
 
+### Inference Rules of Quantifiers
+Universal Instantiation
+$\forall x P(x) \therefore P(c)$
+Existential Instantiation
+$\exists xP(x) \therefore P(c)$ for some $c$
+Un
