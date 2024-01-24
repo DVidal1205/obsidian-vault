@@ -165,3 +165,8 @@ Biconditional (2 statements):
 - Consider $(p \land (p \rightarrow q)) \rightarrow q$
 - Premises: $p$ and $p \rightarrow q$
 - $\therefore q$
+### Some Inference Rules
+p, therefore p or q - Addition
+p and q, therefore p or therefore q - Simplification
+p q, therefore p and q
+
