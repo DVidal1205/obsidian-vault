@@ -154,3 +154,14 @@ Biconditional (2 statements):
 ### Binding Variables
 - When a quantifier is used on a variable x, we say that x is bound
 - If no quantifier is used on a variable, the variable is free
+### Inference
+- Methods of Mathematical Argument can be formalized in terms of rules of logical inference
+- p = "you are in the class"
+- $p \rightarrow q$ = "if you are in class, then you get a grade"
+- What is q? (You will get a grade)
+- q is the conclusion, and the first two statements are premises
+- $\therefore$ q 
+### Modus Ponens
+- Consider $(p \land (p \rightarrow q)) \rightarrow q$
+- Premises: $p$ and $p \rightarrow q$
+- $\therefore q$

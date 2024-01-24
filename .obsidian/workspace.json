@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b2838fe492f2bf",
+        "id": "124675acb551efb2",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd1d4fa56f47ae6",
+            "id": "f658c872f4093112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4247ca8541eed2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md"
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
               }
             }
           },
@@ -239,7 +226,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4247ca8541eed2d6",
+  "active": "f658c872f4093112",
   "lastOpenFiles": [
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
