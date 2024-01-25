@@ -175,4 +175,7 @@ Universal Instantiation
 $\forall x P(x) \therefore P(c)$
 Existential Instantiation
 $\exists xP(x) \therefore P(c)$ for some $c$
-Un
+Universal Generalization
+$P(c)$ for all c $\therefore \forall x P(x)$
+Universal Generalization
+$P(c)$ for some c $\therefore \exists x P(x)$
