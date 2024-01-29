@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "SWE/Project Wildspace/Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "SWE/Project Wildspace/Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
+                "file": "SWE/Project Wildspace/Task List.md"
               }
             }
           },
@@ -238,8 +237,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "ee9b9f7dd03581c5",
+  "active": "739379ffeca01d16",
   "lastOpenFiles": [
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "SWE/Project Wildspace/Task List.md",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Dashboard.md",
@@ -247,7 +247,6 @@
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "D&D/Player View/Miravalis/Power System.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Banners.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
@@ -276,7 +275,6 @@
     "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
     "Obsidian/Attachments/Pasted image 20240109113455.png",
     "School/Spring 2024/COP3502/C Review",
-    "School/Spring 2024/COP3330/Untitled.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",

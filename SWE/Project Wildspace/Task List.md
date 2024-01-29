@@ -11,7 +11,6 @@
 - Prompting with GPT
 - Image generation with Dall-e
 - File Routing with B64 Logic
-
 ## Post 1/20
 ### Big Changes
  - [ ] Create encounter generation and view
