@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Script.md",
+                "file": "Caspian Virens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Script.md",
+                "file": "Caspian Virens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Script.md"
+                "file": "Caspian Virens.md"
               }
             }
           },
@@ -264,10 +264,10 @@
       }
     ]
   },
-  "active": "9ee454bb52efbe62",
+  "active": "e987402930fd0092",
   "lastOpenFiles": [
-    "Caspian Virens.md",
     "SWE/Project Wildspace/Script.md",
+    "Caspian Virens.md",
     "Dashboard.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "SWE/Project Wildspace/Task List.md",
