@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b92c4f04d14365fc",
+        "id": "13a93d4df73bba73",
         "type": "tabs",
         "children": [
           {
-            "id": "94d2aa18383b8ed8",
+            "id": "7ddad9ad569ec7a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -195,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +226,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "94d2aa18383b8ed8",
+  "active": "7ddad9ad569ec7a6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SWE/Project Wildspace/Script.md",
+    "Design Jam/Hackathon Pillars.md",
+    "Design Jam",
     "SWE/Project Wildspace/Task List.md",
     "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
@@ -228,7 +239,6 @@
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Banners.md",
-    "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "School/Spring 2024/PEM2121/Untitled.md",
@@ -252,12 +262,9 @@
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.pdf",
-    "School/Spring 2024/COP3502/C Review/Struct Quiz.md",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
     "Obsidian/Attachments/Pasted image 20240109113455.png",
-    "School/Spring 2024/COP3502/C Review",
-    "School/Spring 2024/COP3330/Untitled.md",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
