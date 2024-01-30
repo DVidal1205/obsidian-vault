@@ -32,6 +32,6 @@
 - Should this be private to UCF students, or open to the public via Devpost threads?
 - What is the capacity of where we would host it?
 ## MLH (Major League Hacking)
-- 
+- https://mlh.io/faq/
 - https://guide.mlh.io
 
