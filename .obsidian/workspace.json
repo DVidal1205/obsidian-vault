@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f564d0536887dbb",
+        "id": "b92c4f04d14365fc",
         "type": "tabs",
         "children": [
           {
-            "id": "739379ffeca01d16",
+            "id": "94d2aa18383b8ed8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWE/Project Wildspace/Task List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee9b9f7dd03581c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c45de9f0018e5419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Generations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SWE/Project Wildspace/Generations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,13 +219,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c45de9f0018e5419",
+  "active": "94d2aa18383b8ed8",
   "lastOpenFiles": [
+    "SWE/Project Wildspace/Task List.md",
+    "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "D&D/Player View/Miravalis/Power System.md",
-    "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "SWE/Project Wildspace/Task List.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Banners.md",
     "conflict-files-obsidian-git.md",
