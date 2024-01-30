@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f564d0536887dbb",
+        "id": "18ec95e6417e5ecf",
         "type": "tabs",
         "children": [
           {
-            "id": "739379ffeca01d16",
+            "id": "e987402930fd0092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/Project Wildspace/Task List.md",
+                "file": "Caspian Virens.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ee9b9f7dd03581c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
               }
             }
           }
@@ -95,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945
+    "width": 274.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/Project Wildspace/Task List.md",
+                "file": "SWE/Project Wildspace/Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/Project Wildspace/Task List.md",
+                "file": "SWE/Project Wildspace/Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/Project Wildspace/Task List.md"
+                "file": "SWE/Project Wildspace/Script.md"
               }
             }
           },
@@ -236,17 +227,57 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "739379ffeca01d16",
+  "floating": {
+    "id": "c5f057296ae03fca",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cab33abc9389fcf7",
+        "type": "window",
+        "children": [
+          {
+            "id": "e074e7aa84f98917",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ee454bb52efbe62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SWE/Project Wildspace/Script.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2392,
+        "y": 310,
+        "width": 616,
+        "height": 690,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "9ee454bb52efbe62",
   "lastOpenFiles": [
+    "Caspian Virens.md",
+    "SWE/Project Wildspace/Script.md",
+    "Dashboard.md",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "SWE/Project Wildspace/Task List.md",
     "Kasimir Thorne (3).md",
     "Riftcaller's Band.md",
-    "SWE/Project Wildspace/Task List.md",
     "Kasimir Thorne.md",
     "Kasimir Thorne (1).md",
     "Kasimir Thorne (2).md",
     "Caelus Starmane.md",
     "Elio Minerva.md",
-    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/Generations.md",
@@ -263,10 +294,7 @@
     "D&D/Player View/Miravalis/Miravalis.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "SWE/Project Wildspace/Project Wildspace.md",
-    "SWE/Project Wildspace/World.md",
     "SWE/Project Wildspace/Untitled",
-    "D&D/Game Information/NPCs/Juggah the Orc.md",
-    "D&D/Game Information/NPCs/Borris Voronstov.md",
     "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/REL3930/Readings",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
