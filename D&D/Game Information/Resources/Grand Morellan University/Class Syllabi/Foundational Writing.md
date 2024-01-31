@@ -1,25 +1,22 @@
 ### Course: CAH-1113
-
-### CAH: CPP-315
-
-### Professor: Prof. Elyssa Scribenara
+### Building: CAH-315
+### Professor: Dr. Elyssa Scribenara
 
 **Course Description:** Embark on a journey of linguistic discovery with Prof. Elyssa Scribana in the Foundational Writing course. This foundational exploration introduces students to the art of crafting coherent and compelling written expressions. From the nuances of grammar to the artistry of storytelling, this course lays the groundwork for effective and impactful communication.
 
-**Schedule:**
-
+**Schedule**
 1. **Week 1:** Introduction to Written Expression
 2. **Week 2:** Grammatical Foundations
 3. **Week 3:** Crafting Clear Sentences
 4. **Week 4:** Punctuation Proficiency
 5. **Week 5:** Developing Paragraph Structure
-6. **Week 6:** Narrative Techniques
+6. **Week 6:** BREAK
 7. **Week 7:** **Midterm Assessment**
 8. **Week 8:** Persuasive Writing Strategies
 9. **Week 9:** Research and Citation Basics
 10. **Week 10:** Effective Editing Practices
 11. **Week 11:** The Art of Revision
-12. **Week 12:** Exploring Different Writing Styles
+12. **Week 12:** BREAK
 13. **Week 13:** Writing for Diverse Audiences
 14. **Week 14:** Collaborative Writing Projects
 15. **Week 15:** **Final Exam**

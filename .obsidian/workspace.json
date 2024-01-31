@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "225d4d7be44b3026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Game Information/Sessions/Session 008.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a71617602c487bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D/Game Information/Sessions/Session 009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48f698a5aa8edac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29a58da252ef454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md"
+                "file": "D&D/Game Information/Sessions/Session 010.md"
               }
             }
           },
@@ -250,19 +238,20 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "48f698a5aa8edac8",
+  "active": "f29a58da252ef454",
   "lastOpenFiles": [
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Colleges.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
-    "D&D/Game Information/Sessions/Session 010.md",
-    "D&D/Game Information/Sessions/Session 009.md",
     "D&D/Game Information/Sessions/Session 008.md",
+    "D&D/Game Information/Sessions/Session 009.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Colleges.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md",
+    "D&D/Game Information/Sessions/Session 010.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "SWE/Project Wildspace/Script.md",
@@ -278,7 +267,6 @@
     "Caelus Starmane.md",
     "Elio Minerva.md",
     "SWE/Project Wildspace/Dashboard.md",
-    "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "SWE/Project Wildspace/Untitled",
     "School/Spring 2024/COP3502/test.c",
