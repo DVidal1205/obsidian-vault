@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16fbefba24eca6ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
+                "file": "School/Spring 2024/COT3100/Unit 2 - Set Theory.md"
               }
             }
           },
@@ -226,8 +239,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "83c0188623e20a57",
+  "active": "16fbefba24eca6ea",
   "lastOpenFiles": [
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Script.md",
     "Design Jam/Hackathon Pillars.md",
@@ -236,7 +251,6 @@
     "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "D&D/Player View/Miravalis/Power System.md",
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Banners.md",
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
@@ -260,7 +274,6 @@
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Pointers Quiz.md",
     "School/Spring 2024/COP3502/C Review/Strings Quiz.md",
-    "School/Spring 2024/COP3502/C Review/File-IO Quiz.md",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
