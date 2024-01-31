@@ -11,8 +11,12 @@
             "id": "e987402930fd0092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -195,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,6 +265,8 @@
   },
   "active": "e987402930fd0092",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "SWE/Project Wildspace/Script.md",
     "Caspian Virens.md",
     "Dashboard.md",
@@ -270,7 +279,6 @@
     "Kasimir Thorne (2).md",
     "Caelus Starmane.md",
     "Elio Minerva.md",
-    "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/Generations.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
@@ -285,7 +293,6 @@
     "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
     "D&D/Player View/Miravalis/Miravalis.md",
     "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
-    "SWE/Project Wildspace/Project Wildspace.md",
     "SWE/Project Wildspace/Untitled",
     "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/REL3930/Readings",
