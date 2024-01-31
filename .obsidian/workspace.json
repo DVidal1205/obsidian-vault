@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "18ec95e6417e5ecf",
+        "id": "b8bca91ec1e4b5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e987402930fd0092",
+            "id": "225d4d7be44b3026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "D&D/Game Information/Sessions/Session 008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a71617602c487bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48f698a5aa8edac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945,
-    "collapsed": true
+    "width": 274.51103591918945
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md"
               }
             }
           },
@@ -226,45 +250,19 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "floating": {
-    "id": "c5f057296ae03fca",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cab33abc9389fcf7",
-        "type": "window",
-        "children": [
-          {
-            "id": "e074e7aa84f98917",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9ee454bb52efbe62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SWE/Project Wildspace/Script.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2392,
-        "y": 310,
-        "width": 616,
-        "height": 690,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "e987402930fd0092",
+  "active": "48f698a5aa8edac8",
   "lastOpenFiles": [
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Colleges.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Arcane Studies - CAS.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
+    "D&D/Game Information/Sessions/Session 010.md",
+    "D&D/Game Information/Sessions/Session 009.md",
+    "D&D/Game Information/Sessions/Session 008.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "SWE/Project Wildspace/Script.md",
@@ -281,18 +279,7 @@
     "Elio Minerva.md",
     "SWE/Project Wildspace/Dashboard.md",
     "SWE/Project Wildspace/Generations.md",
-    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
-    "D&D/Player View/Miravalis/Power System.md",
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "Obsidian/Banners.md",
-    "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
-    "School/Spring 2024/PEM2121/Untitled.md",
-    "SWE/Project Wildspace/Gallery.md",
-    "D&D/Player View/Miravalis/Miravalis World Timeline.md",
-    "School/Spring 2024/REL3930/Readings/Jan 16 - Pure Pages 0-99.md",
-    "D&D/Player View/Miravalis/Miravalis.md",
-    "School/Spring 2024/REL3930/Readings/Jan 11 - The Virgin Daughters.md",
     "SWE/Project Wildspace/Untitled",
     "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/REL3930/Readings",

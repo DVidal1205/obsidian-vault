@@ -45,7 +45,7 @@
 - Aerospace Engineering
 - Nautical Design
 - Independent Research
-### College of Arts and Design
+### College of Fine Arts and Design
 - Architecture
 - Graphic Design
 - Material Design (Trades - Carpentry, Textiles, Cobbling, etc.)
