@@ -179,3 +179,15 @@ Universal Generalization
 $P(c)$ for all c $\therefore \forall x P(x)$
 Universal Generalization
 $P(c)$ for some c $\therefore \exists x P(x)$
+
+### Proof Methods
+#### Direct Proof
+- Prove the statement ($p \rightarrow q$)
+#### Indirect Proof
+- Prove the contrapositive ($\lnot q \rightarrow \lnot p$)
+#### Proof by Contradiction
+- Sow that $\lnot q$ and $p$ cannot be true at the same time, proving q must be true
+#### Vacuous Proof
+#### Trivial Proof
+#### Proof by Cases
+- Cover all possibilities

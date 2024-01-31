@@ -11,8 +11,12 @@
             "id": "83c0188623e20a57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md"
               }
             }
           },
@@ -220,7 +226,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "80af204f0e821e82",
+  "active": "83c0188623e20a57",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Script.md",
