@@ -195,3 +195,6 @@ $P(c)$ for some c $\therefore \exists x P(x)$
 - Given $\exists x P(x)$, we only have to show that a P(c) exists for some value of c
 - Constructive: Find a value for c which P(c) is true
 - Nonconstructive: Show that such a c exists, but don't find it
+#### Uniqueness Proof
+- Existence: show it exists
+- Uniqueness: Show it is unique
