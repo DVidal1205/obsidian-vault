@@ -191,3 +191,7 @@ $P(c)$ for some c $\therefore \exists x P(x)$
 #### Trivial Proof
 #### Proof by Cases
 - Cover all possibilities
+#### Existence Proof
+- Given $\exists x P(x)$, we only have to show that a P(c) exists for some value of c
+- Constructive: Find a value for c which P(c) is true
+- Nonconstructive: Show that such a c exists, but don't find it
