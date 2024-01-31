@@ -18,6 +18,7 @@ This session will be another downtime session amongst the party members, includi
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
 #### Emil
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
+- Eventual interacting with Von Jax, lead researcher in Detricite Amplicite Dynamics. He will show great interest in the arm, and will tell him that it is definitely the work of his great grandfather, Professor Jare Jax, denoted by the OBVIOUS j on the right pointer finger, as seven was his lucky number. 
 #### Tova
 #### Vouhi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
@@ -43,7 +44,10 @@ This session will be another downtime session amongst the party members, includi
 - "So, just a quick sanitization check, all of you here are competitors right? Theres no need to conceal it, I just want to make sure our detection ran smooth. Any final calls? Alright so, here's the deal. When the crown announced the Crucible, it was a shock to the world. Unfortunately it was a shock to us faculty members too, so moving forward, we're going to be instituting a new curriculum for members within the crucible based on some of the mistakes we had noticed from the end of last semester. The changes here are as follows"
 - "First, the usual 20 days on 5 days off rule won't apply this semester, as that pattern resulted in some people missing time to compete and falling behind, especially during finals week. Instead, competitors will have a 4 day a week schedule, rather than the previous 2-3 day. Classes will run from 10:00-4:00 Solara to Terrador."
 - "Second, your five days off will be every 25 days, and will be during the crucible instead. To recuperate your time off that is missed, 3 days before the trial and two days afterwards, classes will be cancelled for crucible members. This will be time to prepare and/or recover from the events of trials and align properly with your participance and the curriculum."
-- "Third, after discussion with the Council, a motion has been put forth to alter curriculum for the contestants as they claim you all to be the future of our nation. As such, you all have received nothing short of the best in terms of professors, and have extended resources available to you all as students that others do not. As a side note, I suggest you all take advantage of these sas "
+- "Third, after discussion with the Council, a motion has been put forth to alter curriculum for the contestants as they claim you all to be the future of our nation. As such, you all have received nothing short of the best in terms of professors and exclusive class sections marked by a T code, and have extended resources available to you all as students that others do not. As a side note, I suggest you all take advantage of these as much as possible"
+- "Last but not least, removal from the trial through loss will result in a revoking of these privileges, and will result in a transition of scheduling to normal class sections as our curriculum is standardized and will make the transition largely smooth."
+- After the presentation, the IDs of the students will instead turn purple, signifying their status as Crucible Students. These IDs are faceless, unless held up and presented, showing the name of the candidate, their 8 digit ID, and a bright green glow. If anyone other than the candidate presents the card, it turns red.
+- Floating pieces of papers will then loftily float through the venue to each student, gravitating towards their ID. These are their schedules. They will continue through the rest of their schedules for the remainder of the day.
 #### Zero
 
 #### Log

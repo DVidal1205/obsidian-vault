@@ -1,4 +1,4 @@
-### Course : CSE-1234
+### Course : CSE1234T-05
 ### Building: CSE-236
 ### Professor: Dr. Serena Logicus
 
