@@ -23,8 +23,19 @@ This session will be another downtime session amongst the party members, includi
 - Dr. Jax wishes to put Emil through various tests using his arm. He claims that he has bonded to his quite well, and will explain that there is in fact a bonding process within the stone. There is biology, yes, but there seems to be spirit as well. That is the one thing his ancestor did not consider, because the concept of a soul in itself was outside the reach of his scientific mind. Then that begs the question, why. 
 - Emil will learn that his arm was made around the Emergent Era, briefly after the defeat of Gnoxrus. He will ask if he knows anything about Carlos for a head start. He will conclude that this was made for a man named Carlos Brawhon, who became Crownsguard in the year 1750, after choosing to fight after the Battle of the Unbounding where he lost his arm. He succeeded as the second generation of Crownsguard after the death of Kyle Smith due to old age. He eventually fought alongside a Firbolg man named Seraphius, who is still alive and retired to the Claystone Mages to the North who may have more answers.
 - Additionally, Emil will have an encounter with the Blackrock family, after the revival of the Loxodon he killed. During a late night on campus, he will notice a weird tug on his watch. It will come unclamped, and as it falls, a Leonin man runs after it, snatching it, and runs throughout campus into a back corner of campus.
-- He will be cornered by 3 Thugs who are eager to take Emil out for what he did to their warehouse.
+- He will be cornered by 3 Thugs who are eager to take Emil out for what he did to their warehouse. [[Blackrock Mage]], [[Blackrock Thief]], [[Blackrock Thug]].
+- Mage: 21/21 AC13
+- Thug: 45/45 AC15
+- Thief: 23/23 AC16
+- If they win, they will steal Emil's Money and bash in his shield.
 #### Tova
+- If visiting Thaddeus, he will learn of his recent affairs.
+- The shop will be messy, and the lights will be dim. Despite being in working hours, the closed sign will be up, along with a sign posted - "NEW HOURS" cutting his opening in half. Upon entering, he will proclaim his great satisfaction to see Tova still alive. Looking around the room, there will be indeterminant sketches of cryptic things, but Tova will have came just in time for a breakthrough.
+- "You see, Amplicite has many interesting properties we have yet to discover the meaning of. It's relation to the mind, the body, the spirit. But one thing thorough testing has shown is this." 
+- Thaddeus will pull out a raw node he has collected himself. With a dash of blood, he will place it next to a pot with a seed in it. A very subtle growth ill take place.
+- "You see boy, the default form of this energy is life. Through inscription, mages have learned to channel that spunk into things like fire or electricity. And engineers have honed that to invention. But one thing society has found Amplicite incapable of doing is harnessing the necromantic. It goes against its fundamentals, the core of its essence. Yet, this happens."
+- Thaddeus will pull out a small segment of another brick. If Tova asks, he went back to the explosion site, and found a fragment of a brick in a bush. All of the other pieces seemingly disappeared.
+- "I will conduct"
 #### Vouhi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 
