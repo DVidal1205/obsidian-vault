@@ -17,6 +17,6 @@ How and why does she distinguish between “sodomy” and “homosexuality”?
 - The bible came to speak of heterosexuality late due to the fields of psychoanalytic thinking
 
 1. What is a Bible
-From King James Bible in Shakespearean Era to the New National Bible
+From King James Bible in Shakespearean Era to the New International Bible. The King James version of the bible makes no reference to homosexuality.
 1. How does it say things
 2. How does it say things about homosexuality
