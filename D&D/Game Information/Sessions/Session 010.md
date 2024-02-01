@@ -19,6 +19,9 @@ This session will be another downtime session amongst the party members, includi
 - After going home and preparing for school, Claude will notice an item in his bag that he did not remember packing. Within it is going to be a vial of fey essence, collected by Dvita off of Blark.
 - Fey Vial: drinking this will send Claude into a wild magic frenzy, which he will struggle to maintain control over Dvita. Typical Wild Magic effects, and wicked flashbacks of his past life (Beautiful Fey City, Wildfires, Chambers, Chains, etc).
 - Going to begin feeling really sleepy at night, despite getting his designated trance. Time also stops adding up. During this time, Dvita will have been scouting out the Western District, and Dvita can notice this by the mud on his boots or the unlocked window. Dvita has been slowly awoken since the Old Stones, and will continue to do research before acting on anything. 
+- Xavier will also be gone for some of the downtime, as he has chosen to go into work voluntarily after hearing the news. The MPMP could use his help, and he's happy to if it means getting rid of these cultists. Claude can get up to shenanigans while home alone.
+- Claude will be approached by Ealdrid, and offer his condolences for any tragedy he may have faced. 
+- Claude will be noticed by his friends from the university as well, and will also find Leif.
 #### Emil
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
 - Eventual interacting with Von Jax, lead researcher in Detricite Amplicite Dynamics. He will show great interest in the arm, and will tell him that it is definitely the work of his great * 7 grandfather, Professor Jare Jax, denoted by the OBVIOUS j on the right pointer finger, as seven was his lucky number. 
