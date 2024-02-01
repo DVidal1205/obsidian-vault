@@ -18,6 +18,12 @@ What is your perspective on the relationship between sexuality and  religion in 
 - The bible came to speak of heterosexuality late due to the fields of psychoanalytic thinking
 
 1. What is a Bible
-From King James Bible in Shakespearean Era to the New International Bible. The King James version of the bible makes no reference to homosexuality.
-1. How does it say things
-2. How does it say things about homosexuality
+- From King James Bible in Shakespearean Era to the New International Bible. The King James version of the bible makes no reference to homosexuality.
+2. How does it say things
+3. How does it say things about homosexuality
+
+Sins of Sodom
+- Inhospitality
+- Violence
+- Wealth and Greed
+- Sexual Assault (Where homosexuality came from)
