@@ -16,12 +16,6 @@ This session will be another downtime session amongst the party members, includi
 ### Player Subplots
 #### Claude
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
-- After going home and preparing for school, Claude will notice an item in his bag that he did not remember packing. Within it is going to be a vial of fey essence, collected by Dvita off of Blark.
-- Fey Vial: drinking this will send Claude into a wild magic frenzy, which he will struggle to maintain control over Dvita. Typical Wild Magic effects, and wicked flashbacks of his past life (Beautiful Fey City, Wildfires, Chambers, Chains, etc).
-- Going to begin feeling really sleepy at night, despite getting his designated trance. Time also stops adding up. During this time, Dvita will have been scouting out the Western District, and Dvita can notice this by the mud on his boots or the unlocked window. Dvita has been slowly awoken since the Old Stones, and will continue to do research before acting on anything. 
-- Xavier will also be gone for some of the downtime, as he has chosen to go into work voluntarily after hearing the news. The MPMP could use his help, and he's happy to if it means getting rid of these cultists. Claude can get up to shenanigans while home alone.
-- Claude will be approached by Ealdrid, and offer his condolences for any tragedy he may have faced. 
-- Claude will be noticed by his friends from the university as well, and will also find Leif.
 #### Emil
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
 - Eventual interacting with Von Jax, lead researcher in Detricite Amplicite Dynamics. He will show great interest in the arm, and will tell him that it is definitely the work of his great * 7 grandfather, Professor Jare Jax, denoted by the OBVIOUS j on the right pointer finger, as seven was his lucky number. 
@@ -48,8 +42,8 @@ This session will be another downtime session amongst the party members, includi
 - "You Tova, well, you were quite special. I'm not sure how much you remember, but I really didn't have much time to program you at all. You see, I had stumbled into your homeland all those months ago, a scared wee gnome man, confronted with what your locals called the floor dwellers. Wicked monsters of horrid proportions. You see, you come from a kind called Asteralis Golems, sentient trees made of an amazingly resilient bark. It is said you were born from the goddess of the region, Drysalia the Barkweaver. Despite being sentient, you were never really conscious. None of you were. Beings of protection, that is what they are. You were the one who had rescued me, actually. It's quite ironic actually. You took quite the beating from that wretched beast, but you carried me up to the invisible canopy with ease. I stood before the Verdant Assembly pleading for a place to stay to return home. Shockingly enough, they complied with the first half, but denied the second. You see the region is a bit of a secret to most of the world, and they did not want secret getting out. Well, I'd be damned to leave this shop behind, so I did what I did best. I tinkered! I was stuck out in your parts after getting stranded on the wrong side of the Chasms, and I had heard rumors of a beautiful region to the west of the mountains, so I went there for refuge. I had no idea. Regardless, I had a chunk of Amplicite on me, and my toolbox. So, I got to work. I created a core of the material, and by tricking you into believing implanting it in your chest was to save my life, you had let me. You lit up like fireworks, and you began to think. Oh the millions of questions you asked me. Well, we fled together. Your strengthened form worked wonders in escaping, and then, we became best friends. It was your idea, actually, to change your form to this one. You said it was more gentle, and you would get less stares. Long story short, I never really did invent  your way of thinking. That is all you my boy."
 #### Vouhi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
-#### Zero
-
+- Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
+- Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
 ### University
 - The party will run into Blark, who will remind them that tomorrow is the first day of school.
 - Arriving at 9am the morning of 1/11, the students of the party will attend the grand orientation of the university. Here,  Auric the Centaur will be seen parading all throughout the university. Booths lining the campus with food will be present, and the festivities will be livening.
@@ -75,8 +69,13 @@ This session will be another downtime session amongst the party members, includi
 - "Last but not least, removal from the trial through loss will result in a revoking of these privileges, and will result in a transition of scheduling to normal class sections as our curriculum is standardized and will make the transition largely smooth."
 - After the presentation, the IDs of the students will instead turn purple, signifying their status as Crucible Students. These IDs are faceless, unless held up and presented, showing the name of the candidate, their 8 digit ID, and a bright green glow. If anyone other than the candidate presents the card, it turns red.
 - Floating pieces of papers will then loftily float through the venue to each student, gravitating towards their ID. These are their schedules. They will continue through the rest of their schedules for the remainder of the day.
+#### Zero
 
 #### Log
 
 ##### Summary
 [[D&D/Player View/Session Summaries/Session 10 Summary |Session Summary]]
+### Tunneling
+- Within the Archives of the Trove, Emil and Tova will find a poorly drawn map of the sewer systems of Morellus. It will be hundreds of years old, and these will be the original maps of the Liberation Army. Every 10 minutes or so, the lines will appear to be different, moving at the blink of an eye. This will be a map to the catacombs beneath Morellus, and perhaps a chance of finding Zero.
+- Potential avenues of excavation include a university job board, where they may find an architect of sorts. They may also deep dive into learning how to do this themselves, which will require at least 24 hours of rigorous bookkeeping to avoid doing damage to zeros bar
+![[TheBrokenBarstool.excalidraw]]

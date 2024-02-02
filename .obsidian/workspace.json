@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99288c74395f7104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -238,10 +250,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4e43206f70565d5a",
+  "active": "99288c74395f7104",
   "lastOpenFiles": [
-    "D&D/Game Information/Sessions/Session 010.md",
     "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
+    "conflict-files-obsidian-git.md",
+    "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
+    "Obsidian/Attachments/Pasted image 20240201192934.png",
+    "D&D/Game Information/NPCs/Lysander Oragonis.md",
+    "D&D/Game Information/Sessions/Session 010.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "Design Jam/Hackathon Notes.md",
     "D&D/Player View/Session Summaries/Session 008.5 Summary.md",
@@ -257,7 +273,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Competitor Benefits.md",
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
-    "conflict-files-obsidian-git.md",
     "SWE/Project Wildspace/Script.md",
     "Design Jam",
     "SWE/Project Wildspace/Task List.md",
@@ -268,8 +283,6 @@
     "School/Spring 2024/REL3930/Readings/Jan 18 - Pure 99-199.md",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "School/Spring 2024/PEM2121/Untitled.md",
-    "SWE/Project Wildspace/Gallery.md",
-    "D&D/Player View/Miravalis/Miravalis World Timeline.md",
     "SWE/Project Wildspace/Untitled",
     "School/Spring 2024/COP3502/test.c",
     "School/Spring 2024/REL3930/Readings",
