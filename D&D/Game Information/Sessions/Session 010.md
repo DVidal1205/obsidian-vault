@@ -16,7 +16,6 @@ This session will be another downtime session amongst the party members, includi
 ### Player Subplots
 #### Claude
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
-- Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].|
  - After going home and preparing for school, Claude will notice an item in his bag that he did not remember packing. Within it is going to be a vial of fey essence, collected by Dvita off of Blark.|
 - Fey Vial: drinking this will send Claude into a wild magic frenzy, which he will struggle to maintain control over Dvita. Typical Wild Magic effects, and wicked flashbacks of his past life (Beautiful Fey City, Wildfires, Chambers, Chains, etc).|
 - Going to begin feeling really sleepy at night, despite getting his designated trance. Time also stops adding up. During this time, Dvita will have been scouting out the Western District, and Dvita can notice this by the mud on his boots or the unlocked window. Dvita has been slowly awoken since the Old Stones, and will continue to do research before acting on anything.|
@@ -51,6 +50,10 @@ This session will be another downtime session amongst the party members, includi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
 - Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
+#### Zero
+- Zero will be visited by [[Grunhilda Blackwood]], Juggah's estranged wife. She will be delivering bad news to Zero, as her husband's body has finally been found. She will show up on the doorstep of the bar at roughly 6:00PM, and the crowd will hush as she enters, knowing what has happened. She will ask to talk to Zero alone.
+- "They found him. Just a few miles out from the University. His body was fresh, they said. Couldn't have been gone for more than a day. Its been 37 days Zero (he left three days after commencement). Thirty seven days he was alive out there, doing god knows what. Whatever it was, I'll bet you the most he was stubborn the whole time. But I know him, I know that man well. Whatever it is, I know it was something right."
+- "I just wish they never showed me the body. I know its procedure to confirm and whatnot but, the state he was in Zero, I've never seen him like this. To imagine such a big man seem so small. He was frail. I wonder how little he had been eating. And this terrible scarring crawling up his shoulder. Da"
 ### University
 - The party will run into Blark, who will remind them that tomorrow is the first day of school.
 - Arriving at 9am the morning of 1/11, the students of the party will attend the grand orientation of the university. Here,  Auric the Centaur will be seen parading all throughout the university. Booths lining the campus with food will be present, and the festivities will be livening.
@@ -76,8 +79,6 @@ This session will be another downtime session amongst the party members, includi
 - "Last but not least, removal from the trial through loss will result in a revoking of these privileges, and will result in a transition of scheduling to normal class sections as our curriculum is standardized and will make the transition largely smooth."
 - After the presentation, the IDs of the students will instead turn purple, signifying their status as Crucible Students. These IDs are faceless, unless held up and presented, showing the name of the candidate, their 8 digit ID, and a bright green glow. If anyone other than the candidate presents the card, it turns red.
 - Floating pieces of papers will then loftily float through the venue to each student, gravitating towards their ID. These are their schedules. They will continue through the rest of their schedules for the remainder of the day.
-#### Zero
-
 #### Log
 
 ##### Summary
