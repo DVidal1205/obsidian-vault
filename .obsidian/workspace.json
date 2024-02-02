@@ -40,9 +40,21 @@
                 "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "63fde1a1c45bb657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 010.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md"
+                "file": "D&D/Game Information/Sessions/Session 010.md"
               }
             }
           },
@@ -248,13 +260,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4e43206f70565d5a",
+  "active": "63fde1a1c45bb657",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 008.md",
+    "D&D/Player View/Session Summaries/Session 010 Summary.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
-    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
-    "D&D/Player View/Session Summaries/Session 010 Summary.md",
     "D&D/Game Information/Sessions/Session 010.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "D&D/Game Information/Resources/Grand Morellan University/Competitor Benefits.md",
@@ -278,7 +291,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
     "SWE/Project Wildspace/Script.md",
     "Design Jam",
-    "SWE/Project Wildspace/Task List.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "SWE/Project Wildspace/Untitled",
