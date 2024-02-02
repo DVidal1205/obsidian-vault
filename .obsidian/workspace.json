@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "bb1cbb9618df024a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "12d43c0218e3d51a",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md",
+                "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md",
+                "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md"
+                "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md"
               }
             }
           },
@@ -237,11 +248,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "a9d12fb65177508a",
+  "active": "bb1cbb9618df024a",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 010.md",
+    "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
     "D&D/Game Information/NPCs/Lysander Oragonis.md",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
-    "D&D/Game Information/Sessions/Session 010.md",
     "D&D/Player View/Miravalis/Calendar System.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",

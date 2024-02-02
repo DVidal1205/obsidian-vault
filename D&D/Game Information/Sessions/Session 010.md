@@ -43,7 +43,7 @@ This session will be another downtime session amongst the party members, includi
 #### Vouhi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
-- Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be 
+- Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
 ### University
 - The party will run into Blark, who will remind them that tomorrow is the first day of school.
 - Arriving at 9am the morning of 1/11, the students of the party will attend the grand orientation of the university. Here,  Auric the Centaur will be seen parading all throughout the university. Booths lining the campus with food will be present, and the festivities will be livening.
@@ -75,3 +75,7 @@ This session will be another downtime session amongst the party members, includi
 
 ##### Summary
 [[D&D/Player View/Session Summaries/Session 10 Summary |Session Summary]]
+### Tunneling
+- Within the Archives of the Trove, Emil and Tova will find a poorly drawn map of the sewer systems of Morellus. It will be hundreds of years old, and these will be the original maps of the Liberation Army. Every 10 minutes or so, the lines will appear to be different, moving at the blink of an eye. This will be a map to the catacombs beneath Morellus, and perhaps a chance of finding Zero.
+- Potential avenues of excavation include a university job board, where they may find an architect of sorts. They may also deep dive into learning how to do this themselves, which will require at least 24 hours of rigorous bookkeeping to avoid doing damage to zeros bar
+![[TheBrokenBarstool.excalidraw]]
