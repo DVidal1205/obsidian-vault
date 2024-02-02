@@ -51,6 +51,8 @@ This session will be another downtime session amongst the party members, includi
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
 - Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
 #### Zero
+- Zero will get a letter from Taxidus that says only the following:
+- "Madran has been defeated. Will keep you updated on the situation. They will stay safe."
 - Zero will be visited by [[Grunhilda Blackwood]], Juggah's estranged wife. She will be delivering bad news to Zero, as her husband's body has finally been found. She will show up on the doorstep of the bar at roughly 6:00PM, and the crowd will hush as she enters, knowing what has happened. She will ask to talk to Zero alone.
 - "They found him. Just a few miles out from the University. His body was fresh, they said. Couldn't have been gone for more than a day. Its been 37 days Zero (he left three days after commencement). Thirty seven days he was alive out there, doing god knows what. Whatever it was, I'll bet you the most he was stubborn the whole time. But I know him, I know that man well. Whatever it is, I know it was something right. "
 - "I just wish they never showed me the body. I know its procedure to confirm and whatnot but, the state he was in Zero, I've never seen him like this. To imagine such a big man seem so small. He was frail. I wonder how little he had been eating. And this terrible scarring crawling up his shoulder. It's all I could see the whole walk here. Damn those two for ruining my image of him. Damn them for all their snotty questions and remarks. I'm a grieving woman Zero. And all they wanted to know about was some damn letter."
@@ -62,6 +64,15 @@ This session will be another downtime session amongst the party members, includi
 - 4-6: Oriented Clockwise (Right)
 - 7-9: Flipped and reversed
 - 9-12: Oriented Counterclockwise (Left)
+**Dorban**
+- AC14
+- 50/50
+- Move speed 35ft
+- Multiattack: Two unarmed strikes, +4, 5 damage
+- Pellet: Dexterity save DC13, 1d6 + 2 damage
+- Grapple: Dexterity save DC13 or restrained
+- Harden: +2 AC as a reaction
+- Stomp: DC13 Strength or push/prone and 1d6 damage
 
 ### University
 - The party will run into Blark, who will remind them that tomorrow is the first day of school.
