@@ -21,4 +21,5 @@ fc-category: Sessions
 ### Notable Mentions
 - Thaddeus cannot put on weight, unlike Fatteus.
 - PawPaw is a bear.
-- Arden the Spacy
+- Arden the Spacy Shifter
+- Touching Tips
