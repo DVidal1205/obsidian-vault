@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a11e35c08b1f907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Game Information/Sessions/Session 010.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -250,14 +262,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "99288c74395f7104",
+  "active": "5a11e35c08b1f907",
   "lastOpenFiles": [
+    "D&D/Game Information/Sessions/Session 010.md",
     "conflict-files-obsidian-git.md",
     "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
     "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
     "D&D/Game Information/NPCs/Lysander Oragonis.md",
-    "D&D/Game Information/Sessions/Session 010.md",
     "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "Design Jam/Hackathon Notes.md",
     "D&D/Player View/Session Summaries/Session 008.5 Summary.md",
