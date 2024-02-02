@@ -102,7 +102,7 @@ This session will be another downtime session amongst the party members, includi
 #### Log
 
 ##### Summary
-[[D&D/Player View/Session Summaries/Session 10 Summary |Session Summary]]
+[[Session 010 Summary|Session Summary]]
 ### Tunneling
 - Within the Archives of the Trove, Emil and Tova will find a poorly drawn map of the sewer systems of Morellus. It will be hundreds of years old, and these will be the original maps of the Liberation Army. Every 10 minutes or so, the lines will appear to be different, moving at the blink of an eye. This will be a map to the catacombs beneath Morellus, and perhaps a chance of finding Zero.
 - Potential avenues of excavation include a university job board, where they may find an architect of sorts. They may also deep dive into learning how to do this themselves, which will require at least 24 hours of rigorous bookkeeping to avoid doing damage to zeros bar
