@@ -55,6 +55,11 @@ rational
 adding an irrational number makes it irrational,
 meaning \lnot q cannot be true, thus p->q ^h1pQGtVZ
 
+At most 10 days of any 64 days chosen 
+must fall on the same day of the week
+
+ ^6PczpRxr
+
 %%
 # Drawing
 ```json
@@ -320,6 +325,80 @@ meaning \lnot q cannot be true, thus p->q ^h1pQGtVZ
 			"baseline": 267,
 			"containerId": null,
 			"originalText": "Proof by contradiction\n\nSum of an irrational number and rational number\nis irrational\n\nirrational number + rational number\n\nrational\n\nadding an irrational number makes it irrational,\nmeaning \\lnot q cannot be true, thus p->q",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "6PczpRxr",
+			"type": "text",
+			"x": -987.4938014210933,
+			"y": 489.62275800156647,
+			"width": 410.01971435546875,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 343724494,
+			"version": 79,
+			"versionNonce": 2133839246,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1707085554421,
+			"link": null,
+			"locked": false,
+			"text": "At most 10 days of any 64 days chosen \nmust fall on the same day of the week\n\n",
+			"rawText": "At most 10 days of any 64 days chosen \nmust fall on the same day of the week\n\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 92,
+			"containerId": null,
+			"originalText": "At most 10 days of any 64 days chosen \nmust fall on the same day of the week\n\n",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "jAkCGxCK",
+			"type": "text",
+			"x": -884.5628490635822,
+			"y": 521.6992635984934,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 888229198,
+			"version": 2,
+			"versionNonce": 1200584338,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1707085525046,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
