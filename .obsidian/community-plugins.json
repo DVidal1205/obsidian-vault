@@ -6,7 +6,6 @@
   "webpage-html-export",
   "templater-obsidian",
   "obsidian-5e-statblocks",
-  "table-editor-obsidian",
   "obsidian-reading-time",
   "darlal-switcher-plus",
   "obsidian-textgenerator-plugin",
@@ -26,5 +25,6 @@
   "fantasy-content-generator",
   "obsidian-latex-suite",
   "obsidian-git",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "table-editor-obsidian"
 ]

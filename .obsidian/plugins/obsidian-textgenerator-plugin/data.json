@@ -1,15 +1,22 @@
 {
+  "version": "0.6.13",
   "endpoint": "https://api.openai.com",
-  "api_key": "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",
-  "engine": "gpt-3.5-turbo",
+  "models": {},
+  "api_key": "",
+  "encrypt_keys": false,
+  "selectedProvider": "OpenAI Chat (Langchain)",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
   "prompt": "",
   "showStatusBar": true,
   "outputToBlockQuote": false,
+  "freeCursorOnStreaming": false,
+  "allowJavascriptRun": false,
+  "experiment": false,
   "promptsPath": "textgenerator/prompts",
   "prefix": "\n\n",
+  "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": false,
   "context": {
     "includeTitle": false,
@@ -43,6 +50,10 @@
     "text-extractor-tool": false,
     "stop-stream": true
   },
+  "advancedOptions": {
+    "generateTitleInstructEnabled": false,
+    "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}"
+  },
   "autoSuggestOptions": {
     "isEnabled": false,
     "delay": 300,
@@ -50,6 +61,10 @@
     "triggerPhrase": "  ",
     "stop": ".",
     "showStatus": true
+  },
+  "slashSuggestOptions": {
+    "isEnabled": false,
+    "triggerPhrase": "/"
   },
   "extractorsOptions": {
     "PDFExtractor": true,
@@ -60,5 +75,7 @@
     "ImageExtractor": true
   },
   "displayErrorInEditor": false,
-  "models": {}
+  "LLMProviderOptions": {},
+  "LLMProviderOptionsKeysHashed": {},
+  "engine": "gpt-3.5-turbo"
 }
