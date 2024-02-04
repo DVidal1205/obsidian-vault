@@ -65,7 +65,7 @@ The divine power of Ethernova is tied to the intersectionality of spirit and nat
 
 | Class | Ability |
 | ---- | ---- |
-| Barbarian | **Unstoppable Might:** Your attacks become critical hits on rolls of 18 to 20, you gain 10 temporary , and you are immune to being prone or moved against your will while raging |
+| Barbarian | **Unstoppable Might:** Your attacks become critical hits on rolls of 18 to 20, you gain 10% max temporary hit points when raging, and you are immune to being prone or moved against your will while raging |
 | Fighter | **Unrelenting:** Replacing Indomitable, instead you may automatically pass a number Saving Throws equal to your proficiency bonus each day |
 | Rogue | **Undetected:** You gain an additional +5 to stealth and roll 2 additional damage dice on sneak attacks |
 | Artificer | **Extendo-Grip:** All spells, class abilities, or magic items that have a range of touch now have a range of 30 feet |
