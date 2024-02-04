@@ -63,18 +63,18 @@ The divine power of Ethernova is tied to the intersectionality of spirit and nat
 
 ### Class Abilities 
 
-| Class     | Ability                                                                                                                                                                                              |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Barbarian | **Unstoppable Might:** Your attacks become critical hits on rolls of 19 to 20, you gain advantage on initiative, and you are immune to being prone or moved against your will while raging           |
-| Fighter   | **Unrelenting:** Replacing Indomitable, instead you may automatically pass a Saving Throw                                                                                                            |
-| Rogue     | **Undetected:** You gain an additional +5 to stealth for a minute and roll 2 additional damage dice on your next sneak attack (Bonus Action)                                                         |
-| Artificer | **Extendo-Grip:** All spells, class abilities, or magic items that have a range of touch now have a range of 30 feet                                                                                 |
-| Wizard    | **Expansive Knowledge:** Adding new spells to your spellbook is now twice as fast and requires one fourth the amount of gold                                                                         |
-| Sorcerer  | **Controlled Chaos:** You may add or subtract a d8 to any roll a number of times a day equal to proficiency                                                                                          |
-| Bard      | **Sweeping Inspiration:** Once per long rest, grant a Bardic Inspiration dice to all allies within 30 feet at the cost of 1 dice                                                                     |
-| Druid     | **Animalistic Vessel:** While Wildshaping, the duration is doubled. Furthermore, you are able to use your wild shape feature a number of times equal to your proficiency bonus, rather than twice                                                         |
-| Cleric    | **Divine Health:** Once per long rest, heal all allies within 30 feet for a number of hit points equal to your level (Bonus Action)                                                                  |
-| Paladin   | **Holy Retribution:** Gain 2 more charges of channel divinity, and deal an additional 5 damage whenever rolling for radiant damage                                                                   |
-| Ranger    | **Hunter:** Once per long rest, place a mark on a creature within 60 feet, giving you the ability to track it anywhere on the current plane and deal an additional 3d8 damage when landing an attack 
-| Monk      | **Ki Resurgence:** Once per long rest, regain half all of your Ki points and regain 2d10 hit points                                                                                              |
-| Warlock   | **Eldritch Domain:** Once per long rest, create a region with radius Warlock level * 5 feet. for one minute. In this region, enemies suffer a 10 foot movement speed penalty and disadvantage on all saving throws against your spells. You also gain advantage on spell attack rolls. |                                                                                                                                                                                                    |
+| Class | Ability |
+| ---- | ---- |
+| Barbarian | **Unstoppable Might:** Your attacks become critical hits on rolls of 18 to 20, you gain 10 temporary , and you are immune to being prone or moved against your will while raging |
+| Fighter | **Unrelenting:** Replacing Indomitable, instead you may automatically pass a number Saving Throws equal to your proficiency bonus each day |
+| Rogue | **Undetected:** You gain an additional +5 to stealth and roll 2 additional damage dice on sneak attacks |
+| Artificer | **Extendo-Grip:** All spells, class abilities, or magic items that have a range of touch now have a range of 30 feet |
+| Wizard | **Expansive Knowledge:** Adding new spells to your spellbook is now twice as fast and requires one fourth the amount of gold |
+| Sorcerer | **Controlled Chaos:** You may add or subtract a d8 to any roll a number of times a day equal to proficiency |
+| Bard | **Sweeping Inspiration:** Once per long rest, grant a Bardic Inspiration dice to all allies within 30 feet at the cost of 1 dice |
+| Druid | **Animalistic Vessel:** While Wildshaping, the duration is doubled. Furthermore, you are able to use your wild shape feature a number of times equal to your proficiency bonus, rather than twice |
+| Cleric | **Divine Health:** Once per long rest, heal all allies within 30 feet for a number of hit points equal to your level |
+| Paladin | **Holy Retribution:** Gain 2 more charges of channel divinity, and deal an additional 5 damage whenever rolling for radiant damage |
+| Ranger | **Hunter:** Once per long rest, place a mark on a creature within 60 feet, giving you the ability to track it anywhere on the current plane and deal an additional 3d8 damage when landing an attack |
+| Monk | **Ki Resurgence:** Once per long rest, regain half all of your Ki points and regain 2d10 hit points |
+| Warlock | **Eldritch Domain:** Once per long rest, create a region with radius Warlock level * 5 feet. for one minute. In this region, enemies suffer disadvantage on all saving throws against your spells. You also gain advantage on spell attack rolls. |
