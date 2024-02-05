@@ -31,3 +31,8 @@ $S \subset T$ means S is a proper subset of T, meaning that $S \subseteq T$, but
 - The power set, P(S) of a set S is the set of all subsets of S
 - $P(S) = x|x\subseteq S$
 - P({a,b}) = {$\varnothing$, {a}, {b}, {a,b}}
+### Cartesian Products of Sets
+- Create all possible combination of the elements in a number of sets
+- For sets $A \times B$ = {(a,b) | $a\in A$ $\land$ $b\in B$}
+- {a,b} $\times$ {1,2} = {(a, 1), (a,2), (b,1), (b,2)}
+- Cardinality |A$\times$B| = |A||B|
