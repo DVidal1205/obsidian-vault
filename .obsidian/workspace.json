@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945,
-    "collapsed": true
+    "width": 274.51103591918945
   },
   "right": {
     "id": "c75c879d510c928f",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
+                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md"
               }
             }
           },
@@ -271,37 +270,69 @@
         "height": 800,
         "maximize": true,
         "zoom": 0.5
+      },
+      {
+        "id": "ddc3e2230406a77b",
+        "type": "window",
+        "children": [
+          {
+            "id": "04868a3ba7e6426a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c66443e1efa476f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0.5
       }
     ]
   },
-  "active": "f25922010829b2f4",
+  "active": "c66443e1efa476f4",
   "lastOpenFiles": [
-    "School/Spring 2024/COT3100/Proofs Practice.md",
+    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics-Dylan-Laptop.md",
+    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics.md",
+    "D&D/Player View/Territories/Haunted Wilds/Wilds Culture.md",
+    "D&D/Player View/Territories/Haunted Wilds/Haunted Wilds.md",
+    "D&D/Player View/Territories/Haunted Wilds/Places/Styx Peak.md",
+    "D&D/Player View/Territories/Haunted Wilds/Places/Clearwater.md",
+    "D&D/Player View/Territories/Haunted Wilds/People/Killroy Styx.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Summits.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Places.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide People and Groups.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Government.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Geography.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Demographics.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Culture.md",
+    "D&D/Player View/Territories/Dragonhide Summits/Places/The Rager-Den.md",
+    "D&D/Player View/Territories/Dragonhide Summits/People/Zulu, the Bronze Dragon.md",
+    "D&D/Player View/Territories/Dragonhide Summits/People/Miria, the Moonstone Dragon.md",
+    "D&D/Player View/Territories/Dragonhide Summits/People/Galru, the Brown Dragon.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone-Morellan Treaty.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Places.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone People and Groups.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Mages.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Government.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Geography.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Demographics.md",
+    "D&D/Player View/Territories/Claystone Mages/Claystone Culture.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
-    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
-    "Design Jam/Hackathon Notes.md",
-    "D&D/Player View/Session Summaries/Session 010 Summary.md",
-    "D&D/Player View/Miravalis/Events/The Battle that Never Happened.md",
-    "D&D/Player View/Miravalis/Events/The Unbounding.md",
-    "D&D/Player View/Miravalis/Events/The Cataclysm.md",
-    "D&D/Player View/Miravalis/Calendar System.md",
-    "D&D/Player View/Miravalis/Miravalis.md",
-    "D&D/Player View/Miravalis/Miravalis World Timeline.md",
-    "D&D/Player View/Miravalis/Power System Drawing.md",
-    "D&D/Player View/Miravalis/Power System Changelog.md",
-    "D&D/Player View/Miravalis/Power System.md",
-    "D&D/Player View/Session Summaries/Session 001 Summary.md",
-    "D&D/Player View/Session Summaries/Session 002 Summary.md",
-    "D&D/Player View/Session Summaries/Session 004 Summary.md",
-    "D&D/Player View/Session Summaries/Session 006 Summary.md",
-    "D&D/Player View/Session Summaries/Session 005 Summary.md",
-    "D&D/Player View/Session Summaries/Session 003 Summary.md",
-    "D&D/Player View/Session Summaries/Session 008.5 Summary.md",
-    "D&D/Player View/Session Summaries/Session 007 Summary.md",
-    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Commonwealth.md",
-    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Culture.md",
-    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Government.md",
-    "D&D/Player View/Territories/Arboran Commonwealth/Arboran Demographics.md",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "SWE/Project Wildspace/Untitled",
