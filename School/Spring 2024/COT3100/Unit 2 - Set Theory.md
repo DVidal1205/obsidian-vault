@@ -36,3 +36,14 @@ $S \subset T$ means S is a proper subset of T, meaning that $S \subseteq T$, but
 - For sets $A \times B$ = {(a,b) | $a\in A$ $\land$ $b\in B$}
 - {a,b} $\times$ {1,2} = {(a, 1), (a,2), (b,1), (b,2)}
 - Cardinality |A$\times$B| = |A||B|
+### Union
+- A $\cup$ B contains all elements in A or B
+- {a, b, c}$\cup${2, 3} = {a, b, c, 2, 3}
+### Intersection
+- For Sets A, B, their intersection A$\cap$B is the set containing all elements that are in A and B
+- {2, 4, 6}$\cap${3, 4, 5} = {4}
+### Disjointedness
+- Two sets A, B are called disjoint if A$\cap$B = $\varnothing$
+### Inclusion-Exclusion Principle
+- Given |A|, |B|, what is the cardinality of |A$\cup$B| and |A$\cap$B|
+- |A$\cap$B| = |A| + |B| - |A$\cup$
