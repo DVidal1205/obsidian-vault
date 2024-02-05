@@ -4,32 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "35ab5e9a31c70570",
+        "id": "dc99320de778cedd",
         "type": "tabs",
         "children": [
           {
-            "id": "f25922010829b2f4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
-              }
-            }
-          },
-          {
-            "id": "38bd6f244cb5c53a",
+            "id": "1ab628735b324bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+                "file": "D&D/Player View/Session Summaries/Session 010 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e43206f70565d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99288c74395f7104",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "63fde1a1c45bb657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
+                "file": "D&D/Game Information/Sessions/Session 010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md"
+                "file": "D&D/Game Information/Sessions/Session 010.md"
               }
             }
           },
@@ -212,13 +237,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -238,102 +260,38 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "floating": {
-    "id": "44b1e8a9634cba4d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1d17f9ae2e07f137",
-        "type": "window",
-        "children": [
-          {
-            "id": "c748bc14b6ee78cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "182f526b0503cbd0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "School/Spring 2024/COT3100/Proofs Practice.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0.5
-      },
-      {
-        "id": "ddc3e2230406a77b",
-        "type": "window",
-        "children": [
-          {
-            "id": "04868a3ba7e6426a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c66443e1efa476f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "c66443e1efa476f4",
+  "active": "80af204f0e821e82",
   "lastOpenFiles": [
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics-Dylan-Laptop.md",
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics.md",
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Culture.md",
-    "D&D/Player View/Territories/Haunted Wilds/Haunted Wilds.md",
-    "D&D/Player View/Territories/Haunted Wilds/Places/Styx Peak.md",
-    "D&D/Player View/Territories/Haunted Wilds/Places/Clearwater.md",
-    "D&D/Player View/Territories/Haunted Wilds/People/Killroy Styx.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Summits.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Places.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide People and Groups.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Government.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Geography.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Demographics.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Culture.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Places/The Rager-Den.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Zulu, the Bronze Dragon.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Miria, the Moonstone Dragon.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Galru, the Brown Dragon.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone-Morellan Treaty.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Places.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone People and Groups.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Mages.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Government.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Geography.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Demographics.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Culture.md",
-    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
+    "School/Spring 2024/COT3100/Proofs Practice.md",
+    "D&D/Player View/Session Summaries/Session 010 Summary.md",
+    "D&D/Game Information/Sessions/Session 010.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Pescatarian Delights.md",
+    "D&D/Game Information/Sessions/Session 008.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
+    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Competitor Benefits.md",
+    "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
+    "Obsidian/Attachments/TheBrokenBarstool.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "D&D/Game Information/NPCs/Grunhilda Blackwood.md",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
+    "D&D/Game Information/NPCs/Lysander Oragonis.md",
+    "Design Jam/Hackathon Notes.md",
+    "D&D/Player View/Session Summaries/Session 008.5 Summary.md",
+    "D&D/Player View/Session Summaries/Session 007 Summary.md",
+    "D&D/Player View/Session Summaries/9 Summary.md",
+    "D&D/Player View/Session Summaries/Session 008",
+    "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
+    "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
+    "D&D/Game Information/Statblocks/Blackrock Thug.md",
+    "D&D/Game Information/Statblocks/Blackrock Thief.md",
+    "D&D/Game Information/Statblocks/Blackrock Mage.md",
+    "D&D/Game Information/Sessions/Session 009.md",
+    "D&D/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md",
+    "Design Jam",
+    "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
     "SWE/Project Wildspace/Untitled",
     "School/Spring 2024/COP3502/test.c",
@@ -341,9 +299,7 @@
     "School/Spring 2024/COP3502/C Review/Strings Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/File-IO Quiz.pdf",
     "School/Spring 2024/COP3502/C Review/Struct Quiz.pdf",
-    "School/Spring 2024/COP3502/C Review/Exercise on Structure Review_ COP3502C-24Spring 0004.pdf",
     "Obsidian/Attachments/Pasted image 20240109113455.png",
-    "School/Spring 2024/COP3502/C Review",
     "Obsidian/Attachments/Pasted image 20231216180756.png",
     "Obsidian/Attachments/Pasted image 20231216180645.png",
     "Obsidian/Attachments/Pasted image 20231216175959.png",
