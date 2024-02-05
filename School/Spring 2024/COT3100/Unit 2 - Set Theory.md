@@ -3,3 +3,22 @@
 - Given a set of transactions, find rules that will predict the occurrence of an item with other items
 ### Apriori Algorithm
 - Frequency of a larger set is less than a smaller set that is a part of the larger set.
+### Set Theory
+- Founded by George Cantor
+- Set is a new type of structure, representing an unordered collection of zero or more distinct objects
+- Sets are ubiquitous in computer science for database querying, programming, and data mining
+### Set Notation
+- Denoted by (S, T, U)
+- Listing all of its elements in curly braces: {1, 2, 3, 4}, {a, b, c}
+- Set Building Notation: {x|P(x)}, which means all elements that satisfy P(x) are in the domain of the set
+- If P(x) is x>0 or x<6, then Set P = {1, 2, 3, 4, 5}
+- $x\in S$ means x is in S
+- $x \notin S$ means x is not in S, also $\lnot (x\in S)$
+- Sets can contain infinitely any numbers
+### Common Sets
+- N - Natural - {0, 1, 2, 3...}
+- Z = Zntegers = {..., -2, -1, 0, 1, 2...}
+- R = Real Numbers
+- $\varnothing$ = "null", or the "empty set"
+	- $\varnothing$ = {}
+### Subset and Superset Relations
