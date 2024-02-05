@@ -46,4 +46,5 @@ $S \subset T$ means S is a proper subset of T, meaning that $S \subseteq T$, but
 - Two sets A, B are called disjoint if A$\cap$B = $\varnothing$
 ### Inclusion-Exclusion Principle
 - Given |A|, |B|, what is the cardinality of |A$\cup$B| and |A$\cap$B|
-- |A$\cap$B| = |A| + |B| - |A$\cup$
+- |A$\cap$B| = |A| + |B| - |A$\cup$B|
+- |A$\cup$B| = |A| + |B| - |A$\cap$B|
