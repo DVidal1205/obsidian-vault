@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/KnightHacks/OPS/2-5-2024.md",
+                "file": "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "755d744612a8fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWE/KnightHacks/OPS/2-5-2024.md",
+                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWE/KnightHacks/OPS/2-5-2024.md",
+                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWE/KnightHacks/OPS/2-5-2024.md"
+                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md"
               }
             }
           },
@@ -202,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +241,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "1ab628735b324bd3",
+  "active": "755d744612a8fdbe",
   "lastOpenFiles": [
-    "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
+    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
+    "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
     "SWE/KnightHacks/OPS/2-5-2024.md",
+    "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "SWE/KnightHacks/2-5-2.md",
     "SWE/KnightHacks/OPS",
     "SWE/KnightHacks",
@@ -244,7 +260,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Foundational Writing.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Algebraic Thinking.md",
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
-    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "D&D/Game Information/Resources/Grand Morellan University/Competitor Benefits.md",
     "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
     "conflict-files-obsidian-git.md",
@@ -258,7 +273,6 @@
     "D&D/Player View/Session Summaries/Session 008",
     "School/Spring 2024/COT3100/Unit 1 - Logic and Proofs.md",
     "D&D/Game Information/Statblocks/Blackrock Thug.md",
-    "D&D/Game Information/Statblocks/Blackrock Thief.md",
     "Design Jam",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
