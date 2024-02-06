@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md"
+                "file": "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf"
               }
             }
           },
@@ -238,100 +238,34 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "floating": {
-    "id": "44b1e8a9634cba4d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1d17f9ae2e07f137",
-        "type": "window",
-        "children": [
-          {
-            "id": "c748bc14b6ee78cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "182f526b0503cbd0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "School/Spring 2024/COT3100/Proofs Practice.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0.5
-      },
-      {
-        "id": "ddc3e2230406a77b",
-        "type": "window",
-        "children": [
-          {
-            "id": "04868a3ba7e6426a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c66443e1efa476f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "D&D/Player View/Territories/Haunted Wilds/Wilds Geography.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "c66443e1efa476f4",
+  "active": "f25922010829b2f4",
   "lastOpenFiles": [
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics-Dylan-Laptop.md",
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Demographics.md",
-    "D&D/Player View/Territories/Haunted Wilds/Wilds Culture.md",
-    "D&D/Player View/Territories/Haunted Wilds/Haunted Wilds.md",
-    "D&D/Player View/Territories/Haunted Wilds/Places/Styx Peak.md",
-    "D&D/Player View/Territories/Haunted Wilds/Places/Clearwater.md",
-    "D&D/Player View/Territories/Haunted Wilds/People/Killroy Styx.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Summits.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Places.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide People and Groups.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Government.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Geography.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Demographics.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Dragonhide Culture.md",
-    "D&D/Player View/Territories/Dragonhide Summits/Places/The Rager-Den.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Zulu, the Bronze Dragon.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Miria, the Moonstone Dragon.md",
-    "D&D/Player View/Territories/Dragonhide Summits/People/Galru, the Brown Dragon.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone-Morellan Treaty.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Places.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone People and Groups.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Mages.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Government.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Geography.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Demographics.md",
-    "D&D/Player View/Territories/Claystone Mages/Claystone Culture.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Swamps.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Places.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless People and Groups.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Government.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Geography.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Demographics.md",
+    "D&D/Player View/Territories/Starless Swamps/Starless Culture.md",
+    "D&D/Player View/Territories/Starless Swamps/Places/The Endless Marsh.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Places.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai People and Groups.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Government.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Geography.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Desert.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Demographics.md",
+    "D&D/Player View/Territories/Sarai Desert/Sarai Culture.md",
+    "D&D/Player View/Territories/Sarai Desert/Places/The Radiant Halls.md",
+    "D&D/Player View/Territories/Sarai Desert/Places/Sethara.md",
+    "D&D/Player View/Territories/Sarai Desert/People/Setre.md",
+    "D&D/Player View/Territories/Rexia/The Mystics.md",
+    "D&D/Player View/Territories/Rexia/Rexian Places.md",
+    "D&D/Player View/Territories/Rexia/Rexian People and Groups.md",
+    "D&D/Player View/Territories/Rexia/Rexian Government.md",
+    "D&D/Player View/Territories/Rexia/Rexian Geography.md",
+    "D&D/Player View/Territories/Rexia/Rexian Demographics.md",
+    "D&D/Player View/Territories/Rexia/Rexian Culture.md",
+    "D&D/Player View/Territories/Rexia/Rexia.md",
     "School/Spring 2024/COT3100/Kenneth H Rosen - Discrete Mathematics and Its Applications, seventh edition-McGraw-Hill Higher Education (2012).pdf",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
     "School/Spring 2024/REL3930/Linda Kay Klein - Pure, Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free (2019, Atria Books).pdf",
