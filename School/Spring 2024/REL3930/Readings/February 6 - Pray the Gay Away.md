@@ -20,7 +20,10 @@
 #### Therapeutic Orthodoxy
 - Liberal protestants adopted new therapeutic ideas on homosexuality through the field of pastoral counselling.
 - Embraced sexual liberalism and that God made sex good and healthy.
-- 
+- Religion never went away, religion and psychiatry became fused together.
+#### Religion in Homosexual Liberation
+- Homophile groups in 1960s started with the support of clergy.
+
 ### Pray the Gay Away
 - A derivation of the therapeutic orthodoxy movement, the Ex-Gay Movement.
 - 
