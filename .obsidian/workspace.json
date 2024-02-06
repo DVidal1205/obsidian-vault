@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9054f3747a2c9634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,10 +253,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "755d744612a8fdbe",
+  "active": "9054f3747a2c9634",
   "lastOpenFiles": [
-    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "School/Spring 2024/REL3930/Readings/February 6 - Pray the Gay Away.md",
+    "conflict-files-obsidian-git.md",
+    "School/Spring 2024/REL3930/Readings/Jan 23- Pure Pages 199-279.md",
     "SWE/KnightHacks/OPS/2-5-2024.md",
     "School/Spring 2024/COT3100/Unit 2 - Set Theory.md",
     "SWE/KnightHacks/2-5-2.md",
@@ -262,7 +275,6 @@
     "D&D/Game Information/Resources/Grand Morellan University/Class Syllabi/Planes and Dimensions.md",
     "D&D/Game Information/Resources/Grand Morellan University/Competitor Benefits.md",
     "School/Spring 2024/REL3930/Readings/Feb 1 - Reforming Sodom Heather White.md",
-    "conflict-files-obsidian-git.md",
     "D&D/Game Information/NPCs/Grunhilda Blackwood.md",
     "Obsidian/Attachments/Pasted image 20240201192934.png",
     "D&D/Game Information/NPCs/Lysander Oragonis.md",
