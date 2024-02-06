@@ -6,7 +6,7 @@ fc-date: 1990-01-10
 fc-end: 1990-01-35
 fc-category: Sessions
 ---
-1990-01-13
+1990-01-15
 # Session
 This session will be another downtime session amongst the party members, including the new addition of Vouhi Cliffer.
 
