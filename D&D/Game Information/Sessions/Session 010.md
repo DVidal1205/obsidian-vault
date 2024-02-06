@@ -109,3 +109,12 @@ This session will be another downtime session amongst the party members, includi
 - Potential avenues of excavation include a university job board, where they may find an architect of sorts. They may also deep dive into learning how to do this themselves, which will require at least 24 hours of rigorous bookkeeping to avoid doing damage to zeros bar
 ![[TheBrokenBarstool.excalidraw]]
 - During the excavation process, they will not actively hit a tunnel.
+- Thaddeus will show up with a bag of holding, ready to get to work.
+- The party will excavate a 10 by 50 segment at a time, with Tova using his domain to act as a preliminary pillar. 
+- Gauntlets: 1d8 + strength, proficiency + AC to hit, two hand fighting.
+	- Toolbelt mounting
+	- Magic Compatible
+- Augmented Weapon
+	- Gyroscope momentum, +1 magic weapon
+	- 15ft at disadvantage
+- Disintegration field.
