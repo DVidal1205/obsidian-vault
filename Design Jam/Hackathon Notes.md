@@ -35,4 +35,5 @@
 - https://mlh.io/faq/
 - https://guide.mlh.io
 - MLH GOAYED
+- Kylie nerd emoji autocorrect, its erm actually goated
 
