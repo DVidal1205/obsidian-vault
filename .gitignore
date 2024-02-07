@@ -1,3 +1,2 @@
 *.pdf
-.obsidian/plugins/novel-word-count/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
+/.obsidian
