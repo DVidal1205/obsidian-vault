@@ -14,6 +14,7 @@ Claude - 6
 Tova - 2
 
 Session Opening:
+Test
 
 "Greetings, gathered adventurers, to the planet of Miravalis. A beautifully expansive world full of rich terrain, peoples, settlements, and immense wild natural magic, pouring into the globe from the fabric of reality itself.
 
