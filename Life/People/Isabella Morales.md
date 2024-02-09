@@ -10,4 +10,3 @@ information:
 	school: ACRONYM: ex. UCF
 ---
 # Notes/Likes
-
