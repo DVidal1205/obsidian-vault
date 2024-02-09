@@ -53,7 +53,7 @@ The party continues towards a cave, descends it, passes a gelatinous cube, and e
 - Holds his reputation for passivity, and uses it to secure the party a home.
 - Reveals his innate ability to create a woodland like domain.
 - Punches someone for the first time.
-- Talks with Zero in confidence.
+- Talks with Zero in confidence. Learns more of his Rexian heritage during his break.
 ##### Claude
 - Uses his wild shape for combat, demonstrating the immense power of the Brown Bear.
 - Reemphasizes his fear and dislike of fire. 
