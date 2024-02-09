@@ -9,6 +9,7 @@ fc-category: Sessions
 1990-01-15
 # Session
 This session will be another downtime session amongst the party members, including the new addition of Vouhi Cliffer.
+Fortnite
 
 ## Encounters
 - Zero vs. Dorban and Thoss.
