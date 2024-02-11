@@ -190,4 +190,64 @@ type EntityItem = {
 ### What is Server Side Rendering?
 - First we need to understand the difference between Client and Server.
 - CLIENT: what runs in the web browser. All of the useEffect and useState hooks are client functionality, since there are no fancy animations in the server until it hits the browser.
-- SERVER: where your site is ho
+- SERVER: where your site is hosted, and what sends you the website when you navigate to the URL.
+
+---
+
+### Why is Server Side Rendering Good?
+- Think about packaging the entire site and sending it to the client... slow load times, and time is money!
+- Search Engine Optimization - if important portions of our site are already rendered, then that content will be in search engines, and thus, give the internet more chances to find the site
+
+---
+
+### Server Components in Action
+![[Pasted image 20240211183458.png]]
+
+---
+
+### When to SSR (Server Side Rendering)
+- When the data in the component is STATIC, and does not change from the UI. This does not include calls to databases, these can be done in server components.
+- Informative Sections that do not need to care about state management and UI changes. 
+- THE MORE SERVER THE BETTER! Best practice to break out stateful components into a smaller component, and use client in there.
+
+---
+
+### "Use client" and "Use server"
+- By default, Next assumes all components are server components.
+- If you need a client component, simply put ```"use client"``` at the top of the component 
+![[Pasted image 20240211183858.png]]
+
+---
+
+### Getting started...
+- Have ESLint, Prettier, Pretty Typescript Errors, and Tailwind CSS IntelliSense VSCode plugins. I also recommend vscode-icons, because file organization in web-dev is MESSY.
+- Make sure you have node installed.
+- Run ```npx create-next-app``` in your terminal and follow the instructions
+
+---
+
+![[Pasted image 20240211184221.png]]
+
+---
+
+![[Pasted image 20240211184246.png]]
+
+---
+
+![[Pasted image 20240211184347.png]]
+
+---
+
+### Boot it up...
+- Run ```npm run dev``` in the terminal and your computer will serve the site on localhost:3000
+
+---
+
+![[Pasted image 20240211184529.png]]
+
+---
+
+### Fuck around with the syntax
+- Make a portfolio site using Next, React, and Tailwind
+- Make each section (About, Contact, Education, etc) a component.
+- For listed sections, make each 
