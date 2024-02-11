@@ -122,6 +122,17 @@ A noob website consists of main 3 elements in implementation - HTML, CSS, and Ja
 
 ---
 
+### Component Based Architecture
+- React delegates JSX and Js functionality in components, which are reusable pieces that build our UI
+- Each component returns JSX, and contains all of the functionality inside of itself, making these components standalone and reusable
+- Components can receive inputs, also known as properties/props
+
+---
+
+![[Pasted image 20240211182506.png]]
+
+---
+
 ### Not so fast...
 - We need to talk about TypeScript. It is a superset of JavaScript, so all of your prior knowledge is 100% valid. 
 - Typescript adds is a layer of consistency and error checking by adding types to Js, and the option to create advanced types.
@@ -137,6 +148,10 @@ type EntityItem = {
     label: string;
 };
 ```
+---
+
+![[Pasted image 20240211182801.png]]
+
 
 ---
 
@@ -152,8 +167,27 @@ type EntityItem = {
 
 ### useEffect()
 - The useEffect function is called whenever stateful data changes 
-- Has something called a dependency array, which we used to tell it what stateful data is allowed to execute it.
+- Has something called a dependency array, which we used to tell it what stateful data is allowed to execute it. (An empty dependency array only calls the useEffect once, also called the "on-mount" effect)
 - Has a return function, which is called when the component is dismounted (leaves screen)
 
 ---
 
+![[Pasted image 20240211181907.png]]
+
+---
+
+![[Pasted image 20240211182217.png]]
+
+---
+
+### Last piece of information... for now
+- Next Js is what is known as a meta framework, and does a lot of the very complicated tasks under the hood
+- Dynamic routing, or displaying a unique page given the website URL (https://www.projectwildspace.tech/dashboard/clrzq4phg0003uk6mrdg8e4ly)
+- Setting metadata to improve your ability to come up on google search (SEO)
+- Optimizing images and **Server Side Rendering**
+
+---
+### What is Server Side Rendering?
+- First we need to understand the difference between Client and Server.
+- CLIENT: what runs in the web browser. All of the useEffect and useState hooks are client functionality, since there are no fancy animations in the server until it hits the browser.
+- SERVER: where your site is ho
