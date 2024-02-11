@@ -250,4 +250,11 @@ type EntityItem = {
 ### Fuck around with the syntax
 - Make a portfolio site using Next, React, and Tailwind
 - Make each section (About, Contact, Education, etc) a component.
-- For listed sections, make each 
+- For listed sections, make each item its own component and map them using JSX. For example, a projects component has an array of objects representing projects, each with a title, description, and tag, Map those into a project component, which takes in the properties and returns a list element.
+- Use the Tailwind Manual and server components!!!
+
+--- 
+### Final remarks until we dig in...
+- TRPC - a way to manage api calls with typesafety and efficiency
+- Prisma - a tool to interact with our databases
+- Vercel - a platform that deploys any Next.js app for FREE (with limits)
