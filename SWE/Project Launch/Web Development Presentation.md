@@ -2,10 +2,8 @@
 ![[Pasted image 20240211172242.png]]
 
 ---
-### Average Results for Survey
-I'm going to over a few pieces of tech, and we can see how these terms come up in relation.
-- HTML - 4.33
-- CSS - 3.33
+
+- HTML - 4.33, CSS - 3.33
 - JS - 4
 - Components - 2.33
 - State - 3
@@ -17,16 +15,11 @@ I'm going to over a few pieces of tech, and we can see how these terms come up i
 - SEO - 2.66
 - JSX - 2.66
 - Node/npm/npx - 3
-- Databases - 4
-- Storage Buckets - 2.33
+- Databases - 4, Storage Buckets - 2.33
 
 ---
 
-### Descending Averages from Survey
-Okay, so you all have used inspect element before...
-
-- HTML - 4.33
-- JS - 4
+- HTML - 4.33, JS - 4
 - Databases - 4
 - Client/Server - 3.66
 - Metadata - 3.66
@@ -38,8 +31,7 @@ Okay, so you all have used inspect element before...
 - SEO - 2.66
 - JSX - 2.66
 - Components - 2.33
-- Storage Buckets - 2.33
-- Dynamic Routing - 2 ​
+- Storage Buckets - 2.33, Dynamic Routing - 2 ​
 
 ---
 ### Implementation Confidence
@@ -89,3 +81,33 @@ A noob website consists of main 3 elements in implementation - HTML, CSS, and Ja
 - Literally Js in HTML...
 
 ---
+
+![[Pasted image 20240211174757.png]]
+
+---
+
+![[Pasted image 20240211175550.png]]
+
+---
+
+### Whats with the long ass class names?
+- Tailwind is an extremely powerful CSS extension
+- Compiled, and intellisense supported
+- Adds element-level style system, which is incredibly powerful
+- Universal measurement system - enforces consistency
+- Allows for utility overrides
+
+---
+
+![[Pasted image 20240211175852.png]]
+
+---
+
+![[Pasted image 20240211175931.png]]
+
+---
+
+![[Pasted image 20240211180123.png]]
+
+---
+
