@@ -96,6 +96,7 @@ A noob website consists of main 3 elements in implementation - HTML, CSS, and Ja
 - Adds element-level style system, which is incredibly powerful
 - Universal measurement system - enforces consistency
 - Allows for utility overrides
+- Extensive documentation and manual - DW
 
 ---
 
@@ -108,6 +109,51 @@ A noob website consists of main 3 elements in implementation - HTML, CSS, and Ja
 ---
 
 ![[Pasted image 20240211180123.png]]
+
+---
+
+![[Pasted image 20240211180344.png]]
+
+---
+
+### The elephant in the room
+- React is what is called a JavaScript framework, or a way to extend Js for responsive user interfaces.
+- Is responsible for managing state and rendering conditionally, based on changes in certain conditions/variables.
+
+---
+
+### Not so fast...
+- We need to talk about TypeScript. It is a superset of JavaScript, so all of your prior knowledge is 100% valid. 
+- Typescript adds is a layer of consistency and error checking by adding types to Js, and the option to create advanced types.
+```Js
+// Entity types are defined elsewhere...
+type EntityItem = {
+    value:
+        | Character
+        | City
+        | Faction
+        | Quest
+        | Building;
+    label: string;
+};
+```
+
+---
+
+### useState()
+- The useState function returns two items - one is the stateful piece of data itself, and the other is the setter. You also input the default value into the call to useState, and specify the states the type.
+- Any JSX element that uses stateful data as input will automatically be re-rendered
+
+---
+
+![[Pasted image 20240211181605.png]]
+
+---
+
+### useEffect()
+- The useEffect function is called whenever stateful data changes 
+- Has something called a dependency array, which we used to tell it what stateful data is allowed to execute it.
+- Has a return function, which is called when the component is dismounted (leaves screen)
 
 ---
 
