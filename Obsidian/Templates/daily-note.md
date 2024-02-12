@@ -1,18 +1,15 @@
 ---
 morning-yoga: 0
 morning-vitamins: 0
-morning-mood:
-
-water: 
-weight:
+morning-mood: 0
+water: 0
+weight: 0
 gym: 0
-
 evening-vitamins: 0
-evening-mood:
+evening-mood: 0
 hours-to-wakeup: 0
 meditated: 0
-
-energy: 
+energy: 0
 ---
 [[Life/Journal/Daily Notes/<%tp.date.now("YYYY-MM-DD",-1,tp.file.title,"YYYY-MM-DD")%>|Yesterday]] <-> [[Life/Journal/Daily Notes/<%tp.date.now("YYYY-MM-DD",+1,tp.file.title,"YYYY-MM-DD")%>|Tomorrow]]
 # Tasks Due Today
