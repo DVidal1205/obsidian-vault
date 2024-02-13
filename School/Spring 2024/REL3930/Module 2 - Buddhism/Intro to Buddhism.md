@@ -72,3 +72,5 @@
 ### The Four Noble Truths
 - All Life is Dukkha (Pali word for suffering and unsatisfactory)
 - The cause of Dukkha is craving which is a link between the realms
+- The end of Dukkha (Nibbana)
+- The path leading to the end of Dukkha (The Noble Eightfold Path)
