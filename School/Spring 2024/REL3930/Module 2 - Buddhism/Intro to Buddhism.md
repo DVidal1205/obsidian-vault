@@ -51,3 +51,12 @@
 - Get rid of women, which are the body of pleasure, we can live pleasure free.
 - Tells his wife and kid in sleeping that he will not return until he finds liberation, leaving his hair and clothes behind.
 - Living on one grain of rice a day.
+- The Milk Maid offers him milk, and he takes it.
+- Touches the Earth and says he is not getting up from his tree until he finds enlightenment. (Women positive and women are associated with the Earth, which is problematic essentialism)
+### Six Realms of Samsara
+- Hell Realm
+- Hungry Ghost Realm
+- Animal Realm
+- Human Realm
+- Jealous God Realm
+- Pleasure God Realm
