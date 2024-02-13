@@ -48,3 +48,12 @@ $S \subset T$ means S is a proper subset of T, meaning that $S \subseteq T$, but
 - Given |A|, |B|, what is the cardinality of |A$\cup$B| and |A$\cap$B|
 - |A$\cap$B| = |A| + |B| - |A$\cup$B|
 - |A$\cup$B| = |A| + |B| - |A$\cap$B|
+### Set Difference
+- For sets A, B, the difference of A and B, written by A-B, is the set of all elements that are in A but not in B
+### Set Complement
+- All elements not in the other in the universe of discourse
+### How to prove a set identity
+- Truth tables
+- Use membership Tables
+- Use the basic set identity laws
+- Prove each set is a subset of each other (Mutual Subset)
