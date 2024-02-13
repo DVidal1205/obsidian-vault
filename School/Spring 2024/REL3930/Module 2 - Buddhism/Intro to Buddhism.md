@@ -60,3 +60,11 @@
 - Human Realm
 - Jealous God Realm
 - Pleasure God Realm
+### The Three Poisons
+- Ignorance
+- Hated and war
+- Desire and lust
+### Mara
+- The personification of the three poisons in Buddhism
+- Her job is to tempt the Buddha and keep him in Samsara
+- 
