@@ -60,3 +60,17 @@
 - Human Realm
 - Jealous God Realm
 - Pleasure God Realm
+### The Three Poisons
+- Ignorance
+- Hated and war
+- Desire and lust
+### Mara
+- The personification of the three poisons in Buddhism. 
+- Her job is to tempt the Buddha and keep him in Samsara. 
+- The Buddha turns his arrows to flowers as he has uprooted hatred. 
+- Mara sends the seductive daughters, and he is uninterested. 
+### The Four Noble Truths
+- All Life is Dukkha (Pali word for suffering and unsatisfactory)
+- The cause of Dukkha is craving which is a link between the realms
+- The end of Dukkha (Nibbana)
+- The path leading to the end of Dukkha (The Noble Eightfold Path)
