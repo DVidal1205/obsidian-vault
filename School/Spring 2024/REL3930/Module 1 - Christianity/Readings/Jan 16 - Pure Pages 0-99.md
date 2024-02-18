@@ -39,7 +39,6 @@
 - Self-Castration
 ### Platonic Dualism
 
-Reason
 
 | Plato/Philosophy | Theology | Gender |
 | ---- | ---- | ---- |

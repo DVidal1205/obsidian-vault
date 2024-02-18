@@ -13,7 +13,7 @@
 - Targeted with inhumane treatments such as electric shocks or lobotomies.
 - Theory of inversion: "a female brain in a male body".
 - In 1899 a German psychiatrist Albert von Schrenck claiming that 45 hypnosis sessions and a few trips to the brothel, turned a gay man strait.
-- Aversion Therapy: ingesting homosexual content while receiving pain.
+-Aversion Therapy: ingesting homosexual content while receiving pain.
 #### Freud
 - We all are born polymorphous perverse, meaning we can derive sexual pleasure from many things.
 - We have to form to heterosexuality for the sake of society.
