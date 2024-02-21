@@ -58,3 +58,20 @@ $S \subset T$ means S is a proper subset of T, meaning that $S \subseteq T$, but
 - Use membership Tables
 - Use the basic set identity laws
 - Prove each set is a subset of each other (Mutual Subset)
+### Functions
+- Also known as a mapping from A to B (f:A$\rightarrow$B) is a particular assignment of exactly one element 
+### One to one
+- Every pre-image maps to exactly one image each
+### Onto
+- The set A covers the entirety of set B
+### Bijection
+- A function f is said to be bijection if it is one-to-one and onto
+### The identity function
+- I(a) = a
+- $\forall a \in A: I(a)=a$
+### Function Composition Operators
+- For functions g:A->B and f:B->C there is a special compose operator ($\circ$)
+- It composes and creates a new function out of f and g by applying f to the result of applying g.
+- (f$\circ$g):A->C where (f$\circ$g)(a) = f(g(a))
+### EXAM
+- Remember additional law

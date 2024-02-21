@@ -74,3 +74,25 @@
 - The cause of Dukkha is craving which is a link between the realms
 - The end of Dukkha (Nibbana)
 - The path leading to the end of Dukkha (The Noble Eightfold Path)
+### Pali Canon
+- Written in Pali
+- Teachings of the Buddha
+- The Vaniyah: Rules and regulations for the monastic (227 for monks and 311 for nuns)
+### House Holders Versus Monastics
+Monastics
+- Practice Vinaya
+- Practice meditation
+- Goal is to become an arhat or enlightened
+- Depend on the laity
+Householders
+- Follow the five precepts
+- Don't kill
+- Don't steal
+- Don't engage in sexual misconduct
+- Don't speak falslely
+- Don't take intoxicants
+### Triyaka - Mahayana
+- The doctrine that explains how a human can be a Buddha authority
+- Dharma/Truth: This is the absolute or enlightened mind 
+- Spiritual/Enjoyment: This is the transfigured body that is the result of spiritual practice
+- Earth/Manifest: Human form
