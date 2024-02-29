@@ -10,26 +10,18 @@ On the agenda for today
 ### API Handling
 - Why do we care about tRPC? What problem does it fix
 
-```js
-import type { NextApiRequest, NextApiResponse } from 'next' 
-
-type ResponseData = { message: string} 
-
-export default function handler( 
-	req: NextApiRequest, 
-	res: NextApiResponse<ResponseData>) {
-	res.status(200).json({ message: 'Hello from Next.js!' })
-}
-```
+![[Pasted image 20240229161607.png]]
 
 ---
 ### A few issues
-- Notice how we have to create a type
+- Notice how we have to create a type (ResponseData)
 - We need to define status messages
 - The type is known in the API, but what about in the client?
 - Would we need to create and export a global type for all of our API returns, and import them to every client code that calls this API?
 - Classic POST, UPDATE, CREATE, DELETE headers (verbose)
+
 ---
+
 ### tRPC, and what is so cracked
 - Creates global typing across the entire project at development time
 - Adds autocomplete for all API routes, and inputs, creating a "Project Based SDK"
@@ -37,73 +29,36 @@ export default function handler(
 - Makes API management feel a lot more like functions (input and outputs versus req and res), than the classic HTTPS payload system
 
 ---
+### Project Based SDK
+
+![[Pasted image 20240229160227.png]]
+
+---
+
+![[Pasted image 20240229160559.png]]
+
+---
+
+![[Pasted image 20240229163854.png]]
+
+---
+![[Pasted image 20240229164000.png]]
+
+---
 ### tRPC Procedures
 
-```js
-// Middleware sneak peak...
-getUserWorlds: privateProcedure.query(async ({ ctx }) => {
-	const { userId } = ctx;
-
-	// Prisma sneak peek...
-	return await db.world.findMany({
-		where: {
-			userId,
-		},
-	});
-}),
-```
+![[Pasted image 20240229160759.png]]
 
 ---
 ### Calling it Client Side
+![[Pasted image 20240229160945.png]]
 
-```js
-export default function IndexPage() {
-const result = trpc.greeting.useQuery({ name: 'client' });
-
-	if (!result.data) {
-	return (
-	<div style={styles}>
-		<h1>Loading...</h1>
-	</div>
-	);
-	}
-	
-	return (
-	<div style={styles}>
-		<h1>{result.data.text}</h1>
-	</div>
-	);
-}
-```
 ---
 ### Better error handling
 - Any functional/interpretive errors will be automatically thrown as a 400 error code
 - Error codes can be caught directly on the client end of the procedure requests
 ---
-
-```js
-const {
-data: imageResponse,
-refetch: imageFetch,
-error: imageError,
-} = trpc.generateImage.useQuery(
-{ object: response, type: "City/Town" },
-{ enabled: false } // Does not fetch on mount
-);
-
-// Tells the user if there is an error with request
-useEffect(() => {
-	if (imageError) {
-		toast({
-		title: "Error",
-		description: `${imageError.message}`,
-		variant: "destructive",
-		});
-		setLoading(false);
-		return;
-	}
-}, [imageError, toast]);
-```
+![[Pasted image 20240229161018.png]]
 
 ---
 ### Amazing API Flow
@@ -114,74 +69,26 @@ useEffect(() => {
 
 ---
 
-```js
-const { mutate: saveCity, error: saveError } = trpc.saveCity.useMutation({
-	// If we were able to save the city, let the user know!
-	onSuccess: () => {
-		utils.getWorldEntities.invalidate();
-		toast({
-			title: "City Saved",
-			description: "Your city has been saved.",
-		});
-	},
-	// Call once we start the procedure in order to let our loader know it should spin
-	onMutate: () => {
-		setCurrentlySavingCity(true);
-	},
-	// Stop the loading state, regardless of success or failure
-	onSettled() {
-		setCurrentlySavingCity(false);
-	},
-	// Exists, but does not have access to the error code, so is not as good for UX or debug
-	onError() {
-	}
-});
-```
+![[Pasted image 20240229161107.png]]
 
 ---
 ### Middleware
 - We can also add functionality between our server and client with trpc middleware
 
-```js
-const middleware = t.middleware;
+![[Pasted image 20240229161130.png]]
 
-const isAuth = middleware(async (opts) => {
-	const { getUser } = getKindeServerSession();
-	const user = await getUser();
-	if (!user?.id || !user?.email) {
-		throw new TRPCError({ code: "UNAUTHORIZED", message: "Unauthorized" });
-	}
-	return opts.next({
-		ctx: {
-			userId: user.id,
-			user,
-		},
-	}),
-});
+---
 
-export const privateProcedure = t.procedure.use(isAuth);
-```
+![[Pasted image 20240229163532.png]]
 
 ---
 ### Cached and Invalidation
 - The data from tRPC is CACHED per session, even across routes and components
 - This makes our APIs very efficient, but we still have flow in case we want to force a refetch elsewhere
+---
 
-```js
-const { mutate: deleteWorld } = trpc.deleteWorld.useMutation({
-	// If the world deletion succeeds...
-	onSuccess: () => {
-		// Lets invalidate our cache for the getUserWorlds response, updating our dashboards and wherever else getUserWorlds has already given data to
-		utils.getUserWorlds.invalidate();
-	},
-	onMutate: ({ id }) => {
-		setCurrentlyDeletingWorld(id);
-	},
-	onSettled() {
-		setCurrentlyDeletingWorld(null);
-	},
-});
-```
+![[Pasted image 20240229161212.png]]
+
 ---
 ### Prisma
 - ORM: Object Relational Mapper
@@ -191,35 +98,22 @@ const { mutate: deleteWorld } = trpc.deleteWorld.useMutation({
 
 ---
 
-```js
-getUserWorlds: privateProcedure.query(async ({ ctx }) => {
-	const { userId } = ctx;  
-		return await db.world.findMany({	
-			where: {		
-				userId,
-			},
-	});
-}),
-```
+![[Pasted image 20240229161304.png]]
 
 ---
 
-```js
-import {
-	Building,
-	Character,
-	City,
-	Faction,
-	Item,
-	Monster,
-	Quest,
-	Spell
-} from "@prisma/client";
-```
+![[Pasted image 20240229161336.png]]
 
 ---
 ### Database
 - I am thinking a SQL instance on PlanetScale for development, and perhaps we can get fancy and create an instance elsewhere once we are done
+---
+### ShadCN UI!!!
+- A installable component library
+- Full styling and behavioral control
+- Tailwind compliant
+- Excellent variants
+- Extremely ARIA performant
 
 ---
 ### Auth Provider
