@@ -116,9 +116,28 @@ This session will be another downtime session amongst the party members, includi
 
 ### Thaddeus Entrance
 - Thaddeus will show up 5 days letter on H-20, with the weapons on hand and materials ready to expand the hideout.
+- He will have a build grant for Zero.
+- This project will take approximately 10 days (right on time for the letter).
+- 10ft x 50ft per day, making 7 days from left to right, and 3 days for finishes. 
+- **Bag of Holding:** to store the excavated materials to be carried outside and disposed of
+- **Transmutation Runes:** to temporarily transmute the upper roof of the excavation into sturdy stone, or transmute hard to remove rock into mushy dirt
+- 
+
+
+
+
+### Weapons/Items
 #### Ruby Gauntlets
-These intricately crafted gauntlets combine the raw power and force of
+These intricately crafted gauntlets combine the raw  force of lightweight - yet durable - metals and an affinity for arcane power. Adorned with a ruby shard on the back of each hand, and marked with arcane inscriptions down the fingers and knuckles, these gauntlets are capable of extending ones physical strength and arcane presence. Accompanied with a tool-belt for quick stowing.
 - Attack: 1d8 + STR bludgeoning damage.
 - Two weapon fighting: As a bonus action, make 1 additional attack with the gauntlets.
 - Arcane Conduit: PB times per day, upcast the effect of any of the following spells: Booming Blade, Green-Flame Blade, Lightning Lure, and any Smite abilities including Divine Smite.
 #### Rod of Rotation
+Reconstructed using magitech bearings, cogs, and gimbals, this redesigned bludgeoning weapon has become extremely fundamentally enhanced. 
+- +2 Magic Weapon (+2 damage and attack bonus on all attacks using this weapon).
+- Overextending yourself is much safer, due to the auto-correcting properties of the weapon. Reckless attack only imposes a -5 AC penalty, rather than advantage for incoming attacks.
+- Range: 10ft, or 15ft with disadvantage.
+- When you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+#### Feyflower (12 charges)
+This mystical plant was harvested by Blark's nature retreat, and has magical fey properties.
+- Consuming a bud of the flower causes 1d4 wild magic effects to occur.
