@@ -1,6 +1,3 @@
----
-
----
 # Welcome back, time for tools
 On the agenda for today
 - tRPC, database and repository initializing, prisma, t3 stack, and auth
