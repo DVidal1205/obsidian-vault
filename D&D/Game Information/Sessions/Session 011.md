@@ -9,20 +9,32 @@ fc-category: Sessions
 1990-01-15
 # Session
 This session will be another downtime session amongst the party members, including the new addition of Vouhi Cliffer.
-Fortnite
 
 ## Encounters
 - Zero vs. Dorban and Thoss.
 - Emil vs. Blackrock
 
+### Session 011 Overarching Schedule (H-15 to H-30)
+**Days 15 - 20**
+- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-22.
+- Claude notices the mysterious fey plant in his bag
+- Taxidus letter of absence
+**Days 21-25**
+- Thaddeus Arrived (H-20)
+- Juggah incident (H-21)
+- Work remainder of time
+**Days 26-30**
+- All hands on deck working
+- Training
+- Trial of Valor letter
 ### Player Subplots
 #### Claude
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
- - After going home and preparing for school, Claude will notice an item in his bag that he did not remember packing. Within it is going to be a vial of fey essence, collected by Dvita off of Blark.|
-- Fey Vial: drinking this will send Claude into a wild magic frenzy, which he will struggle to maintain control over Dvita. Typical Wild Magic effects, and wicked flashbacks of his past life (Beautiful Fey City, Wildfires, Chambers, Chains, etc).|
-- Going to begin feeling really sleepy at night, despite getting his designated trance. Time also stops adding up. During this time, Dvita will have been scouting out the Western District, and Dvita can notice this by the mud on his boots or the unlocked window. Dvita has been slowly awoken since the Old Stones, and will continue to do research before acting on anything.|
-- Xavier will also be gone for some of the downtime, as he has chosen to go into work voluntarily after hearing the news. The MPMP could use his help, and he's happy to if it means getting rid of these cultists. Claude can get up to shenanigans while home alone.|
-- Claude will be approached by Ealdrid, and offer his condolences for any tragedy he may have faced.|
+ - After going home and preparing for school, Claude will notice an item in his bag that he did not remember packing. Within it is going to be a vial of fey essence, collected by Dvita off of Blark.
+- Fey Vial: drinking this will send Claude into a wild magic frenzy, which he will struggle to maintain control over Dvita. Typical Wild Magic effects, and wicked flashbacks of his past life (Beautiful Fey City, Wildfires, Chambers, Chains, etc).
+- Going to begin feeling really sleepy at night, despite getting his designated trance. Time also stops adding up. During this time, Dvita will have been scouting out the Western District, and Dvita can notice this by the mud on his boots or the unlocked window. Dvita has been slowly awoken since the Old Stones, and will continue to do research before acting on anything.
+- Xavier will also be gone for some of the downtime, as he has chosen to go into work voluntarily after hearing the news. The MPMP could use his help, and he's happy to if it means getting rid of these cultists. Claude can get up to shenanigans while home alone.
+- Claude will be approached by Ealdrid, and offer his condolences for any tragedy he may have faced.
 - Claude will be noticed by his friends from the university as well, and will also find Leif.
 #### Emil
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
@@ -67,18 +79,16 @@ Fortnite
 - 7-9: Flipped and reversed
 - 9-12: Oriented Counterclockwise (Left)
 **Dorban**
-- AC14
+- AC 14
 - 50/50
 - Move speed 35ft
 - Multiattack: Two unarmed strikes, +4, 5 damage
-- Pellet: Dexterity save DC13, 1d6 + 2 damage
-- Grapple: Dexterity save DC13 or restrained
+- Pellet: Dexterity save DC 13, 1d6 + 2 damage
+- Grapple: Dexterity save DC 13 or restrained
 - Harden: +2 AC as a reaction
-- Stomp: DC13 Strength or push/prone and 1d6 damage
+- Stomp: DC 13 Strength or push/prone and 1d6 damage
 
 ### University
-- The party will run into Blark, who will remind them that tomorrow is the first day of school.
-- Arriving at 9am the morning of 1/11, the students of the party will attend the grand orientation of the university. Here,  Auric the Centaur will be seen parading all throughout the university. Booths lining the campus with food will be present, and the festivities will be livening.
 #### Goods
 
 | Vendor Name | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
@@ -92,17 +102,7 @@ Fortnite
 | The Gnomish Gizmo | Grilled Vegetable Skewers(gp:4.5) | Gnomish Meatballs(gp:5) | Stuffed Bell Peppers(gp:4) | Roasted Garlic Hummus(gp:3.5) | Sparkling Berry Soda(gp:2) |
 |  |  |  |  |  |  |
 
-- In the center mess hall, similar to the Student Union, there will be many students gathering around. Large signs saying First Year Students will direct the students to the hall within the CAS building. Within these halls are intricate artifacts and paintings of realms beyond our own. They will be greeted by an Elvish woman, who will be conducting their orientation. After the concession is full, the doors close, cutting off the line and sending them elsewhere.
-- In a similar manner to the commencement ceremony, attendees will check in by pricking their finger upon entry, and receiving a blank card with a material similar to an ID. When the card turns green, they are to follow a group leader. Everyone will be called but roughly 250 students in this pod.
-- "So, just a quick sanitization check, all of you here are competitors right? Theres no need to conceal it, I just want to make sure our detection ran smooth. Any final calls? Alright so, here's the deal. When the crown announced the Crucible, it was a shock to the world. Unfortunately it was a shock to us faculty members too, so moving forward, we're going to be instituting a new curriculum for members within the crucible based on some of the mistakes we had noticed from the end of last semester. The changes here are as follows"
-- "First, the usual 20 days on 5 days off rule won't apply this semester, as that pattern resulted in some people missing time to compete and falling behind, especially during finals week. Instead, competitors will have a 4 day a week schedule, rather than the previous 2-3 day. Classes will run from 10:00-4:00 Solara to Terrador."
-- "Second, your five days off will be every 25 days, and will be during the crucible instead. To recuperate your time off that is missed, 3 days before the trial and two days afterwards, classes will be cancelled for crucible members. This will be time to prepare and/or recover from the events of trials and align properly with your participance and the curriculum."
-- "Third, after discussion with the Council, a motion has been put forth to alter curriculum for the contestants as they claim you all to be the future of our nation. As such, you all have received nothing short of the best in terms of professors and exclusive class sections marked by a T code, and have extended resources available to you all as students that others do not. As a side note, I suggest you all take advantage of these as much as possible"
-- "Last but not least, removal from the trial through loss will result in a revoking of these privileges, and will result in a transition of scheduling to normal class sections as our curriculum is standardized and will make the transition largely smooth."
-- After the presentation, the IDs of the students will instead turn purple, signifying their status as Crucible Students. These IDs are faceless, unless held up and presented, showing the name of the candidate, their 8 digit ID, and a bright green glow. If anyone other than the candidate presents the card, it turns red.
-- Floating pieces of papers will then loftily float through the venue to each student, gravitating towards their ID. These are their schedules. They will continue through the rest of their schedules for the remainder of the day.
 #### Log
-
 ##### Summary
 [[Session 010 Summary|Session Summary]]
 ### Tunneling
@@ -112,10 +112,13 @@ Fortnite
 - During the excavation process, they will not actively hit a tunnel.
 - Thaddeus will show up with a bag of holding, ready to get to work.
 - The party will excavate a 10 by 50 segment at a time, with Tova using his domain to act as a preliminary pillar. 
-- Gauntlets: 1d8 + strength, proficiency + AC to hit, two hand fighting.
-	- Toolbelt mounting
-	- Magic Compatible
-- Augmented Weapon
-	- Gyroscope momentum, +2 magic weapon
-	- 15ft at disadvantage
 - Disintegration field.
+
+### Thaddeus Entrance
+- Thaddeus will show up 5 days letter on H-20, with the weapons on hand and materials ready to expand the hideout.
+#### Ruby Gauntlets
+These intricately crafted gauntlets combine the raw power and force of
+- Attack: 1d8 + STR bludgeoning damage.
+- Two weapon fighting: As a bonus action, make 1 additional attack with the gauntlets.
+- Arcane Conduit: PB times per day, upcast the effect of any of the following spells: Booming Blade, Green-Flame Blade, Lightning Lure, and any Smite abilities including Divine Smite.
+#### Rod of Rotation
