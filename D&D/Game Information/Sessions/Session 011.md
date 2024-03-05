@@ -121,7 +121,12 @@ This session will be another downtime session amongst the party members, includi
 - 10ft x 50ft per day, making 7 days from left to right, and 3 days for finishes. 
 - **Bag of Holding:** to store the excavated materials to be carried outside and disposed of
 - **Transmutation Runes:** to temporarily transmute the upper roof of the excavation into sturdy stone, or transmute hard to remove rock into mushy dirt
-- 
+- **Tools:** Standard shovels and pickaxes, excavating at roughly 80 cubic feet of matter per hour, plus the laying of the new bricks
+- 1 Person: 14 Hours a day
+- 2 People: 10 Hours a day
+- 3 People: 6 Hours a day
+- 4 People: 4 Hours a day
+- 5 People: 3 Hours a day
 
 
 
