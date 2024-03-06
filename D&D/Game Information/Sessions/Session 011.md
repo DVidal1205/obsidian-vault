@@ -16,7 +16,7 @@ This session will be another downtime session amongst the party members, includi
 
 ### Session 011 Overarching Schedule (H-15 to H-30)
 **Days 15 - 20**
-- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-22.
+- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-22, preliminary meeting H-19.
 - Claude notices the mysterious fey plant in his bag
 - Taxidus letter of absence
 **Days 21-25**
@@ -38,15 +38,17 @@ This session will be another downtime session amongst the party members, includi
 - Claude will be noticed by his friends from the university as well, and will also find Leif.
 #### Emil
 - Begin studying at the University, taking [[Planes and Dimensions]], [[Algebraic Thinking]], and [[Foundational Writing]].
-- Eventual interacting with Von Jax, lead researcher in Detricite Amplicite Dynamics. He will show great interest in the arm, and will tell him that it is definitely the work of his great * 7 grandfather, Professor Jare Jax, denoted by the OBVIOUS j on the right pointer finger, as seven was his lucky number. 
+**Jax**
+- Eventual interacting with Von Jax, lead researcher in Detricite Amplicite Dynamics. He will show great interest in the arm, and will tell him that it is definitely the work of his great * 7 grandfather, Professor Brunwick Jax, denoted by the OBVIOUS j on the right pointer finger, as seven was his lucky number. 
 - "Do you know what separates us from the rest of the animal kingdom? Us being general humanoids by the way, not just humans. I'm far too intelligent to be racist. What makes us humanoids different, what makes us civilized, is combination of our curiosity, and our undying resolve to find the answers to our questions. It is through the endless pursuit of knowledge that we will find strength. Nothing more, nothing less. And as such, I will help you find the answers to your question as well, so long as you help me answer mine."
 - Dr. Jax wishes to put Emil through various tests using his arm. He claims that he has bonded to his quite well, and will explain that there is in fact a bonding process within the stone. There is biology, yes, but there seems to be spirit as well. That is the one thing his ancestor did not consider, because the concept of a soul in itself was outside the reach of his scientific mind. Then that begs the question, why. 
 - Emil will learn that his arm was made around the Emergent Era, briefly after the defeat of Gnoxrus. He will ask if he knows anything about Carlos for a head start. He will conclude that this was made for a man named Carlos Brawhon, who became Crownsguard in the year 1750, after choosing to fight after the Battle of the Unbounding where he lost his arm. He succeeded as the second generation of Crownsguard after the death of Kyle Smith due to old age. He eventually fought alongside a Firbolg man named Seraphius, who is still alive and retired to the Claystone Mages to the North who may have more answers.
+**Blackrock**
 - Additionally, Emil will have an encounter with the Blackrock family, after the revival of the Loxodon he killed. During a late night on campus, he will notice a weird tug on his watch. It will come unclamped, and as it falls, a Leonin man runs after it, snatching it, and runs throughout campus into a back corner of campus.
 - He will be cornered by 3 Thugs who are eager to take Emil out for what he did to their warehouse. [[Blackrock Mage]], [[Blackrock Thief]], [[Blackrock Thug]].
-- Mage: 21/21 AC13
-- Thug: 45/45 AC15
-- Thief: 23/23 AC16
+- Mage: 21/21 AC13 (Necromancy 3rd <)
+- Thug: 45/45 AC15 (Multiattack: 1d6 + 4)
+- Thief: 23/23 AC16 (Sneak attack: 3d6, 1d6 + 2)
 - If they win, they will steal Emil's Money and bash in his shield.
 #### Tova
 - If visiting Thaddeus, he will learn of his recent affairs.
@@ -64,15 +66,17 @@ This session will be another downtime session amongst the party members, includi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
 - Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
+**E3C**
+- H-19: a meeting in CFD112, with only 3 remaining stands when he arrives. A total of 25 booths, each manned by a prospective chef. The event will run from 5pm-8pm and will be open to the public to eat. The president of the club, Wano, will open the banquet floor for anyone else to explore or network. He will also briefly mention high profile culinary influences may be there.
+- H-22: during the expo, Vouhi will notice the party hopefully chasing Thoss. Also, he will run into his professor, Chef Thalassia, who is glad to see him there and is there with her friend, the legendary Robert Howul. 
 #### Zero
 - Zero will get a letter from Taxidus that says only the following:
-- "Madran has been defeated. Will keep you updated on the situation. They will stay safe."
+**Juggah Arc**
 - Zero will be visited by [[Grunhilda Blackwood]], Juggah's estranged wife. She will be delivering bad news to Zero, as her husband's body has finally been found. She will show up on the doorstep of the bar at roughly 6:00PM, and the crowd will hush as she enters, knowing what has happened. She will ask to talk to Zero alone.
 - "They found him. Just a few miles out from the University. His body was fresh, they said. Couldn't have been gone for more than a day. Its been 37 days Zero (he left three days after commencement). Thirty seven days he was alive out there, doing god knows what. Whatever it was, I'll bet you the most he was stubborn the whole time. But I know him, I know that man well. Whatever it is, I know it was something right. "
 - "I just wish they never showed me the body. I know its procedure to confirm and whatnot but, the state he was in Zero, I've never seen him like this. To imagine such a big man seem so small. He was frail. I wonder how little he had been eating. And this terrible scarring crawling up his shoulder. It's all I could see the whole walk here. Damn those two for ruining my image of him. Damn them for all their snotty questions and remarks. I'm a grieving woman Zero. And all they wanted to know about was some damn letter."
 - "It's all they asked me about. Apparently it was important for some lead or something? I don't know, frankly I don't care. Whatever it was, you two must have been real close. When they showed me the letter, pushing and pressing and panzying on about it... well it was addressed to you. I was going to keep reading but... but then I felt his stare. They were both plain clothes officers, but something about the one in the back really threw me off. He hardly spoke, he just, watched. But with such intent it made me feel sick. Those bastards have no idea how to deal with a grieving woman. I wonder how routine this is for them. Ask for their lead and let the widows wander their way. Whatever it was, it seemed important to them. Far more important than taking it easy on a woman who last her husband. They told me only a few hours ago. I had thought to wait until closing hours to come, but I don't think I could stay awake that long. You know, I gave up for a moment Zero. I thought that he was gone. I mean most would after that long. I stopped hanging posters. I went from doing something just to holding on hope. All while I know he was out there, fighting for us. It is just loss after loss, and he wanted to bring us home a win for once. That's why he was participating in this god awful messed up ritual anyways. I just can't help but feel like this is my fault."
 - Outside of the window, a few buildings down, Thoss will be standing, giving Zero a wave. If Zero follows him, he will run about a minute and a half away into an alley, which will collapse beneath Zero's feet, and leaving him in the catacombs.
-- He will be able to escape due to a trail of napkins, used by Juggah to trace his way out. After escaping the catacombs, 6 days will have passed.
 **Rules:** 
 - 1-3: Direction as intended
 - 4-6: Oriented Clockwise (Right)
