@@ -16,7 +16,7 @@ This session will be another downtime session amongst the party members, includi
 
 ### Session 011 Overarching Schedule (H-15 to H-30)
 **Days 15 - 20**
-- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-22.
+- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-21.
 - Claude notices the mysterious fey plant in his bag
 - Taxidus letter of absence
 **Days 21-25**
@@ -64,6 +64,7 @@ This session will be another downtime session amongst the party members, includi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
 - Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
+- E3C
 #### Zero
 - Zero will get a letter from Taxidus that says only the following:
 - "Madran has been defeated. Will keep you updated on the situation. They will stay safe."
@@ -79,14 +80,19 @@ This session will be another downtime session amongst the party members, includi
 - 7-9: Flipped and reversed
 - 9-12: Oriented Counterclockwise (Left)
 **Dorban**
+"First you buried Canlen, and then you landed the finishing blow on a minuteman "
 - AC 14
-- 50/50
+- 60/60
 - Move speed 35ft
-- Multiattack: Two unarmed strikes, +4, 5 damage
-- Pellet: Dexterity save DC 13, 1d6 + 2 damage
+- Multiattack: Two unarmed strikes, +4, 6(10) damage
+- Pellet: Dexterity save DC 13, 4(8) + 4 damage
 - Grapple: Dexterity save DC 13 or restrained
 - Harden: +2 AC as a reaction
 - Stomp: DC 13 Strength or push/prone and 1d6 damage
+**Tross**
+- AC 16
+- 40/40
+- Any sorcerer or warlock spells 4th level and lower
 
 ### University
 #### Goods
