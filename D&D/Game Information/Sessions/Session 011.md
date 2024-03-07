@@ -16,11 +16,7 @@ This session will be another downtime session amongst the party members, includi
 
 ### Session 011 Overarching Schedule (H-15 to H-30)
 **Days 15 - 20**
-<<<<<<< HEAD
-- Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-21.
-=======
 - Vouhi invite from Lysander to an upcoming event for the E3C (Esteemed Culinary College Chefs) exposition on H-22, preliminary meeting H-19.
->>>>>>> origin/main
 - Claude notices the mysterious fey plant in his bag
 - Taxidus letter of absence
 **Days 21-25**
@@ -70,13 +66,9 @@ This session will be another downtime session amongst the party members, includi
 - Continue his second semester at the University, taking [[Algebraic Thinking]], [[Foundational Writing]], and [[Pescatarian Delights]].
 - Will get a visit from [[Lysander Oragonis]], checking in on his studies and the start of the new semester. He will also seek to talk to him about the trial, and what he saw. Lysander will mention the tragedy of the Needlework Nexus, and that he frequented it.
 - Before he leaves, Lysander will hand Vouhi a flyer to an event. The event will be held in the university banquet, and is a presentation on Morellus for international students.
-<<<<<<< HEAD
-- E3C
-=======
 **E3C**
 - H-19: a meeting in CFD112, with only 3 remaining stands when he arrives. A total of 25 booths, each manned by a prospective chef. The event will run from 5pm-8pm and will be open to the public to eat. The president of the club, Wano, will open the banquet floor for anyone else to explore or network. He will also briefly mention high profile culinary influences may be there.
 - H-22: during the expo, Vouhi will notice the party hopefully chasing Thoss. Also, he will run into his professor, Chef Thalassia, who is glad to see him there and is there with her friend, the legendary Robert Howul. 
->>>>>>> origin/main
 #### Zero
 - Zero will get a letter from Taxidus that says only the following:
 **Juggah Arc**
