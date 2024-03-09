@@ -8,7 +8,7 @@
 - Systems Software
 - POOSD
 - Discrete 2
-- Technical Writing Honors
+- Technical Writing
 ### Fall 2025
 - Senior Design I
 - Chemistry II Honors
