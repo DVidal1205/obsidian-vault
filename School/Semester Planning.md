@@ -1,13 +1,13 @@
 ### Fall 2024
 - Computer Logic
-- CS 2 Honors
+- CS 2
 - Security in Computing
-- Technical Writing Honors
+- 
 ### Spring 2025
 - Systems Software
 - POOSD
 - Discrete 2
-- Linear Honors
+- Technical Writing Honors
 ### Fall 2025
 - Senior Design I
 - Chemistry II Honors
