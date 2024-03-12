@@ -49,7 +49,38 @@
 
 ## Dorban and Thoss
 1. Thoss will continue to run away from Zero, and eventually into the E3C event, where the party will run into Vouhi. Thoss will attempt to blend in, and after looking thoroughly, a crow will land on his shoulder.
-2. 
+2. Navigating to an alleyway known to be atop the catacombs, Thoss will hold Zero in place. Casting Psychic Lance, Thoss will inject the following memory into Zero's head.
+3. A 10x10 hole will open beneath Zero, and will remain open for 2 rounds before beginning to close, and for one round after that.
+### Dorban
+AC: 17
+HP: 100
+ACTIONS
+Multiattack: 1d8 + 5 Bludgeoning Damage, 2 attacks per action
+Brick Barrage: 1d6 + 2, 3 attacks per action
+BONUS ACTIONS
+Hourglass: 1d4 chance of getting another action
+#### Thoss Memory
+*Waiting outside of some alleyway, fidgeting with a knife of some sorts, at mid day*
+
+*Juggah opens a hatch, that seeming appears from the ground, and exiting from the tunnels, disheveled.*
+
+Dorban: He's clearly exhausted. I know he probably caused some trouble in there, but look at him. Maybe we should take-
+
+*Thoss stabs him in the lower abdomen.*
+
+Dorban: see Thoss, sometimes your cold cunning precise act doesn't always get the job done you know.
+
+Juggah: ITS GOING TO TAKE A LOT MORE THAN THAT TO-
+
+*Dorban stomps straight into the handle of the dagger, splintering off a piece of Juggahs side. He does this repeatedly, until Juggah grabs his leg, and Dorban pivots to the face*
+
+Dorban: Clean this up. And save the body for family. Random disappearances make for people with vendettas, and people with vendettas are nosy. I'll meet back up with you at the morgue tomorrow, I have that meeting with our handler tonight. Don't be late
+
+*Thoss continues to marvel at the dagger and the blood*
+
+
+
+
 ## Tunneling
 - Thaddeus will continue to tunnel and build the hideout, which will complete on H-30
 
