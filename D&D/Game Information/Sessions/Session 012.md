@@ -54,11 +54,26 @@
 ### Dorban
 AC: 17
 HP: 100
+Hourglass: 1d4 chance of getting another action from attack
 ACTIONS
 Multiattack: 1d8 + 5 Bludgeoning Damage, 2 attacks per action
 Brick Barrage: 1d6 + 2, 3 attacks per action
+Earth Slam: DC 18 STR save, or 6d6 bludgeoning and prone
 BONUS ACTIONS
-Hourglass: 1d4 chance of getting another action
+Restrict: Grapple Check
+REACTIONS
+Harden: 1/2 physical damage
+
+### Thoss
+AC: 16
+HP: 50
+Hourglass: 1d4 chance of getting another action from attack
+ACTIONS
+Cast any 5th lvl and lower spell from Warlock and Sorcerer
+BONUS ACTIONS
+Misty Step
+REACTIONS
+Hellish Rebuke, which also rewinds the turn on a failed Wisdom save
 #### Thoss Memory
 *Waiting outside of some alleyway, fidgeting with a knife of some sorts, at mid day*
 
@@ -81,6 +96,7 @@ Dorban: Clean this up. And save the body for family. Random disappearances make 
 
 
 
+Those in the tunnel will spend the following 6 days trying to leave. If they lose, Dorban will have pity. If they lose to Thoss, they may be saved by passerby's. 
 ## Tunneling
 - Thaddeus will continue to tunnel and build the hideout, which will complete on H-30
 
