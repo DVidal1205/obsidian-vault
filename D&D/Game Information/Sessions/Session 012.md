@@ -48,6 +48,21 @@
 - Continue oversight with the basement excavation
 
 ## Professor Von Jax (H-30)
-- On 
+- Emil will receive the following reports about the studies on his Detricite Prosthesis:
+
+*Order Receipt (213 Years Ago)*
+Order Number: 7839-5210-4567-1023. 
+
+Date: Hibernara 12, 1777
+Recipient: Carlos Oknar
+Age: 129
+
+Order Details: the subject, Carlos, has been a rising member of the Morellus Militia for some time now. His progression and resolve are particularly shocking, given the fact that he has spent the last 39 years training without a left arm. He seeks to utilize such an augmentation to its fullest, battle-testing the capabilities of my current model, by which I have agreed. King Ganon, or some other quill-pusher, seems personally invested in this, as the cost of this installment was entirely waived by the crown. I find this case particularly intrigued, and as such, I have scheduled him to return to the lab a year from now to measure calibration performance. 
+
+*Case Study: Detricite Prosthesis #184*
+
+Observations: Carlos, against all odds, has shown incredible levels of attunement to the prosthesis. Perhaps it is his resolve, or perhaps the absence of Gnoxrus and the recomposition of the mineral after the events of the Cataclysm, but it seems I have made a breakthrough. This marvelous performance is exciting, and right on time for the unfortunate passing of Kyle Smith. Shall this wonderful subject reach for the stars, and make this great nation proud as one of the Morellan Crownsguard 
+
+
 
 

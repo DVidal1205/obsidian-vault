@@ -14,3 +14,28 @@ Fighting in the frontline of [[Morellus]] during [[The Unbounding]], Carlos is a
 - Quirks: Carlos has a habit of polishing his Detricite prosthesis whenever he's deep in thought or reminiscing about his past battles. He often carries a worn, leather-bound journal where he jots down memories and sketches of the landscapes he has explored.
 
 - Fun Facts: Carlos is an avid storyteller, and his tales of daring adventures and heroic deeds are legendary among those who know him. Despite his imposing presence on the battlefield, he has a soft spot for animals and can often be found befriending creatures in the Haunted Wilds. He has a favorite spot in the forest, where he goes to meditate and find peace amidst the tranquility of nature. Carlos has a collection of old maps and artifacts from his days in the Crownsguard, and he enjoys sharing them with others, passing on knowledge and history to the younger generation.
+
+
+Axe
+Carlos
+Hugh
+Odra
+Corambit
+
+Lyra (Bard)
+Carlos
+Hugh
+Odra
+Corambit
+
+Bard
+Carlos
+Hugh
+Wizard
+Corambit
+
+Bard
+Carlos
+Barbarian/Fighter
+Wizard
+Corambit
