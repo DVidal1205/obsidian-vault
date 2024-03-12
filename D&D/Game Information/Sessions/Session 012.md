@@ -120,6 +120,7 @@ Carlos Oknar, the 6th sworn Morellan Crownsguard since the turning of the Lumina
 
 Despite being untrained by any formal agency or militia, Carlos continued to urge for protecting his country. As soon as he was healed, he continued to train, and eventually enlisted among the Ivory Warden. Unsatisfied with his one-armed abilities, he contracted the help of Professor Brunwick Jax, esteemed interdisciplinary researcher with a focus on Detricite and Anatomy. Constructing a prosthesis for Carlos, Dr. Jax gave him the gift of excellence. He continued to climb the ranks of the militia, eventually taking the vacancy of Crownsguard, fighting alongside the Legendary members of the Crownsguard, Hugh Namiri, Odra Marves, Axe Howul, and Colt Cobain, being the first new Crownsguard appointed since the original five.
 
-
+## Trial of Valor
+Congratulations esteemed competitors of the Royal Crucible for emerging triumphant from the Trial of Judgement. With over 1 million initial competitors culled from the competitor pool, we slowly creep towards our victors. this 
 
 
