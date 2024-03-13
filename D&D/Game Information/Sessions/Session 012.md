@@ -125,6 +125,18 @@ Congratulations esteemed competitors of the Royal Crucible for emerging triumpha
 
 Due to the immense nature of the previous two trials, we have been able to see what you all are made of. Our most talented researchers, analysts, and mathematicians have been compiling our findings over the last 30 days to establish a new system for the crucible moving forward. Attached to this card is now an identification card. This card will be your entrance to future trials, as well as our new method of communication. When observing your card, you will be able to view your current ranking amongst the competitors, based on many complex factors that are being observed throughout the duration of the competition. You will also be able to view any statistics while competing in a trial, such as your position, duration of the trial, percent accepted, etc. These identification cards are extremely important, and should not be lost. With similar technology to the identification cards in the first trial, you will be able to permanently store these cards in a secure manner via your own physical form. 
 
+292015
+292174
+292149
+292532
+292052
+
+Emil
+Zero
+Claude
+Vouhi
+Tova
+
 In five days from now, we will continue forth with making history. Welcome to the third of twelve trials, the Trial of Valor. 
 The Trial of Valor will be a highly realistic simulation of historical events that have cultivated the essence of our heroes. Scattered throughout Morellus are 10 testing sites, each equipped with the staff and tools necessary to test what you all are made of. Unlike the previous trials, we have pivoted towards specificity, seeking to analyze every intricate detail of our competitors in the midst of chaos. Thus, you will only have to compete one of the five days of the trial duration at one of the 10 testing centers. 
 
