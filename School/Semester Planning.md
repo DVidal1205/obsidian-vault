@@ -1,7 +1,9 @@
-### Fall 2024
+### Summer 2024
 - Computer Logic
-- CS 2
 - Security in Computing
+### Fall 2024
+- CS2
+- Algorithms for Machine Learning
 - 
 ### Spring 2025
 - Systems Software
