@@ -4,7 +4,7 @@
 ### Fall 2024
 - CS2
 - Algorithms for Machine Learning
-- Biology (?)
+- Biology Honors
 ### Spring 2025
 - Systems Software
 - POOSD
