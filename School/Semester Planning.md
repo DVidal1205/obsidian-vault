@@ -4,7 +4,7 @@
 ### Fall 2024
 - CS2
 - Algorithms for Machine Learning
-- 
+- Biology (?)
 ### Spring 2025
 - Systems Software
 - POOSD
