@@ -12,7 +12,6 @@
 - Technical Writing Honors
 ### Fall 2025
 - Senior Design I
-- Chemistry II Honors
 - CS Elective 
 - CS Elective
 ### Spring 2026
