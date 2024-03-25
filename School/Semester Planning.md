@@ -1,8 +1,11 @@
-### Fall 2024
+### Summer 2024
 - Computer Logic
-- CS 2 Honors
 - Security in Computing
-- Linear
+### Fall 2024
+- CS2
+- Algorithms for Machine Learning
+- Biology Honors
+- UX
 ### Spring 2025
 - Systems Software
 - POOSD
@@ -10,7 +13,6 @@
 - Technical Writing Honors
 ### Fall 2025
 - Senior Design I
-- Chemistry II Honors
 - CS Elective 
 - CS Elective
 ### Spring 2026
