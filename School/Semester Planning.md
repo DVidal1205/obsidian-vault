@@ -2,19 +2,17 @@
 - Computer Logic
 - CS 2 Honors
 - Security in Computing
-- Linear Honors
-
+- Linear
 ### Spring 2025
 - Systems Software
 - POOSD
 - Discrete 2
-- Technical Writing
+- Technical Writing Honors
 ### Fall 2025
 - Senior Design I
 - Chemistry II Honors
 - CS Elective 
 - CS Elective
-
 ### Spring 2026
 - Senior Design II
 - CS Elective
@@ -23,7 +21,7 @@
 
 ## Honors Requirements
 - [x] Seminar
-- [x] Course 1
+- [ ] Course 1
 - [x] Course 2
 - [x] Course 3
 - [x] Course 4
