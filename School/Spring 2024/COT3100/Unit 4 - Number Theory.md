@@ -23,6 +23,7 @@ Twos complement!!!
 2. Find b^2^n mod m for each exponent
 3. Remove the results that are bit 0
 4. Multiply all of the numbers together mod 11 (or multiply and mod as you go)
+
 ### Prime Numbers
 Mersenne Primes
 - 2^n - 1
