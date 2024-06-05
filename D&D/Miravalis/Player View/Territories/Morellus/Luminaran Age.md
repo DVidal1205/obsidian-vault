@@ -1,0 +1,1 @@
+A time of prosperity in Morellus, under the rule of [[D&D/Miravalis/Player View/Territories/Morellus/People/King Ganon]] from the year 1739 and onwards. Marks a period of technological growth and socioecological awarenes for [[Morellus]] and its people, as well as reforms on the system of [[Amplicite and Detricite]].
