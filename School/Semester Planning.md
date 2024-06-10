@@ -22,12 +22,12 @@
 - CS Elective
 
 ## Honors Requirements
-- [x] Seminar
-- [ ] Course 1
-- [x] Course 2
-- [x] Course 3
-- [x] Course 4
-- [x] Course 5
-- [x] Course 6
-- [x] Course 7
-- [x] Course 8
+- [x] Seminar Symposium
+- [x] Course 1 Calc
+- [x] Course 2 Sex
+- [x] Course 3 C
+- [x] Course 4 Discrete
+- [ ] Course 5 Writing
+- [ ] Course 6 Linear
+- [ ] Course 7 Bio
+- [ ] Course 8 Sem 2

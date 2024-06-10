@@ -1,0 +1,6 @@
+1. 1. Binary Search Tree (concept, insert, delete, traversal, various functions, practice problems, exercises and extra exercises)
+    2. Binary Heap (concept, heap and shape property, priority queue using linked list and heap and run-time, insert, delete, heapify, heapsort, implementation, coding, exercises and extra exercises and all run-time)
+    3. Hash Table (Concept, run-time, various types of hashing and collision handling, related coding concept, exercises and extra exercises)
+    4. Trie (concept, use cases, problem with BST for strings, insert, search, delete, and trie-related coding, accessing a child, extra exercises)
+    5. Bitwise Operator (various bitwise operations, 2's complement, bit-masking, shifting, iterating through subsets of an array using bitwise operator and its application, extracting bits from an int, exercise, extra practice problems, etc).
+    6. AVL Tree (Issue with regular BST, insert, delete, concept of rotation, balance factor,  examples from the slide and the exercises)
