@@ -1,6 +1,6 @@
-![[Pasted image 20230806144542.png]]
+![[Melee Fumble.png]]
 
-![[Pasted image 20230806144602.png]]
+![[Ranged Fumble.png]]
 
 Magic 
 
