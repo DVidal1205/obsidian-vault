@@ -1,5 +1,5 @@
 ## Entrance
-Welcome grand adventurers, to the grand world of Deitara. A beautifully expansive world, full of enchantingly diverse terrain - from the expansive blue oceans of Meridia, to the lush forest groves of Druvina. But most importantly, Deitara is a world dictated by the divine and its presence. A power so gently deafening, yet so opportune for the taking. And that is exactly what is happening in the current day and age. The Divine War, a battle between the Five Great Nations continues to rage on, with these very gods fighting on the front line.
+Welcome grand adventurers, to the captivating planet of Deitara. A beautifully expansive world, full of enchantingly diverse terrain - from the expansive blue oceans of Meridia, to the lush forest groves of Druvina. But most importantly, Deitara is a world dictated by the divine and its presence. A power so gently powerful, yet so opportune for the taking. And that is exactly what is happening in the current day and age. The Divine War, a battle between the Five Great Nations continues to rage on, with these very gods fighting on the front line. 
 
 And of course, this world is home to many nations, all with their diverse cultures, demographics, and Deities, but for the sake of our story, we will begin in the safe haven and birthplace of both mortal and divine - Polithea, also known to contemporary historians as the Unscathed Lands. But don't let that name fool you. As current residents of Polithea, you know all too well that although the turmoil of the Divine War does not happen on Polithean lands, the irreparable damage to the gods partaking in the war has caused unrest to its people.
 
@@ -21,9 +21,14 @@ The party will roll a d20 to determine the order they are introduced, where they
 - "OH!!!! Also, actually I will say this before I continue. I want no questions of this. I mean it. Any question asked with deduct 50 gold from the contract. For all four of you. *looks around*. There is only one thing you need to know of. If you encounter a weird glowing crystal about this big, and perhaps hums a little, maybe even talks. Do NOT, and I mean, do NOT pick it up with your bare hands. Pick it up with a cloth or bag, and bring it back to me. And then maybe I'll up the reward a bit since you were good. Kapiche?"
 
 ## Hanlen's Quest
-### Quest 1:
-### Quest 2:
-### Quest 3:
+### Quest 1 Roleplay:
+- The party will need find a magical scroll known as the Arbopher, which is now resting at a shop.
+- Gorvik, the shopkeeper of Gorviks Godly Goblin Goods, is a 3.5 foot tall Goblin who is obsessed with gold and a profit.
+![[Gorvik.png]]
+- After successfully finding the Arbopher in the mess, Gorvik will ask a steep 250 gold for the artifact, which the party will have to reduce. 
+![[Pasted image 20240619101605.png]]
+### Quest 2 Adventure:
+### Quest 3 Combat:
 ### Quest 4:
 - The party will stumble across a cathedral about a 45 minute walk from the innards of Polithea, about 15 minutes into the outer forest. It will be a large old clock tower, and it will be raining as they arrive. When they approach, they will notice some raindrops stop, and continue to float in mid air, as if they froze. Also, they will teleport forward randomly at certain points in time. Words will also skip as well.
 - Inside of this cathedral, they will walk down a long, dim, aisle of prayer rows before seeing a short, 4 foot tall figure wielding a Sacrina. Bob, who claims he heard whispers coming from the stone about the future of the war.
