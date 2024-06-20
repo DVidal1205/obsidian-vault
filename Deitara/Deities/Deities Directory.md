@@ -18,7 +18,7 @@ All Deities known to the party will be put here in the [[Deities Directory]] dir
 - [[Ephara]] (Art, Music, Inspiration)
 - [[Kharon]] (Wealth, Trade, Fortune)
 - [[Liora]] (Dawn, Hope, Renewal)
-- [[Mortis]] (Death, Afterlife, Judgement)
+- [[Mortem]] (Death, Afterlife, Judgement)
 - [[Nyxara]] (Shadows, Nightmares, Fear)
 - [[Zephyrus]] (Wind, Travel, Exploration)
 ## Great Deities

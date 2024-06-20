@@ -16,4 +16,4 @@ _As seen on signs throughout Polithea…_
 Even with the Divine War stirring everyone in Deitara a muck, we’ve still gotta do our jobs. Tell that to my coworker Bob, that dick got all gloom and doom on us and quit with no notice. Now we need help picking up some of his warden tasks ASAP. The job itself should be pretty simple, just check out a few points of interest and report findings back to me. Also, we’re desperate here. No prior experience needed! What could go wrong? I’ll be waiting for whoever can help at the Mount Beerympus bar, I should be pretty easy to find. 
 
 Please (like, **pretty pretty** please), 
-Harlon
+Hanlen

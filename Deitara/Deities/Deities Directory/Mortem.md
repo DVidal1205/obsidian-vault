@@ -1,4 +1,4 @@
-# Mortis
+# Mortem
 ## Domains 
 Death, Afterlife, Judgement
 ## Mythology
