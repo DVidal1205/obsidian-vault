@@ -28,10 +28,10 @@ The party will roll a d20 to determine the order they are introduced, where they
 - Gorvik, the shopkeeper of Gorviks Godly Goblin Goods, is a 3.5 foot tall Goblin who is obsessed with gold and a profit.
 ![[Gorvik.png]]
 - After successfully finding the Arbopher in the mess, Gorvik will ask a steep 250 gold for the artifact, which the party will have to reduce. 
-![[Pasted image 20240619101605.png]]
+![[Arbopher.png]]
 ### Quest 2 Adventure:
 - The party will be dispatched to a neighborhood about 30 minutes away. Unexpectedly, a massive tree has grown from the middle of the neighborhood, and many family homes are being overtaken by the relentless roots. Standing, peering at it with sadness, a Human woman will be looking with sorrow. Her name is Joanne, and she called for the Sentinels. "I don't see the Sentinel crest. Thank you for taking your personal time to help us... This tree has been growing like a plague the last few days, stopping at nothing. We've sent a member of our community in a passage within the tree two days ago, and he's since gone missing."
-![[Pasted image 20240620184627.png]]
+![[Tree.png]]
 - The party will have to enter the basin of the tree through a cave
 - Within the tree, there will be 5 different perilous. obstacles that will require skill checks to navigate within the basin of the tree.
 	- Fall into a pit, with 5 different berries. They must choose which one to eat for a door to open. The correct berry will taste like the best food they've ever had, and a door will open. DC 12 Survival or Nature check to identify the right one. If wrong, roll a d4. These will last 1 minute.
