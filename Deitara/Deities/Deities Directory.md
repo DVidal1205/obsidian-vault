@@ -14,6 +14,7 @@ All Deities known to the party will be put here in the [[Deities Directory]] dir
 ## Greater Deities
 - [[Aurelia]] (Love, Beauty, Harmony)
 - [[Astrea]] (Stars, Navigation, Fate)
+- [[Atrax]] (Gravity, Magnetism, Attraction)
 - [[Calista]] (Healing, Medicine, Purity)
 - [[Ephara]] (Art, Music, Inspiration)
 - [[Kharon]] (Wealth, Trade, Fortune)

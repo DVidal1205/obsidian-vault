@@ -12,3 +12,31 @@
 - After the resolution of the Divine Wars, many gods lost their lives, worship, and will to serve. In the absence of the divine presence, the Umbra sought to rebuild the world by tearing it down and assuming the title of pantheon themselves. The further weakened the current pantheon by sending members of Umbra all throughout Deitara, convincing the masses that their gods are a lie and have abandoned them. By harnessing the Vestiges left behind by the Divine War, the Umbra defeated nearly all of the gods in their weakened state.
 - Using the power of the Vestiges they had collected, they survived the transition from pre-apocalyptic to post-apocalyptic with minimal casualties. With their reign in the wasteland of Nullvinar, they re-branded themselves as the New Dawn, savior and refuge to all. Here, they seemed to have a relatively welcoming presence, but were really after a mass populous to worship the gods they had Vestiges for in order to make them stronger.
 - The New Dawn had 40% of the Kairox Sacrina, and were desperately trying to power up their ruler to be strong enough to merge with it without suffering major damages.
+
+**Session Breakdown**
+- Session 0
+	- Tutorial Mission
+	- Start the Apocalypse
+- Session 1
+	- Learn of the Wasteland/Sacrina
+	- Move towards the New Dawn
+	- Make limited contact with Kairox
+- Session 2
+	- Make it to the New Dawn
+	- Learn of the weird practices of the New Dawn
+	- Cliffhanger where the party is put in danger by the New Dawn
+- Session 3
+	- Escape from the New Dawn
+	- Stronger contact with Kairox
+	- Regroup and find their own refuge while continuing to investigate New Dawn
+- Session 4
+	- Learn that New Dawn is Umbra, and they actually caused the apocalypse themselves
+	- Strongest contact with Kairox, learn that they need to get stronger
+	- Return to Polithea for power
+- Session 5
+	- Harvest more Sacrina, rally troops, get even stronger
+	- Learn that New Dawn has the other half of the Time Sacrina
+- Session 6
+	- Party versus New Dawn
+	- Save the world
+	- Rewind time to pre-apocalypse
