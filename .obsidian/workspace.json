@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8449221c30f00496",
+        "id": "7e35c7cae0e1331e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9d2d5c441dd68f",
+            "id": "94d0529d4a6d5c0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "91cd0ffb536219b2",
+            "id": "2cda3fcb23a87d7f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Deitara/Images/Bear.png"
+                "file": "Deitara/DM View/Sessions/Session 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f32323900370b9a5",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/Images/Bear.png",
+                "file": "Deitara/DM View/Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/Images/Bear.png",
+                "file": "Deitara/DM View/Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/Images/Bear.png"
+                "file": "Deitara/DM View/Sessions/Session 2.md"
               }
             }
           }
@@ -160,13 +163,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e53f0df2cd4c7d9e",
+  "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
-    "Deitara/Images/Bernarheim.png",
     "Meeting.md",
+    "Deitara/DM View/Sessions/Session 2.md",
+    "Deitara/DM View/Sessions/Session 1.md",
+    "Dashboard.md",
+    "Deitara/Images/Bernarheim.png",
     "Deitara/Summaries/Session 1.md",
     "Deitara/Summaries/Session 0.md",
-    "Deitara/DM View/Sessions/Session 1.md",
     "Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md",
     "Deitara/Deities/Deities Directory.md",
     "Deitara/DM View/Sacrina",
@@ -190,7 +195,6 @@
     "Deitara/Deities/Deities Directory/Calista.md",
     "Deitara/Deities/Deities Directory/Atrax.md",
     "Deitara/Deities/Deities Directory/Athenaea.md",
-    "Deitara/Deities/Deitaran Deities.md",
     "Deitara/Images/Tree.png",
     "Deitara/Images/Tattoo.png",
     "Deitara/Images/Arbopher.png",
