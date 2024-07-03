@@ -23,11 +23,9 @@
             "id": "91cd0ffb536219b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Deitara/Summaries/Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Deitara/Images/Bear.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/Summaries/Session 1.md",
+                "file": "Deitara/Images/Bear.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/Summaries/Session 1.md",
+                "file": "Deitara/Images/Bear.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/Summaries/Session 1.md"
+                "file": "Deitara/Images/Bear.png"
               }
             }
           }
@@ -162,18 +160,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "91cd0ffb536219b2",
+  "active": "e53f0df2cd4c7d9e",
   "lastOpenFiles": [
-    "Deitara/Summaries/Session 0.md",
+    "Deitara/Images/Bernarheim.png",
+    "Meeting.md",
     "Deitara/Summaries/Session 1.md",
+    "Deitara/Summaries/Session 0.md",
     "Deitara/DM View/Sessions/Session 1.md",
     "Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md",
-    "Meeting.md",
     "Deitara/Deities/Deities Directory.md",
     "Deitara/DM View/Sacrina",
-    "Bear.png",
-    "Seranis.png",
-    "Bernarheim.png",
+    "Deitara/Images/Bear.png",
+    "Deitara/Images/Seranis.png",
     "Deitara/Deities/Deities Directory/Aurelia.md",
     "Deitara/Deities/Deities Directory/Astrea.md",
     "Deitara/Deities/Deities Directory/Amatera.md",
@@ -193,7 +191,6 @@
     "Deitara/Deities/Deities Directory/Atrax.md",
     "Deitara/Deities/Deities Directory/Athenaea.md",
     "Deitara/Deities/Deitaran Deities.md",
-    "Deitara/DM View/Players/Evie Decabraso.md",
     "Deitara/Images/Tree.png",
     "Deitara/Images/Tattoo.png",
     "Deitara/Images/Arbopher.png",
