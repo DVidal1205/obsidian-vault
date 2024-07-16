@@ -1,5 +1,5 @@
 ## Welcome to the New Dawn
-- Upon arriving at the New Dawn, the party will be greeted with two priests of the light, and will be asked their names. They will be given clean clothes, in either a shirt or blouse option, as well as shorts, pants, or a skirt. On the clothes are crests symbolizing the Pantheon.
+- Upon arriving at the New Dawn, the party will be greeted with two priests of the light, and will be asked their names. They will be given clean clothes, in either a shirt or blouse option, as well as shorts, pants, or a skirt. On the clothes are crests symbolizing the Pantheon. They will then go to Command Center and receive their IDs and room numbers.
 - The party, along with the 4 other refugees from the Ephara's Traveling Enchanters, will go on an tour of the New Dawn encampment to show them their new home. 
 ### Tour Group
 - **Guide:** Maris - Human
@@ -18,7 +18,7 @@ Throughout the tour
 - **The Healing Quarters:** Equipped with medicinal herbs and supplies, volunteers specializing in creating and administering medicine work here.
 - **The Education Center:** A free institution where citizens can learn various trades, arts, arcana, or history.
 - **Trove of Resistance:** One of the jewels of the New Dawn, a library that contains healthy documents and archives from before the apocalypse. However, many of these documents may be altered. Home to some of the best scholars, linguists, and historians on Deitara.
-- **Housing Centers:** Housing takes up a lot of space, so instead of homes, there are various pods of small dome-like huts constructed of wood.
+- **Housing Centers:** Housing takes up a lot of space, and are single bedroom quarters with a chest and mirror. Communal bathrooms.
 - **The Bottomless Falls:** A massive waterfall around back the encampment, powering many water generators. Falling for roughly 1000 feet, the mist makes it impossible to see the bottom.
 ## The Pantheon
 The five guardians of the New Dawn are called the Pantheon, and each are vestige of the two true gods of each of the Five Great Nations, attempting to establish hope seeing them work together. However, these five are descendants of the first extremists of Umbra. Generation by generation, these five bloodlines were groomed into having only one goal - ascending to real godhood.
@@ -32,7 +32,7 @@ While they undoubtedly do wonderful things for the camp, they are still ruthless
 **Male Dwarf**
 **Vestige of Hephaeston and Voltaris**
 - Brundar is the chief engineer of the New Dawn's infrastructure, and responsible for the fortuitous walls alongside the encampment. He built the rudimentary electric grid from scratch, even inventing his own river powered mill.
-### Miriel Greenward
+### Miriel Taranis
 **Female Kalashtar**
 **Vestige of Sylvanus and Gaia**
 - Miriel is directly responsible for the encampment's food supplies and herbs, creating plentiful harvests and raising healthy livestock. She can accelerate plant growth, heal the land, purify water, and even construct huts and buildings using the roots from the ground.
@@ -64,11 +64,12 @@ The party will witness their first Ascension at their time of arrival, where Mar
 - She will be named Rayleth, and is another Satyr like Evie.
 ### Alice
 - Alice is going to notice one peculiar fact about the New Dawn - there are no trees in sight, except for way out in the forest. She notices some chopped stubs, but this makes her feel extremely out of place given she lived in a forest.
+- When processing the automated ID card, Alice will get her name written in Infernal, which most people do not know. If she goes to translate it, her name will be Lilith.
 ### Asteri
 - Asteri may have the chance to visit a scholar or linguist within the Trove of Resistance to decipher her Mortem Tome.
 - If she does attempt to learn more about the Tome, she will learn that it is in Abyssal. She will be given a Dictionary and Guide to Abyssal, and can attempt to decipher or learn the language in about a week.
 ### Ravi
-- Ravi will likely work in the medicinal sector of the New Dawn, where they will meet all sorts of strange people. However, they will learn that there are a lot of kids in the New Dawn, a lot of which are missing limbs, parents, or a normal life.
+- Ravi will likely work in the medicinal sector of the New Dawn, where they will meet all sorts of strange people. However, they will learn that there are a lot of kids in the New Dawn, a lot of which are missing limbs, parents, or a normal life. Ravi will also have a patient visit from a broken heart.
 
 The party will likely remain in the New Dawn for another 2 weeks until the next Ascension, where hopefully they get nosy. 
 
@@ -85,3 +86,35 @@ They will be confronted by Asilnor, who will beat the party within an inch of th
 After the party has taken a significant beating a smaller tree will have sprouted up in the time the fighting has occurred. It will open, and a voice will shout from within: "HURRY AND GET IN IF YOU WANT TO LEAVE THIS PLACE ALIVE."
 
 The group on the other side of the tree will be a group of elder druids who have been aware of Umbra and the New Dawn since its conception, and with the help of the party, will try to disrupt the New Dawn next session.
+
+## Confrontation
+After the party is being chased by Asilnor, the following disasters will occur.
+- He will turn it to pitch black nighttime 
+- Brundar will point spotlights at the party
+- Jorun will make it start to rain
+- Miriel will send a herd of crows above the party, and cast skywrite for their names.
+- The IDs will begin glowing. Slightly
+- The people nearby will try to stop them
+
+The party will run themselves into a corner, with tall buildings on the left and right of them. Asilnor will stand them down, and people will watch from the balconies.
+
+### Assault
+- Asilnor will rip off Evie's right horn, and stab Ravi's left eye.
+- Alice will notice a tree trying to grow, and feel the need to foster it.
+- Mortem will tell Evie what is in the book, and that she must take her own life to step towards the domain of Death.
+
+### Asilnor, Vestige of the Cosmos
+AC 18, 100 HP, 40 ft.
+**Saving Throws** Dex +7, Wis +6, Cha +9 **Skills** Arcana +6, Perception +6 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks **Senses** darkvision 60 ft., passive Perception 16 **Languages** Common, Elvish, Celestial **Challenge** 8 (3,900 XP)
+
+Abilities
+- Misty Step from Astral Elf
+- Radiant Flame
+- Moon Beam
+
+Weapons
+- Sun Sword 1d12 + 6 fire damage, +10 to hit
+- Moon Shield DC18 Strength or Prone/Flung 20 feet
+- Sun Punch - Blinded
+- Moon Punch - Exhaustion Point
+

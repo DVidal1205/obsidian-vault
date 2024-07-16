@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 2.md",
+                "file": "Deitara/DM View/Sessions/Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f32323900370b9a5",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 2.md",
+                "file": "Deitara/DM View/Sessions/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 2.md",
+                "file": "Deitara/DM View/Sessions/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 2.md"
+                "file": "Deitara/DM View/Sessions/Session 3.md"
               }
             }
           }
@@ -165,9 +164,12 @@
   },
   "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
-    "Meeting.md",
     "Deitara/DM View/Sessions/Session 2.md",
+    "Deitara/DM View/Sessions/Session 3.md",
     "Deitara/DM View/Sessions/Session 1.md",
+    "Deitara/DM View/Sessions/Session 0.md",
+    "Deitara/DM View/Players/Alice Jane.md",
+    "Meeting.md",
     "Dashboard.md",
     "Deitara/Images/Bernarheim.png",
     "Deitara/Summaries/Session 1.md",
@@ -192,9 +194,6 @@
     "Deitara/Deities/Deities Directory/Gaia.md",
     "Deitara/Deities/Deities Directory/Dentra.md",
     "Deitara/Deities/Deities Directory/Ephara.md",
-    "Deitara/Deities/Deities Directory/Calista.md",
-    "Deitara/Deities/Deities Directory/Atrax.md",
-    "Deitara/Deities/Deities Directory/Athenaea.md",
     "Deitara/Images/Tree.png",
     "Deitara/Images/Tattoo.png",
     "Deitara/Images/Arbopher.png",
