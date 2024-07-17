@@ -67,9 +67,19 @@ Lorian will propose the party takes time to train and get stronger, and hopefull
 	- Sparring
 - Charisma Training
 	- Spell focus
-### Vestige of Lokina
-AC 16, HP 50, 40 ft.
+### Vestige of Lokina (Trickery)
+AC 16, HP 75, 40 ft.
 Can create up to 3 clones, each with 1 hit point and the same HP. 
 Can cast spells from any of the clones, all of them will attack at the same time to mask the real user.
 Fake death
 Eldritch Blast
+### Vestige of Aera (Wind)
+AC 16, HP 75, 50 ft. flying/walking
+Warding Wind, Wind Wall, Gaseous Form
+Punches, 1d8 slashing damage, DC 18 Strength of fly 15 feet back
+### Vestige of Mortem (Death)
+AC 16, HP 75, 30 ft.
+Undead form, Toll the dead, Ray of enfeeblement, Eldritch blast, Wither and bloom
+
+
+

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "Deitara/DM View/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "Deitara/DM View/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "Deitara/DM View/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md"
+                "file": "Deitara/DM View/Sessions/Session 1.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
+    "Deitara/DM View/Sessions/Session 0.md",
+    "Deitara/DM View/Sessions/Session 1.md",
     "Deitara/DM View/Sessions/Session 2.md",
     "Deitara/DM View/Sessions/Session 3.md",
-    "Deitara/DM View/Sessions/Session 1.md",
-    "Deitara/DM View/Sessions/Session 0.md",
     "Deitara/DM View/Players/Alice Jane.md",
     "Meeting.md",
     "Dashboard.md",
