@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 1.md",
+                "file": "D&D/Deitara/DM View/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 1.md",
+                "file": "School/Fall 2024/IDH1920/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 1.md",
+                "file": "School/Fall 2024/IDH1920/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 1.md",
+                "file": "School/Fall 2024/IDH1920/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 1.md"
+                "file": "School/Fall 2024/IDH1920/Untitled.md"
               }
             }
+          },
+          {
+            "id": "ea272710f4400786",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,51 +172,51 @@
   },
   "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
-    "Deitara/DM View/Sessions/Session 0.md",
-    "Deitara/DM View/Sessions/Session 1.md",
-    "Deitara/DM View/Sessions/Session 2.md",
-    "Deitara/DM View/Sessions/Session 3.md",
-    "Deitara/DM View/Players/Alice Jane.md",
-    "Meeting.md",
+    "School/Fall 2024/BSC2010/Untitled.md",
+    "School/Fall 2024/CAP4102/Untitled.md",
+    "School/Fall 2024/CAP4611/Untitled.md",
+    "School/Fall 2024/COP3503/Untitled.md",
+    "School/Fall 2024/IDH1920/Untitled.md",
+    "Life/Meeting.md",
+    "School/Fall 2024/IDH1920",
+    "School/Fall 2024/COP3503",
+    "School/Fall 2024/CAP4102",
+    "School/Fall 2024/CAP4611",
+    "School/Fall 2024/BSC2010",
+    "School/Fall 2024",
+    "D&D/Deitara/DM View/Sessions/Session 1.md",
     "Dashboard.md",
-    "Deitara/Images/Bernarheim.png",
-    "Deitara/Summaries/Session 1.md",
-    "Deitara/Summaries/Session 0.md",
-    "Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md",
-    "Deitara/Deities/Deities Directory.md",
-    "Deitara/DM View/Sacrina",
-    "Deitara/Images/Bear.png",
-    "Deitara/Images/Seranis.png",
-    "Deitara/Deities/Deities Directory/Aurelia.md",
-    "Deitara/Deities/Deities Directory/Astrea.md",
-    "Deitara/Deities/Deities Directory/Amatera.md",
-    "Deitara/Deities/Deities Directory/Mystara.md",
-    "Deitara/Deities/Deities Directory/Voltaris.md",
-    "Deitara/Deities/Deities Directory/Tempestra.md",
-    "Deitara/Deities/Deities Directory/Sylvanus.md",
-    "Deitara/Deities/Deities Directory/Nyxara.md",
-    "Deitara/Deities/Deities Directory/Mortem.md",
-    "Deitara/Deities/Deities Directory/Liora.md",
-    "Deitara/Deities/Deities Directory/Kharon.md",
-    "Deitara/Deities/Deities Directory/Hephaeston.md",
-    "Deitara/Deities/Deities Directory/Gaia.md",
-    "Deitara/Deities/Deities Directory/Dentra.md",
-    "Deitara/Deities/Deities Directory/Ephara.md",
-    "Deitara/Images/Tree.png",
-    "Deitara/Images/Tattoo.png",
-    "Deitara/Images/Arbopher.png",
-    "Deitara/Summaries",
-    "Deitara/DM View/Players",
-    "Deitara/Images/Gorvik.png",
-    "Knight Hacks",
-    "School/Spring 2024/REL3930/Module 4 - Student Classes",
-    "School/Spring 2024/COP3502/Quiz 3",
-    "Deitara/Images/Symbol 2.png",
-    "Deitara/Images/Symbol 1.png",
-    "Deitara/Images/Bob.png",
-    "Deitara/Locations/Regions",
-    "Deitara/DM View/Sessions",
-    "Deitara/Resources/Home Rules",
-    "Deitara/Images/Resource Images"
+    "School/Archived",
+    "D&D/Deitara/DM View/Sessions/Session 0.md",
+    "D&D/Deitara/DM View/Sessions/Session 2.md",
+    "D&D/Deitara/DM View/Sessions/Session 3.md",
+    "D&D/Deitara/DM View/Players/Alice Jane.md",
+    "D&D/Deitara/Images/Bernarheim.png",
+    "D&D/Deitara/Summaries/Session 1.md",
+    "D&D/Deitara/Summaries/Session 0.md",
+    "D&D/Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md",
+    "D&D/Deitara/Deities/Deities Directory.md",
+    "D&D/Deitara/DM View/Sacrina",
+    "D&D/Deitara/Images/Bear.png",
+    "D&D/Deitara/Images/Seranis.png",
+    "D&D/Deitara/Deities/Deities Directory/Aurelia.md",
+    "D&D/Deitara/Deities/Deities Directory/Astrea.md",
+    "D&D/Deitara/Deities/Deities Directory/Amatera.md",
+    "D&D/Deitara/Deities/Deities Directory/Mystara.md",
+    "D&D/Deitara/Deities/Deities Directory/Voltaris.md",
+    "D&D/Deitara/Deities/Deities Directory/Tempestra.md",
+    "D&D/Deitara/Deities/Deities Directory/Sylvanus.md",
+    "D&D/Deitara/Deities/Deities Directory/Nyxara.md",
+    "D&D/Deitara/Deities/Deities Directory/Mortem.md",
+    "D&D/Deitara/Deities/Deities Directory/Liora.md",
+    "D&D/Deitara/Images/Tree.png",
+    "D&D/Deitara/Images/Tattoo.png",
+    "D&D/Deitara/Images/Arbopher.png",
+    "D&D/Deitara/Summaries",
+    "D&D/Deitara/DM View/Players",
+    "D&D/Deitara/Images/Gorvik.png",
+    "D&D/Deitara/Images/Symbol 2.png",
+    "D&D/Deitara/Images/Symbol 1.png",
+    "D&D/Deitara/Images/Bob.png"
   ]
 }
