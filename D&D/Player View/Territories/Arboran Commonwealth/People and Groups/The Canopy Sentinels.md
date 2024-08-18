@@ -1,1 +1,0 @@
-A group of skilled rangers and archers who act as the eyes and ears of the [[Arboran Commonwealth]]. The Canopy Sentinels patrol the treetop realm, ensuring the safety of the inhabitants from external threats. They have honed their skills in marksmanship and stealth, utilizing the vantage points provided by the trees to keep a watchful eye on the forest below.

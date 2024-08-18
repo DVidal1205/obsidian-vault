@@ -1,1 +1,0 @@
-The formal place of education in the [[Arboran Commonwealth]], located in the [[Rootwood Enclave]]. Contrary to other education systems, the Arboran method of education focuses less on intellect and more on experience, pushing students into nature and emerging them anew.

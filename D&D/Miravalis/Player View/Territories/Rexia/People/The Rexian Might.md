@@ -1,0 +1,1 @@
+Ruler of [[Rexia]], determined in a trial by combat atop the [[Undying Fortress]] located on [[Mount Hippon]].

@@ -1,0 +1,1 @@
+The Senate-like assembly of the elected officials of the [[Arboran Commonwealth]]. A great demonstrative force of democracy in the Arboran Commonwealth.

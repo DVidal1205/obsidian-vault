@@ -1,0 +1,1 @@
+The Morellan Trove of Knowldge is the formal library of [[The Grand Morellan University]] and is located on campus in the [[Western District]]. Here, all recorded knowledge is said to be contained.

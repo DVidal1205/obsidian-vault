@@ -1,0 +1,1 @@
+The jagged mountains of the [[Old Stones]], marking a harsh separation between this region and the [[Sarai Desert]]. Many people get lost attempting to climb these mountains, with very few reaching the top. One thing is for certain, though. People who make it to the top come back a different person than the one that ascended.

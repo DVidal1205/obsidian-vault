@@ -1,3 +1,0 @@
-Currently, the structure of the Morellan Government is a sort of monarchical parliamentary system, with the King current ruling and being checked by the Morellan Magistrate Assembly, comprised of over 150 Morellans, 30 from each of the districts and the capitol.
-
-As for the law enforcement, the current standard is a collaborative effort between the Ivory Wardens and [[The Morellan Crownsguard]]. The Ivory Wardens are an assembly of heavily trained law enforcement officers that ensure peace within the walls of [[Morellus]]. The Crownsguard, however, are in a tier entirely of their own, only being 5 at a time and containing the strongest warriors and visionaries of all of [[Morellus]].

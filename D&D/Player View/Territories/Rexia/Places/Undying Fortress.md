@@ -1,1 +1,0 @@
-A massive citadel resting atop [[Mount Hippon]], where the [[The Rexian Might]] lives and the trial by combat occurs, ruling over [[Rexia]].

@@ -1,0 +1,1 @@
+A gathering place for the scholars, arcanists, and wizards of the [[Arboran Commonwealth]], located within the vast labyrinth of interconnected roots that sprawl beneath the forest floor. It is home to the [[Arboran Academy of Arcane Arts]], where magical knowledge is cultivated and shared.

@@ -1,0 +1,64 @@
+### Evangelical Masculinities
+- Who are the promise keepers?
+- What models of masculinity were in Promise Keepers?
+- What is "Soft Patriarchy"?
+- What is "Servant Leadership"?
+- What is a "tender warrior"?
+- What is a” soft male”?
+- What is “Complementarian theology”
+- What is “biblical manhood”?
+- What is the “Sexual Prosperity Gospel”?
+- What is the model of masculinity in the sexual purity movement?
+- Who is Joshua Harris? What did he claim? What happened to him?
+- What is the basic thesis of Kristin Kobes Du Mez?
+### LGBTQIA Christians
+- What is White’s background?
+- What is her basic thesis about the gay rights movement?
+- How and why does she distinguish between “sodomy” and “homosexuality”?
+- What relationship does White posit between religion and psychiatry?
+- What is the “therapeutic orthodoxy”?
+- What do liberal Protestants do with it?
+- What are some of the surprising things that White finds in relationship to the conservative religious perspective on homosexuality?
+- What does the Christian right evangelical movement do with the “therapeutic orthodoxy”?
+- What is Stonewall? What arguments does White make about it?
+- At the end of the interview, White takes aim at one common misconception about religion and sexuality. What is the misconception and how does she argue against it?
+- What is your perspective on the relationship between sexuality and religion in  Christianity now we are reaching the end of our first module?
+### Pray the Gay Away
+- What is the Bible Belt?
+- What is the Panopticon? Why is it relevant to Christianity?
+- How does the Bible Belt Panopticon function?
+- What is personalism? How does it impact LGBTQIA people?
+- What is the sin/fall narrative and what is the creation/liberation narrative? What is their significance for LGBTQI Christians?
+- How does it impact Bible Belt gays to be labelled as “bad people”
+- Does Barton think conservative Christians are hateful bigots? How does she make sense of the way they treat gay people?
+- What is a sticky stigma? What is the difference between discredited and discreditable?
+### Purity Culture
+- What are some basic distinctions between liberal and fundamentalist approaches to Christianity?
+- What are four characteristic of evangelicalism?
+- What is the basic history of the fundamentalist movement in the US?
+- What is the NAE? What is Focus on the Family?
+- What were the sexual ethics of evangelicalism in the 80s?
+- What is Klein’s basis thesis in Pure?
+- What types of “evidence” does she base her argument in?
+- What emotion is at the core of the purity movement?
+- What is a stumbling block? What is an object lesson?
+- What is abstinence only? How does Klein evaluate it?
+- What does evangelicalism say about gender roles?
+- How role do teachings on suffering play?
+- How is sexual experimentation seen?
+- How is sexual abuse seen?
+- What does it mean to “date Jesus” ? What did you make of that?
+- How do we see gendered norms in evangelical approaches to masturbation?
+- What are the expectations on women after they get married? Why is this harmful?
+- What events lead Linda Klein to leave evangelicalism?
+- What is her current relationship to Christianity?
+- How has she offered evangelical women a way forward from shame?
+### Christianity and Sexual Ethics
+- What two cultures/ influences shaped Christianity?
+- What two concepts and ideals shape Christian sexual ethics?
+- What was Jesus’s focus in terms of sexual ethics?
+- What role has Platonic dualism played in shaping Christian views of sexuality?
+- What is original sin? Who formulated the doctrine?
+- What is “convent erotica”? How does it show the relationship between pleasure and apatheia?
+- What did Martin Luther contribute to Christian sexual ethics?
+- Methodology: what types of sources do Christians use when thinking about ethics and sexuality

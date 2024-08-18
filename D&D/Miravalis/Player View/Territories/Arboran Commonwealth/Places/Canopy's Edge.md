@@ -1,0 +1,1 @@
+A bustling city located on the outer rim of the [[Arboran Commonwealth]], where the towering trees meet the vast expanse of the woodland below. It serves as a gateway to the treetop realm and a hub for trade and commerce between the Arborans and neighboring territories.

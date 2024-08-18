@@ -1,1 +1,0 @@
-A region to the South of [[Rexia]] where agricultural industries dominate. Home to many children and elderly.

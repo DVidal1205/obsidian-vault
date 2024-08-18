@@ -1,1 +1,0 @@
-The hidden halls is a secret university located in the [[Old Stones]], and home to [[The High Scholars of the Old Stones]]. Those in the Hidden Halls are tasked with expanding the knowledge of the planet, as well as maintaining accurate arcane history.

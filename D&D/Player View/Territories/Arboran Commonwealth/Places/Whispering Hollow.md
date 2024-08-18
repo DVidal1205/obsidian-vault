@@ -1,1 +1,0 @@
-A hidden village nestled within the ancient branches of a colossal [[Asteralis]] tree within the [[Arboran Commonwealth]], where the inhabitants practice ancient arts of herbalism and nature-based magic. It is said that the winds whisper ancient secrets to those who listen within the hollowed chambers of this remarkable settlement.

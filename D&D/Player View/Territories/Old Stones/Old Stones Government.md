@@ -1,3 +1,0 @@
-There is no governmental body in the [[Old Stones]], however there are a series of groups that have banded together that keep the peace. To the north, an extremely prestigious (and formerly, top secret) society of scholars exists in the [[Hidden Halls]]. [[The High Scholars of the Old Stones]] protect the sanctity of the natural magic of the Old Stones, and oftentimes, Miravalis as a whole. These scholars are also tasked with keeping world history, so far as a metaphysical scale.
-
-There is also the organization known as the [[The Grovewatchers]], a conglomeration that consists mostly of druids from multiple druidic circles. Their goal is to monitor the magical surges in the area, and make sure that no rifts are getting out of hand and affecting nearby settlements.

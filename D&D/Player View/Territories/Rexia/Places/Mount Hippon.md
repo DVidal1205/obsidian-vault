@@ -1,1 +1,0 @@
-The strongest territory in [[Rexia]], to the North of the continent. Is also home to [[The Rexian Might]], and the [[Undying Fortress]].

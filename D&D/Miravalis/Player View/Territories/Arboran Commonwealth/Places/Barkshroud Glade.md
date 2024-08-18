@@ -1,0 +1,1 @@
+A serene and secluded woodland retreat deep within the [[Arboran Commonwealth]] forest, where druids and seekers of inner peace come to commune with nature. It is renowned for its tranquil groves, healing springs, and ancient stone circles that resonate with mystic energies.

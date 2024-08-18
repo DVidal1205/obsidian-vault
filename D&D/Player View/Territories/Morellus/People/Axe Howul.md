@@ -1,3 +1,0 @@
-The Croissant Crusader and legendary cook of [[Morellus]], a part of [[The Legendary Crownsguard]]. Was an incredible chef and became a household name, even opening a bardic college in the [[Western District]], in spite of his parents.
-
-A household name in Morellus, Axe Howul once spent a long decade in the [[Sarai Desert]], where he found an immense passion for baking before opening the Howul Bardic College of Patissiers.

@@ -1,0 +1,1 @@
+The official group that most merchants in the [[Claystone Mages]] subscribe to. Tasked with insuring fair trade, as well as making sure resources are sold and provided to every corner of the territory to make sure no one goes hungry.

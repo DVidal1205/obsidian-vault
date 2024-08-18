@@ -1,1 +1,0 @@
-A terribly dangerous passage of water keeping [[Rexia]] away from the rest of the world. Made worse by the [[Claystone Mages]], who seek to keep [[Rexia]] far, far, away.

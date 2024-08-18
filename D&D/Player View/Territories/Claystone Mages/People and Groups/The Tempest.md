@@ -1,1 +1,0 @@
-A volunteer group of mages in the [[Claystone Mages]] specialized in water, weather, and storm magic, that assemble on the coastline and heighten the storms in the [[Deadman's Pass]]

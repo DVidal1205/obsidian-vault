@@ -1,1 +1,0 @@
-The new formal guard unit of [[Morellus]], with much more emphasis on community and peaceful conflict resolution than the former squadron of [[The Watchers (former)]]. Formed during the [[Luminaran Age]].

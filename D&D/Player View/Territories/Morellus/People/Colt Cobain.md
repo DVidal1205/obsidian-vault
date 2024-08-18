@@ -1,1 +1,0 @@
-Psychological profiler and professor at [[The Grand Morellan University]], mighty defender of [[Morellus]], and one of [[The Legendary Crownsguard]].

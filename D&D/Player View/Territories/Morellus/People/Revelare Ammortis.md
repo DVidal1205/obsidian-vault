@@ -1,1 +1,0 @@
-Revelare Ammortis is directly responsible for many radical anarchist views within [[Morellus]] who aim to overthrow the government for its hypocrisy. The Karl Marx of the [[Liberation Mages (former)]], which have recently transformed into [[The Morellan People for Magical Prosperity (MPMP)]]

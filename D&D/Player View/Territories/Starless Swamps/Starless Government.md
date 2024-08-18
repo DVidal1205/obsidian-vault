@@ -1,1 +1,0 @@
-There is no government in the [[Starless Swamps]], only chaos.

@@ -1,1 +1,0 @@
-At the very center of the [[Starless Swamps]] is a segment of mud that seemingly extends forever. Prone to Wild Magic, this part of the Swamps is the most effective at trapping wanderers, creating trails in every which way making navigation difficult.

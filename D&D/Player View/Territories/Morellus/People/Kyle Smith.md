@@ -1,1 +1,0 @@
-A altruistic charismat from [[Morellus]] and apart of [[The Legendary Crownsguard]]. Tasked with post-Unbounding orphans and pegging his hot boytoy wife.

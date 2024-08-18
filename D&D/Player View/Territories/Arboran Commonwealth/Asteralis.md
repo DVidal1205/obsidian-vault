@@ -1,3 +1,0 @@
-The prospering force of the [[Arboran Commonwealth]], solely responsible for its ecological resilience. This bark has incredibly magical properties associated with natural constitution and resilience. This tree remains strong year round, and is conductive of magic.
-
-Said to be created by [[Drysalia, the Barkweaver]], this tree has propelled the Arboran into a territory equipped to survive the terrible planar rifts found in the region.

@@ -1,1 +1,0 @@
-Another of the 7 main ancient dragons of the [[Dragonhide Summits]], Zulu is a bronze dragon incredibly friendly towards the people of the summits. Living in one of the largest dens, [[The Rager-Den]], he often throws magical parties for the people, acting as a host, and a DJ.

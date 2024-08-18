@@ -1,1 +1,0 @@
-Esteemed engineer of [[Morellus]] and apart of [[The Legendary Crownsguard]]. Was renown for his discovery and engineering of [[Amplicite and Detricite]] during the [[Luminaran Age]]. Also one of the esteemed [[Lightbringers]]

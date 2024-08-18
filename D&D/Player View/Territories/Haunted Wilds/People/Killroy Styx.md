@@ -1,1 +1,0 @@
-The first formal leader of the [[Haunted Wilds]], and the mayor of [[Clearwater]]. Also a prevalent figure in the history of the world, as it was his recruitment of ghosthunters that helped aid in defeating Gnoxrus during [[The Unbounding]].

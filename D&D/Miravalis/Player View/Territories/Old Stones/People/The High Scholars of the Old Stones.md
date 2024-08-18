@@ -1,0 +1,1 @@
+A prestigious society of magical scholars in the [[Hidden Halls]] tasked with keeping the balance of the [[Old Stones]] in check, as well as document world history and the arcane

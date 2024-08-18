@@ -1,5 +1,0 @@
-The island continent of [[Rexia]] is located to the North of Miravalis, and combats extremely cold weather conditions. With temperature conditions frequently dropping to freezing even in the summer, living in [[Rexia]] is not for the weak. Growing food for its population proves difficult, and would be nearly impossible without the existence of the [[Forgiving Lands]].
-
-The [[Forgiving Lands]] are located at the southernmost point of the continent, and has fertile soil and a temperate climate. Here, many hearty crops are grown to sustain the entire population, such as radish or potatoes. Livestock is also farmed here, but larger cold-adaptive animals are also farmed in the interior of the nation as well.
-
-The terrain of [[Rexia]] varies drastically, with some snow flatlands, to extensively tall woodland forests, or immensely tall jagged mountains. This provides many geographical challenges, which the nation has built its culture and city around.

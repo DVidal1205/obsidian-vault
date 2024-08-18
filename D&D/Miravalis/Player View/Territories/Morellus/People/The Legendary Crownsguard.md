@@ -1,0 +1,3 @@
+The first five appointed to [[The Morellan Crownsguard]] appointed by [[D&D/Miravalis/Player View/Territories/Morellus/People/King Ganon]] Luminara in 1739, and the main liberating force of Morellus. Fighting [[Gnoxrus]] for over a year, they exposed his ploy to [[Morellus]] and slew him during [[The Unbounding]], along with the help of multiple other groups and nations. These Crownsguard consist of [[Hugh Namiri]], [[Odra Marves]], [[Kyle Smith]], [[Axe Howul]], and [[Colt Cobain]]. Stricken from the record, all 5 had ties with [[Liberation Mages (former)]].
+
+Also the band responsible behind killing [[Revelare Ammortis]], and the only group of humanoids other than he to survive in the Starless Swamps.

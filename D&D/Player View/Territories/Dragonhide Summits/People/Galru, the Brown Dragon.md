@@ -1,1 +1,0 @@
-Another rare dragon of the [[Dragonhide Summits]], Galru has achieved ancienthood as well. He was alive for thousands of years, and was able to witness the rule of Gnoxrus before he was sealed beneath the mountains. Because of this, he was an essential asset in turning the tides against the ancient evil during [[The Unbounding]].

@@ -1,1 +1,0 @@
-A group of magical defenders of [[Rexia]] and [[The Rexian Might]], guarding the [[Undying Fortress]].

@@ -1,0 +1,1 @@
+Aka the founder, aka Enifiz the great, aka Enifiz the bold, aka Enifiz the enlightened, aka [[Morellus]]'s Father, aka the visionary, Enifiz is the founder of [[Morellus]]. He was the one to discover [[Amplicite and Detricite]]'s nullifying properties, and the one to rally the peoples of the plains to start a nation together
