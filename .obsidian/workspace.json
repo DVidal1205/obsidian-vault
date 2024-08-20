@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "TL/8-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "TL/8-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md",
+                "file": "TL/8-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deitara/DM View/Sessions/Session 3.md"
+                "file": "TL/8-20.md"
               }
             }
+          },
+          {
+            "id": "e5ec19ee016730cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,51 +159,51 @@
   },
   "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
-    "Deitara/DM View/Sessions/Session 2.md",
-    "Deitara/DM View/Sessions/Session 3.md",
-    "Deitara/DM View/Sessions/Session 1.md",
-    "Meeting.md",
-    "Dashboard.md",
-    "Deitara/Images/Bernarheim.png",
-    "Deitara/Summaries/Session 1.md",
-    "Deitara/Summaries/Session 0.md",
-    "Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md",
-    "Deitara/Deities/Deities Directory.md",
-    "Deitara/DM View/Sacrina",
-    "Deitara/Images/Bear.png",
-    "Deitara/Images/Seranis.png",
-    "Deitara/Deities/Deities Directory/Aurelia.md",
-    "Deitara/Deities/Deities Directory/Astrea.md",
-    "Deitara/Deities/Deities Directory/Amatera.md",
-    "Deitara/Deities/Deities Directory/Mystara.md",
-    "Deitara/Deities/Deities Directory/Voltaris.md",
-    "Deitara/Deities/Deities Directory/Tempestra.md",
-    "Deitara/Deities/Deities Directory/Sylvanus.md",
-    "Deitara/Deities/Deities Directory/Nyxara.md",
-    "Deitara/Deities/Deities Directory/Mortem.md",
-    "Deitara/Deities/Deities Directory/Liora.md",
-    "Deitara/Deities/Deities Directory/Kharon.md",
-    "Deitara/Deities/Deities Directory/Hephaeston.md",
-    "Deitara/Deities/Deities Directory/Gaia.md",
-    "Deitara/Deities/Deities Directory/Dentra.md",
-    "Deitara/Deities/Deities Directory/Ephara.md",
-    "Deitara/Deities/Deities Directory/Calista.md",
-    "Deitara/Deities/Deities Directory/Atrax.md",
-    "Deitara/Images/Tree.png",
-    "Deitara/Images/Tattoo.png",
-    "Deitara/Images/Arbopher.png",
-    "Deitara/Summaries",
-    "Deitara/DM View/Players",
-    "Deitara/Images/Gorvik.png",
-    "Knight Hacks",
-    "School/Spring 2024/REL3930/Module 4 - Student Classes",
-    "School/Spring 2024/COP3502/Quiz 3",
-    "Deitara/Images/Symbol 2.png",
-    "Deitara/Images/Symbol 1.png",
-    "Deitara/Images/Bob.png",
-    "Deitara/Locations/Regions",
-    "Deitara/DM View/Sessions",
-    "Deitara/Resources/Home Rules",
-    "Deitara/Images/Resource Images"
+    "TL/8-20.md",
+    "TL",
+    "Obsidian/Excalidraw/Review 2024-03-27 15.38.46.excalidraw.md",
+    "Obsidian/Excalidraw/Drawing 2024-02-29 17.29.54.excalidraw.md",
+    "Obsidian/Excalidraw/Lootcode 2024-02-29 19.36.57.excalidraw.md",
+    "Obsidian/Excalidraw",
+    "Life/SWE/KnightHacks/OPS/2024-2-5.md",
+    "Life/SWE/KnightHacks/OPS/2024-2-19.md",
+    "Life/SWE/KnightHacks/OPS/2024-2-12.md",
+    "Life/SWE/ICPC/Practice Problems/timeConversion.md",
+    "Life/SWE/ICPC/Practice Problems/plusMinus.md",
+    "Life/SWE/ICPC/Practice Problems/miniMaxSum.md",
+    "Life/SWE/ICPC/Practice Problems/matchingStrings.md",
+    "Life/SWE/ICPC/Practice Problems/lonelyInt.md",
+    "Life/SWE/ICPC/Practice Problems/flippingBits.md",
+    "Life/SWE/ICPC/Lectures/Lecture 1.md",
+    "Life/SWE/Project Wildspace/World.md",
+    "Life/SWE/Project Wildspace/Task List.md",
+    "Life/SWE/Project Wildspace/Script.md",
+    "Life/SWE/Project Wildspace/Project Wildspace.md",
+    "Life/SWE/Project Wildspace/Generations.md",
+    "Life/SWE/Project Wildspace/Gallery.md",
+    "Life/SWE/Project Wildspace/Dashboard.md",
+    "Life/SWE/Project Launch/Web Development Presentation.md",
+    "Life/SWE/Project Launch/Lootcode.md",
+    "Life/SWE/Project Launch/Full-stack Tooling.md",
+    "Life/SWE/KnightHacks/OPS",
+    "Life/SWE/ICPC/Practice Problems",
+    "Life/SWE/ICPC/Lectures",
+    "Life/SWE/Events/Serverless AWS Workshop Notes.md",
+    "Life/SWE/Events/IBM Notes.md",
+    "Life/SWE/Project Wildspace",
+    "Life/SWE/Project Launch",
+    "Life/SWE/KnightHacks",
+    "Life/SWE/ICPC",
+    "Life/SWE/Events",
+    "D&D/Deitara/Images/Tree.png",
+    "D&D/Deitara/Images/Technora.png",
+    "D&D/Deitara/Images/Tattoo.png",
+    "D&D/Deitara/Images/Symbol 2.png",
+    "D&D/Deitara/Images/Symbol 1.png",
+    "D&D/Deitara/Images/Seranis.png",
+    "D&D/Deitara/Images/Resource Images/Ranged Fumble.png",
+    "D&D/Deitara/Images/Resource Images/Pasted image 20230806144140.png",
+    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143858.png",
+    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143758.png"
   ]
 }
