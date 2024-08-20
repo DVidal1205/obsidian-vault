@@ -1,3 +1,9 @@
+Asteri 9255
+Evie 9256
+Ravi 9257
+(ALICE) 9258
+
+Goobie 7926
 ## Welcome to the New Dawn
 - Upon arriving at the New Dawn, the party will be greeted with two priests of the light, and will be asked their names. They will be given clean clothes, in either a shirt or blouse option, as well as shorts, pants, or a skirt. On the clothes are crests symbolizing the Pantheon. They will then go to Command Center and receive their IDs and room numbers.
 - The party, along with the 4 other refugees from the Ephara's Traveling Enchanters, will go on an tour of the New Dawn encampment to show them their new home. 
@@ -50,7 +56,6 @@ During their next rest, the party will have another shared, collective dream, on
 - "My name is Kairox. Rest up now, but you need to get stronger. I can't tell you yet, not without damaging your spirit."
 ## Vashar Korath, leader of Umbra
 Deep within the Catacombs of the Pantheon Temple lives Vashar Korath, an Aasimar man biding his time until he can gain ascension. However, he has been unable to find the remaining time Sacrina to do so. However, he is over 1500 years old and is suffering from old age. Thus, the New Dawn frequently sends people to Vashar for him to harvest their life force, a power he has gained from the Time Sacrina.
-
 ## The Ascendants 
 A program coupled deeply in the New Dawn culture, the Ascendants are a group of people who travel the world to spread the word about the New Dawn and help others find the light. However, traveling the wasteland is a dangerous mission, and the odds of returning are low, making it the perfect front for missing people.
 

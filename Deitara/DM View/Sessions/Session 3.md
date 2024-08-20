@@ -1,4 +1,26 @@
 Picking up from last session, the party will escape through a tree portal to the Havenwood Grove, a nearby druid settlement. 
+## Party v. Asilnor
+1. Lilith talks to Nyx who saves her and gives her haste to the field
+2. Asilnor takes Evie's right horn
+3. Asilnor takes hits, then lodges horn into Ravi's eye
+4. Mortem gives Asteri the clue to a stronger undead form (double damage and necrotic) which will give her 3 exhaustion points 
+5. Lilith and Nyx arrive. The party flees, and him and Asteri hold Asilnor back until the party reaches the falls.
+
+Wall of Force
+
+18
+
+40
+
+
+
+Asilnor - 22
+Lilith - 21
+Nyx - 19
+Ravi - 19
+Evie - 16
+Asteri - 9
+
 ## Havenwood Grove
 Only 4 miles west of the New Dawn, the Havenwood Grove is a massive Druidic Settlement that hides itself from the New Dawn's gaze. Operating in the upper branches of the Elderwood forest, the inhabitants of this colony live hundreds of feet in the air. Furthermore, grand druids use spells to mask the presence of the Grove, and no tracking spells work within it.
 

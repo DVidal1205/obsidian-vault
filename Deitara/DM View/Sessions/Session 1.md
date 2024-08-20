@@ -5,7 +5,7 @@ Traveling back to Polithea reveals a ruin, with buildings completely crumbled, a
 - "THEY ABANDONED US"
 - "WHERE ARE YOUR GODS NOW?"
 - Symbols of various Deities, charred and burnt
-- The Symbol of the New Dawn, freshly painted. "The Divine light still shines within us and their Vestiges."
+- The Symbol of the New Dawn, freshly painted. "The Divine light still ashines within us and their Vestiges."
 
 In a complete turnaround, Polithea is now one of the most unsafe regions to live in due to people who wish to hunt for Sacrina. Since Polithea is the birthplace of the gods, it is also where most of their fallen Sacrina will appear, making the region a high risk high reward territory. 
 
