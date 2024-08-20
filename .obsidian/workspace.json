@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TL/8-20.md",
+                "file": "Life/Journal/Daily Notes/2024-08-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TL/8-20.md",
+                "file": "Life/Journal/Daily Notes/2024-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TL/8-20.md",
+                "file": "Life/Journal/Daily Notes/2024-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TL/8-20.md"
+                "file": "Life/Journal/Daily Notes/2024-08-20.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
     "TL/8-20.md",
+    "Life/Journal/Daily Notes/2024-08-20.md",
     "TL",
     "Obsidian/Excalidraw/Review 2024-03-27 15.38.46.excalidraw.md",
     "Obsidian/Excalidraw/Drawing 2024-02-29 17.29.54.excalidraw.md",
@@ -189,7 +190,6 @@
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
     "Life/SWE/Events/Serverless AWS Workshop Notes.md",
-    "Life/SWE/Events/IBM Notes.md",
     "Life/SWE/Project Wildspace",
     "Life/SWE/Project Launch",
     "Life/SWE/KnightHacks",
