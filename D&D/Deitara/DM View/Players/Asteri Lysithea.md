@@ -1,0 +1,4 @@
+Asteri was a noble from Arkaelia, where she was part of the Lysithea family. However, she fell deeply in love with a poorer Goliath named David Guhliyath. Her family then killed the partner, but of course Asteri protested. Pleading to anyone that would listen, she formed a pact with Mortem, attempting to bring David back but it did not work. Since then she was ostracized to Polithea, where she now attempts to learn all she can to eventually become the Goddess of Death herself, and bring back David.
+
+# DM Notes
+Definitely work with Mortem and have an intriguing relationship with Asteri. They need to help each other out though. I also want her powers to work a bit differently since the wasteland, since Mortem is presumed dead now. A small piece of him will be trapped within the pet. Perhaps a vestige of Mortem can get the attention of the party and Asteri could get him back. Or, this is also a perfect opportunity to become the death deity herself.
