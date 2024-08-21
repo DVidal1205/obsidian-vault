@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md"
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e53f0df2cd4c7d9e",
+  "active": "2cda3fcb23a87d7f",
   "lastOpenFiles": [
-    "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
+    "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/IDH1920/Test.md",
     "School/Fall 2024/BSC2010/Lab/LAB 0.md",
