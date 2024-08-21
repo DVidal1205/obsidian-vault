@@ -26,3 +26,11 @@ Show that $3n^{2}-6$ is bound by $O(n^4)$
 	- $0 \leq 6$ YES
 	- $0\leq n^{2}$ YES, n > 1
 	- $0 \leq n^{2}-3$ YES
+
+### Big Omega
+Used to give a lower bound on a function within a constant factor
+Find that $cf(n) \leq T(n) \leq 0$
+##### LHS
+- $0 \leq cn$
+- Always satisfactory
+####
