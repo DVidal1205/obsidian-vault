@@ -39,3 +39,8 @@ Show that $3n^{2}+2$ = $\Omega (n)$
 - $0 \leq 3n^{2}-cn+2$ (let c=3)
 - $0 \leq 3n^{2}-3n+2$
 - $0 \leq 3n(n-1)+2$
+### Big Theta
+Used to give a bound on a function within a constant function
+$0 \leq c_{1}f(n) \leq T(n) \leq c_{2}f(n)$
+
+Show that 8n^2 - 6n + 3 = $\theta (n^2)$
