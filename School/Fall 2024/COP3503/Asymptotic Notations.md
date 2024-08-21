@@ -23,5 +23,6 @@ Show that $3n^{2}-6$ is bound by $O(n^4)$
 	- pick any value of C greater than input
 - $0 \leq n^{2}(n^{2}-3)+6$
 - Check if each term is greater
-	- $0 \leq 6$
-	- $\$
+	- $0 \leq 6$ YES
+	- $0\leq n^{2}$ YES, n > 1
+	- $0 \leq n^{2}-3$ YES
