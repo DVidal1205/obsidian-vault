@@ -29,8 +29,13 @@ Show that $3n^{2}-6$ is bound by $O(n^4)$
 
 ### Big Omega
 Used to give a lower bound on a function within a constant factor
-Find that $cf(n) \leq T(n) \leq 0$
+Find that $0 \leq cf(n) \leq T(n)$
+Show that $3n^{2}+2$ = $\Omega (n)$
 ##### LHS
 - $0 \leq cn$
 - Always satisfactory
-####
+##### RHS
+- $cn \leq 3n^{2}+2$
+- $0 \leq 3n^{2}-cn+2$ (let c=3)
+- $0 \leq 3n^{2}-3n+2$
+- $0 \leq 3n(n-1)+2$
