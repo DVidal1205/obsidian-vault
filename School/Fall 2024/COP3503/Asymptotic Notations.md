@@ -54,5 +54,5 @@ An approach to solving recurrence relations in the form: $T(n) = aT(\frac{n}{b})
 ### Three Cases of Master's Theorem
 Case 1: $f(n) = O(n^{log_{n}- \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(n^{log_n})$
 Case 2: $f(n) = \theta(n^{log_{n}})$, $T(n) = \theta(n^{log_n}log_n)$
-Case 2: $f(n) = \Omega(n^{log_{n} + \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(f(n))$
+Case 3: $f(n) = \Omega(n^{log_{n} + \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(f(n))$
 ![[Asymptotic Notations 2024-08-26 17.02.07.excalidraw]]
