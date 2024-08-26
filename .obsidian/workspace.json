@@ -23,11 +23,9 @@
             "id": "37788bf1f60d3a07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md"
               }
             }
           },
@@ -42,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d477e41b7048d9ce",
+  "active": "37788bf1f60d3a07",
   "lastOpenFiles": [
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
