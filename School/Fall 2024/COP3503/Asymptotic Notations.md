@@ -50,3 +50,7 @@ Before working on proving a solution, first prove that it exists. Consider f(n) 
 1. $T(n) = \Omega(f(n))$ if $f(n) \geq g(n)$
 1. $T(n) = \Theta(f(n))$ if $f(n) = g(n)$
 ## Master's Theorem
+An approach to solving recurrence relations in the form: $T(n) = aT(\frac{n}{b}) + f(n)$
+### Three Cases of Master's Theorem
+Case 1: $f(n) = O(n^{log_{n}- \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(n^{log_n})$
+Case 2: $f(n) = \omega(n^{log_{n}})$, $\epsilon > 0 \geq T(n) = \theta(n^{log_n})$
