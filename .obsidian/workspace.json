@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-26.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-21.md"
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
               }
             }
           },
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +171,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e53f0df2cd4c7d9e",
+  "active": "37788bf1f60d3a07",
   "lastOpenFiles": [
+    "School/Fall 2024/CAP4102/Untitled.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
     "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
@@ -201,7 +203,6 @@
     "Life/SWE/Project Wildspace/Script.md",
     "Life/SWE/Project Wildspace/Project Wildspace.md",
     "Life/SWE/Project Wildspace/Generations.md",
-    "Life/SWE/Project Wildspace/Gallery.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
