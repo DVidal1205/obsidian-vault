@@ -76,19 +76,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 274,
+      "wordCount": 281,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9133333333333333,
-      "characterCount": 1764,
-      "nonWhitespaceCharacterCount": 1432,
-      "readingTimeInMinutes": 1.0339622641509434,
+      "pageCount": 0.9366666666666666,
+      "characterCount": 1842,
+      "nonWhitespaceCharacterCount": 1499,
+      "readingTimeInMinutes": 1.060377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724173703075,
-      "modifiedDate": 1724705741254,
-      "sizeInBytes": 1764
+      "modifiedDate": 1724705861031,
+      "sizeInBytes": 1842
     },
     "School/Fall 2024/CAP4102/Untitled.md": {
       "isCountable": true,
@@ -22931,6 +22931,24 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 3651
+    },
+    "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724706127305,
+      "modifiedDate": 1724706337430,
+      "sizeInBytes": 4948
     }
   }
 }

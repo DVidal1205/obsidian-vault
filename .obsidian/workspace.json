@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d477e41b7048d9ce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+                "file": "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+                "file": "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
+                "file": "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md"
               }
             }
           },
@@ -168,15 +178,18 @@
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37788bf1f60d3a07",
+  "active": "d477e41b7048d9ce",
   "lastOpenFiles": [
+    "School/Fall 2024/COP3503/Asymptotic Notations.md",
+    "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
+    "Excalidraw",
     "School/Fall 2024/CAP4102/Untitled.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
     "School/Fall 2024/BSC2010/Lecture/8-26.md",
-    "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/IDH1920/Test.md",
@@ -202,13 +215,11 @@
     "Life/SWE/Project Wildspace/Task List.md",
     "Life/SWE/Project Wildspace/Script.md",
     "Life/SWE/Project Wildspace/Project Wildspace.md",
-    "Life/SWE/Project Wildspace/Generations.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
     "Life/SWE/Project Wildspace",
     "Life/SWE/Project Launch",
-    "Life/SWE/KnightHacks",
     "D&D/Deitara/Images/Tree.png",
     "D&D/Deitara/Images/Technora.png",
     "D&D/Deitara/Images/Tattoo.png",
