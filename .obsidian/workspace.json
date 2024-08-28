@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/IDH1920/8-27.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/8-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e394197ecd53f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/IDH1920/8-27.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/IDH1920/8-27.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/IDH1920/8-27.md"
+                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md"
               }
             }
           },
@@ -206,17 +218,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "107426caacf30667",
+  "active": "8e394197ecd53f0d",
   "lastOpenFiles": [
-    "School/Fall 2024/IDH1920/8-20.md",
+    "School/Fall 2024/BSC2010/Lecture/8-26.md",
+    "School/Fall 2024/BSC2010/Lecture/8-28.md",
     "School/Fall 2024/IDH1920/8-27.md",
+    "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
     "Excalidraw",
     "School/Fall 2024/CAP4102/Untitled.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
-    "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/IDH1920/Test.md",
     "School/Fall 2024/BSC2010/Lab/LAB 0.md",
@@ -238,7 +251,6 @@
     "Life/SWE/ICPC/Practice Problems/flippingBits.md",
     "Life/SWE/ICPC/Lectures/Lecture 1.md",
     "Life/SWE/Project Wildspace/World.md",
-    "Life/SWE/Project Wildspace/Task List.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
