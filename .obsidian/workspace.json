@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/8-28.md"
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 3.md"
               }
             }
           },
@@ -220,8 +220,10 @@
   },
   "active": "8e394197ecd53f0d",
   "lastOpenFiles": [
-    "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/BSC2010/Lecture/8-28.md",
+    "Obsidian/Attachments/Pasted image 20240830123927.png",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
+    "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/IDH1920/8-27.md",
     "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
@@ -249,8 +251,6 @@
     "Life/SWE/ICPC/Practice Problems/matchingStrings.md",
     "Life/SWE/ICPC/Practice Problems/lonelyInt.md",
     "Life/SWE/ICPC/Practice Problems/flippingBits.md",
-    "Life/SWE/ICPC/Lectures/Lecture 1.md",
-    "Life/SWE/Project Wildspace/World.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
@@ -264,7 +264,6 @@
     "D&D/Deitara/Images/Seranis.png",
     "D&D/Deitara/Images/Resource Images/Ranged Fumble.png",
     "D&D/Deitara/Images/Resource Images/Pasted image 20230806144140.png",
-    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143858.png",
-    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143758.png"
+    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143858.png"
   ]
 }
