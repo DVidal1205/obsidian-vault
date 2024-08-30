@@ -13,4 +13,9 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 - **Hexoses** - six carbon sugars (glucose, galactose, fructose)
 ## Polysaccharides
 - 3 ore more Monosaccharides, and serves as a storage of chemical energy and structural support
-- Starch: glucose monomers used by plants
+- **Starch**: glucose monomers used by plants
+- **Glycogen** chained glucose monomers used by animals
+- **Cellulose** strands of glucose monomers present in plants
+## Lipids
+- Hydrophobic and no Monomers
+- Butters and oils
