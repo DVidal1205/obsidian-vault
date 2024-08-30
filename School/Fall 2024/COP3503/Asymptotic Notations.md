@@ -56,3 +56,11 @@ Case 1: $f(n) = O(n^{log_{n}- \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(n^{l
 Case 2: $f(n) = \theta(n^{log_{n}})$, $T(n) = \theta(n^{log_n}log_n)$
 Case 3: $f(n) = \Omega(n^{log_{n} + \epsilon})$, $\epsilon > 0 \geq T(n) = \theta(f(n))$
 ![[Asymptotic Notations 2024-08-26 17.02.07.excalidraw]]
+
+## Lab
+![[Asymptotic Notations 2024-08-30 14.31.44.excalidraw]]
+
+
+1. $3n^{2}-100n+6 = O(n^{2})$ (TRUE, since the degrees are equal and O must be greater or equal)
+1. $3n^{2}-100n+6 = \theta(n^{4})$ (FALSE, since the degrees are equal and $\theta$ must be equal)
+1. $2^{(n+1)} = \theta(2^{n})$ (TRUE, since the degrees are equal and $\theta$ must be equal)
