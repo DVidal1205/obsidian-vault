@@ -6,3 +6,8 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 - Repeating sub units of Monomers
 - **Dehydration Reaction:** sacrificing a OH and Hydrogen end of monomers, creating a longer polymer and water as a byproduct
 - **Hydrolysis:** using water to break apart polymers
+## Sugars/Carbs/Monosaccharides
+- **1:2:1 ratio of C:H:O**
+- **Trioses** - three carbon sugars
+- **Pentoses** - five carbon sugars
+- **Hexoses** - six carbon sugars (glucose, galactose, fructose)
