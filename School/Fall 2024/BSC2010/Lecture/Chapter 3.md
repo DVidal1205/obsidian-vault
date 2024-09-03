@@ -19,3 +19,9 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 ## Lipids
 - Hydrophobic and no Monomers
 - Butters and oils
+- Saturated fats are bad fats (meat, butter, etc)
+	- Lots of Hydrogen, no double bonds
+	- Tight straight lines, can be solid at room temperature
+- Unsaturated fats are good fats (avocado, salmon, oil)
+	- Does not increase the pressure in arteries as much
+	- Double carbon bond
