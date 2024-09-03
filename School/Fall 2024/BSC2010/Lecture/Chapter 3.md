@@ -25,3 +25,11 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 - Unsaturated fats are good fats (avocado, salmon, oil)
 	- Does not increase the pressure in arteries as much
 	- Double carbon bond
+- Trans fat (ultimate worst fat)
+	- Is unsaturated and has a double bond
+	- Hydrogen alternate across the double bond
+## Phospholipids
+- Can have 2 hydrocarbon shells rather than 3
+- Hydrocarbon = Hydrophobic
+- Ionized = Hydrophillic
+- Has both
