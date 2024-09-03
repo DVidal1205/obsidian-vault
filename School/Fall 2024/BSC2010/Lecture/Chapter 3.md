@@ -38,3 +38,8 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 ## Proteins
 - Strings of amino acids
 - Proteins are Enzymes
+## Amino Acid Structure
+- Left: Amino (NH3+)
+- Top: Hydrogen
+- Right: Carboxyl (CO2-)
+- Bottom, the R group, which varies between all of the acids
