@@ -43,3 +43,10 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 - Top: Hydrogen
 - Right: Carboxyl (CO2-)
 - Bottom, the R group, which varies between all of the acids
+## Nucleotides
+- Phosphate group
+- Sugar (pentose)
+- Nitrogenous base (adenine)
+## Ribose
+- Deoxyribose *in DNA* (Minus an oxygen)
+- Ribose *in RNA*
