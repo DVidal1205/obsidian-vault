@@ -33,3 +33,8 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 - Hydrocarbon = Hydrophobic
 - Ionized = Hydrophillic
 - Has both
+## Steroids
+- Manufacturing of Choleterol (creator of sex hormones)
+## Proteins
+- Strings of amino acids
+- Proteins are Enzymes
