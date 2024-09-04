@@ -7,7 +7,7 @@
 - Cytosol
 - DNA
 - Ribosomes
-## Prokaryotic Cell
+## Prokaryotic Cell (Bacteria & Archaea)
 - Before the Nucleus (no nucleus)
 	- Nucleoid
 	- Ribosomes
@@ -15,3 +15,12 @@
 	- Cell Wall
 	- Copsule
 	- Flagella
+## Eukaryotic Cells: Animal
+- Animalia, Protista, Fungi, and Plantae
+## Endomembrane System
+- Things inside of the membrane
+	- Nucleus
+	- Rough ER
+	- Smooth ER
+	- cis Golgi
+	- trans Golgi
