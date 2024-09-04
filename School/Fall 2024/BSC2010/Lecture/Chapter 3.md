@@ -50,3 +50,10 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 ## Ribose
 - Deoxyribose *in DNA* (Minus an oxygen)
 - Ribose *in RNA*
+## DNA
+- A & T
+- C & G
+## Stages
+- 1st how amino is aligned
+- 2nd hydrogen bonds between back bone
+- 3rd how R interacts
