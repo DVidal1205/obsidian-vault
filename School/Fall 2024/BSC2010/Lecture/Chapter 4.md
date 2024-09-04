@@ -20,7 +20,11 @@
 ## Endomembrane System
 - Things inside of the membrane
 	- Nucleus
-	- Rough ER
-	- Smooth ER
+		- The center-ish of the cell and contains the DNA and protein instructions
+		- Center is Nucleolus and center of the ribosome creation
+	- Rough endoplasmic reticulum
+		- Covered in ribosomes
+	- Smooth endoplasmic reticulum
+		- Not covered in ribosomes
 	- cis Golgi
 	- trans Golgi
