@@ -36,24 +36,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "School/Fall 2024/IDH1920/8-27.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 108,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.36,
-      "characterCount": 654,
-      "nonWhitespaceCharacterCount": 543,
-      "readingTimeInMinutes": 0.4075471698113208,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1724785824984,
-      "modifiedDate": 1724786561707,
-      "sizeInBytes": 654
-    },
     "School/Fall 2024/IDH1920/Test.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -71,6 +53,24 @@
       "createdDate": 1724173703075,
       "modifiedDate": 1724173703075,
       "sizeInBytes": 0
+    },
+    "School/Fall 2024/IDH1920/8-27.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 654,
+      "nonWhitespaceCharacterCount": 543,
+      "readingTimeInMinutes": 0.4075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724785824984,
+      "modifiedDate": 1724786561707,
+      "sizeInBytes": 654
     },
     "School/Fall 2024/IDH1920/8-20.md": {
       "isCountable": true,
@@ -180,23 +180,41 @@
       "modifiedDate": 1724173703075,
       "sizeInBytes": 0
     },
+    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 753,
+      "nonWhitespaceCharacterCount": 607,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725467942070,
+      "modifiedDate": 1725470155361,
+      "sizeInBytes": 753
+    },
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 284,
+      "wordCount": 282,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9466666666666667,
-      "characterCount": 2084,
-      "nonWhitespaceCharacterCount": 1732,
-      "readingTimeInMinutes": 1.0716981132075472,
+      "pageCount": 0.94,
+      "characterCount": 2077,
+      "nonWhitespaceCharacterCount": 1726,
+      "readingTimeInMinutes": 1.0641509433962264,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1725035464675,
-      "modifiedDate": 1725467933718,
-      "sizeInBytes": 2084
+      "modifiedDate": 1725568952469,
+      "sizeInBytes": 2077
     },
     "School/Fall 2024/BSC2010/Lecture/8-28.md": {
       "isCountable": true,
@@ -558,23 +576,23 @@
       "modifiedDate": 1724173703075,
       "sizeInBytes": 2901
     },
-    "School/Archived/Spring 2024/REL3930/Module 1 - Christianity/Readings/Feb 1 - Reforming Sodom Heather White.md": {
+    "School/Archived/Spring 2024/REL3930/Module 1 - Christianity/Readings/Jan 11 - The Virgin Daughters.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 276,
+      "wordCount": 541,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.92,
-      "characterCount": 1769,
-      "nonWhitespaceCharacterCount": 1460,
-      "readingTimeInMinutes": 1.0415094339622641,
+      "pageCount": 1.8033333333333332,
+      "characterCount": 3429,
+      "nonWhitespaceCharacterCount": 2861,
+      "readingTimeInMinutes": 2.0415094339622644,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724173703075,
       "modifiedDate": 1724173703075,
-      "sizeInBytes": 1787
+      "sizeInBytes": 3430
     },
     "School/Archived/Spring 2024/REL3930/Module 1 - Christianity/Readings/February 6 - Pray the Gay Away.md": {
       "isCountable": true,
@@ -594,23 +612,23 @@
       "modifiedDate": 1724173703075,
       "sizeInBytes": 1726
     },
-    "School/Archived/Spring 2024/REL3930/Module 1 - Christianity/Readings/Jan 11 - The Virgin Daughters.md": {
+    "School/Archived/Spring 2024/REL3930/Module 1 - Christianity/Readings/Feb 1 - Reforming Sodom Heather White.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 541,
+      "wordCount": 276,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8033333333333332,
-      "characterCount": 3429,
-      "nonWhitespaceCharacterCount": 2861,
-      "readingTimeInMinutes": 2.0415094339622644,
+      "pageCount": 0.92,
+      "characterCount": 1769,
+      "nonWhitespaceCharacterCount": 1460,
+      "readingTimeInMinutes": 1.0415094339622641,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724173703075,
       "modifiedDate": 1724173703075,
-      "sizeInBytes": 3430
+      "sizeInBytes": 1787
     },
     "School/Archived/Spring 2024/PEM2121/Untitled.md": {
       "isCountable": true,
@@ -6408,24 +6426,6 @@
       "modifiedDate": 1724173702971,
       "sizeInBytes": 440
     },
-    "Life/Habits/Gym Tracker.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 214,
-      "nonWhitespaceCharacterCount": 187,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1724173702971,
-      "modifiedDate": 1724173702971,
-      "sizeInBytes": 224
-    },
     "Life/Habits/Morning Vitamins Tracker.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6479,6 +6479,24 @@
       "createdDate": 1724173702971,
       "modifiedDate": 1724173702971,
       "sizeInBytes": 467
+    },
+    "Life/Habits/Gym Tracker.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 187,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724173702971,
+      "modifiedDate": 1724173702971,
+      "sizeInBytes": 224
     },
     "Life/Habits/Evening Vitamins Tracker.md": {
       "isCountable": true,
@@ -7830,24 +7848,6 @@
       "modifiedDate": 1724173702927,
       "sizeInBytes": 197
     },
-    "D&D/Miravalis/Player View/Territories/Morellus/Places/Districts/Western District.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 53,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 421,
-      "nonWhitespaceCharacterCount": 352,
-      "readingTimeInMinutes": 0.2,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1724173702927,
-      "modifiedDate": 1724173702927,
-      "sizeInBytes": 421
-    },
     "D&D/Miravalis/Player View/Territories/Morellus/Places/Districts/Southern District.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7865,6 +7865,24 @@
       "createdDate": 1724173702927,
       "modifiedDate": 1724173702927,
       "sizeInBytes": 401
+    },
+    "D&D/Miravalis/Player View/Territories/Morellus/Places/Districts/Western District.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 53,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 421,
+      "nonWhitespaceCharacterCount": 352,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724173702927,
+      "modifiedDate": 1724173702927,
+      "sizeInBytes": 421
     },
     "D&D/Miravalis/Player View/Territories/Morellus/Places/Districts/Northern District.md": {
       "isCountable": true,
@@ -20574,24 +20592,6 @@
       "modifiedDate": 1724173702815,
       "sizeInBytes": 3079
     },
-    "D&D/Miravalis/Game Information/Statblocks/Aboleth.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1724173702815,
-      "modifiedDate": 1724173702815,
-      "sizeInBytes": 4351
-    },
     "D&D/Miravalis/Game Information/Statblocks/Accursed Guardian Naga.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -20627,6 +20627,24 @@
       "createdDate": 1724173702815,
       "modifiedDate": 1724173702815,
       "sizeInBytes": 3040
+    },
+    "D&D/Miravalis/Game Information/Statblocks/Aboleth.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1724173702815,
+      "modifiedDate": 1724173702815,
+      "sizeInBytes": 4351
     },
     "D&D/Miravalis/Game Information/Statblocks/Aboleth Thrall.md": {
       "isCountable": true,
@@ -23057,24 +23075,6 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 3651
-    },
-    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 753,
-      "nonWhitespaceCharacterCount": 607,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1725467942070,
-      "modifiedDate": 1725470155361,
-      "sizeInBytes": 753
     }
   }
 }
