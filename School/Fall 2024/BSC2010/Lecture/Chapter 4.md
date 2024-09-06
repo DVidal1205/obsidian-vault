@@ -28,3 +28,8 @@
 		- Not covered in ribosomes
 	- cis Golgi
 	- trans Golgi
+## Lysosomes
+- Cellular stomachs
+- Phagocytosis - eating a cell
+## Central Vacuole
+- Plant cells have a central big membrane sack
