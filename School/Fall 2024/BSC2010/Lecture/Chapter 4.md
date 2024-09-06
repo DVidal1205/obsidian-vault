@@ -33,3 +33,8 @@
 - Phagocytosis - eating a cell
 ## Central Vacuole
 - Plant cells have a central big membrane sack
+## Endosymbiosis
+- Bringing another life form into yourself
+- Prokaryote
+- Endosymbiosis to get organelles
+- creates Eukaryote
