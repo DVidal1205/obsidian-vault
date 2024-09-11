@@ -20,3 +20,5 @@
 1. If the key k is a part of a leaf node, then just delete the key
 2. Not a leaf
 	1. Look left, and can we bring up a predecessor from a node with t keys
+	2. If that doesn't work, look right and do the same.
+	3. If that doesn't work, merge
