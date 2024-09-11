@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+                "file": "School/Fall 2024/COP3503/Closest Pair of Points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc548250e6118fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/COP3503/B-Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+                "file": "School/Fall 2024/COP3503/B-Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+                "file": "School/Fall 2024/COP3503/B-Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 4.md"
+                "file": "School/Fall 2024/COP3503/B-Tree.md"
               }
             }
           },
@@ -171,13 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cccd061b699223f2",
+  "active": "fc548250e6118fc0",
   "lastOpenFiles": [
+    "School/Fall 2024/COP3503/Closest Pair of Points.md",
+    "School/Fall 2024/COP3503/B-Tree.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
     "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/BSC2010/Lecture/8-28.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
     "Obsidian/Attachments/Asymptotic Notations 2024-08-30 14.31.44.excalidraw.md",
@@ -185,7 +199,6 @@
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "Obsidian/Attachments/Pasted image 20240830123927.png",
     "School/Fall 2024/IDH1920/8-27.md",
-    "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "Excalidraw",
     "School/Fall 2024/CAP4102/Untitled.md",
     "School/Fall 2024/BSC2010/Lecture",
@@ -204,7 +217,6 @@
     "Life/SWE/ICPC/Practice Problems/timeConversion.md",
     "Life/SWE/ICPC/Practice Problems/plusMinus.md",
     "Life/SWE/ICPC/Practice Problems/miniMaxSum.md",
-    "Life/SWE/ICPC/Practice Problems/matchingStrings.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
