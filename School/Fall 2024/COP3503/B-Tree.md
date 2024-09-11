@@ -12,3 +12,6 @@
 		5. (1, 3) 5 (7, 9)
 		6. The median node is promoted, with its left and right children being the new nodes
 2. Insert the key at the leaf.
+
+### Deletion
+- Predecessor and Successor
