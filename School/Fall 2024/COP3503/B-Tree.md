@@ -15,3 +15,8 @@
 
 ### Deletion
 - Predecessor and Successor
+- Reach the key, traverse from the root to the key
+#### Scenarios/Rules
+1. If the key k is a part of a leaf node, then just delete the key
+2. Not a leaf
+	1. Look left, and can we bring up a predecessor from a node with t keys
