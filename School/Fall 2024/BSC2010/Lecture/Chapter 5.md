@@ -10,6 +10,9 @@ The plasma membrane is *selectively permeable* meaning that the membrane allows 
 ### Proteins
 - Integral proteins, or integrins, integrate into the membrane in small regions and create ports.
 - Peripheral proteins are on the membrane, whether interior or exterior, to serve as enzymes rather than a port.
+### Carbohydrates
+- Serves as a way to recognize incoming and outgoing substances.
+![[Pasted image 20240913131009.png]]
 ## Environments
 **Hypertonic Environment**
 - Solute Outside > Solute Inside
