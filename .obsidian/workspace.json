@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Lab 3/Backtracking.md"
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "fcc0d322dff5d09c",
   "lastOpenFiles": [
-    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
     "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
     "School/Fall 2024/COP3503/Lab 3",
     "Obsidian/Attachments/Pasted image 20240913131009.png",
     "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",

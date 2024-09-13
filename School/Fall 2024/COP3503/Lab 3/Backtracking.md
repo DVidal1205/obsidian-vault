@@ -9,4 +9,4 @@ Read in the numbers and pass to the following algorithm
 1. Check if the output.size() == k, which is the base case, then return
 2. Place the current number in the array
 3. Increment and call function again
-4. return and increment again
+	1. return and increment again
