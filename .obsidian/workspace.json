@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/B-Tree.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f81138375ae182f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/B-Tree.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/B-Tree.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/B-Tree.md"
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md"
               }
             }
           },
@@ -167,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc548250e6118fc0",
+  "active": "0f81138375ae182f",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Closest Pair of Points.md",
-    "School/Fall 2024/COP3503/B-Tree.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+    "School/Fall 2024/COP3503/B-Tree.md",
+    "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "School/Fall 2024/BSC2010/Lecture/8-28.md",
     "School/Fall 2024/BSC2010/Lecture/8-21.md",
@@ -216,7 +230,6 @@
     "Life/SWE/KnightHacks/OPS/2024-2-12.md",
     "Life/SWE/ICPC/Practice Problems/timeConversion.md",
     "Life/SWE/ICPC/Practice Problems/plusMinus.md",
-    "Life/SWE/ICPC/Practice Problems/miniMaxSum.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
