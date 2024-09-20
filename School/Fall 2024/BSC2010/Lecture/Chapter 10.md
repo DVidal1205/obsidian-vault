@@ -42,3 +42,4 @@
 - Cells keep multiplying and create tumors
 - **Benign** abnormal cells remain at original site
 - **Malignant** abnormal cells invading surrounding tissues
+- **Metastasis** abnormal malignant tumors entering the immune/blood system
