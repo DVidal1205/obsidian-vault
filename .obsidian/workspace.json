@@ -11,11 +11,28 @@
             "id": "b8790e3a4a84340f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c56d8f07cd264853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 10.md"
+              }
             }
           },
           {
@@ -151,13 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8790e3a4a84340f",
+  "active": "c56d8f07cd264853",
   "lastOpenFiles": [
+    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
     "D&D/Miravalis/Game Information/Statblocks/Cambion.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
     "School/Fall 2024/COP3503/Lab 3",
@@ -187,7 +209,6 @@
     "Obsidian/Excalidraw",
     "Life/SWE/KnightHacks/OPS/2024-2-5.md",
     "Life/SWE/KnightHacks/OPS/2024-2-19.md",
-    "Life/SWE/KnightHacks/OPS/2024-2-12.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
