@@ -28,3 +28,17 @@
 - Animals create the cleavage furrow
 - Plants create an inner cell wall plate before splitting
 
+## The Cell Cycle
+- G1 Checkpoint
+- Synthesis Phase
+- G2 Checkpoint
+- Mitosis Checkpoint
+### G0 Phase Checkpoint
+- Checking to see if the cell can enter division
+### M Checkpoint
+- Check for full chromosomal attachment in prometaphase. If not, discard
+## Cancer Cells
+- Anchorage dependence: cells require a surface for division
+- Cells keep multiplying and create tumors
+- **Benign** abnormal cells remain at original site
+- **Malignant** abnormal cells invading surrounding tissues
