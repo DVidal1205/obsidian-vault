@@ -47,4 +47,10 @@ Plasma membranes allow certain substances to enter and leave a cell, as well as 
 #### Factors that effect diffusion
 - **Temperature:** higher temperature increases the energy and movement, increasing the diffusion rate
 - **Mass:** heavier molecules move slower and decrease the diffusion rate
-- ****
+- **Concentration Gradient:** the greater the difference, the more rapid the diffusion. Closer to equilibrium diffuses slower
+- **Solvent Density:** as the density of the solvent increases, it is harder to move and diffusion rate decreases
+### Facilitated Transport
+- Materials diffuse with the help of membrane proteins.
+- A concentration gradient exists, but the materials are polar or ions that the hydrophobic parts repel. Proteins shield the material from the repulsive force
+- Attach to protein or glycoprotein receptors on the exterior, and then pass to specific integral proteins that allow passage.
+- Pore or channel, or carrier proteins
