@@ -13,7 +13,7 @@ The plasma membrane is *selectively permeable* meaning that the membrane allows 
 ### Carbohydrates
 - Serves as a way to recognize incoming and outgoing substances.
 ![[Pasted image 20240913131009.png]]
-## Environments
+### Environments
 **Hypertonic Environment**
 - Solute Outside > Solute Inside
 - Net water movement *OUT* of the cell
@@ -28,5 +28,23 @@ The plasma membrane is *selectively permeable* meaning that the membrane allows 
 - Hypotonic cells are turgid normal and firm due to the pressure from the central vacuole and cell wall holding it upright
 - Isotonic cells become flaccid
 - Hypertonic cells lose their membrane as it shrinks and shrivels and becomes plasmolyzed
-## Active Transport
+### Active Transport
 Wanting to keep a specific concentration requires active transport, and needs energy supplied by ATP.
+
+## Passive Transport
+Plasma membranes allow certain substances to enter and leave a cell, as well as prevent harmful material from entering and essential materials leaving.
+### Selective Permeability
+- Plasma membranes are asymmetric
+	- Inside: proteins serve as an anchor between the membrane and cytoskeleton
+	- Outside: peripheral proteins that bind extracellular matrix elements, as well as carbs, lipids, and proteins.
+- Amphiphillic - hydrophillic exterior and hydrophobic interior.
+	- Non-polar and lipid-soluble material with low molecular weight can enter, but may get stuck within the membrane.
+	- Polar substances present problems for the membrane and cannot pass through. Ions also have trouble passing through due to the charge.
+### Diffusion
+- One of the **passive process** of transports. A single substance moves from a high concentration to a low concentration area until the concentration is equal.
+- Opening a bottle of ammonia in a room, it will disperse to the low concentration area.
+- Diffusion **expends no energy**
+#### Factors that effect diffusion
+- **Temperature:** higher temperature increases the energy and movement, increasing the diffusion rate
+- **Mass:** heavier molecules move slower and decrease the diffusion rate
+- ****
