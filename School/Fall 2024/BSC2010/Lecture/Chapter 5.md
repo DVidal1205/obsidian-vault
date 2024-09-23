@@ -54,3 +54,9 @@ Plasma membranes allow certain substances to enter and leave a cell, as well as 
 - A concentration gradient exists, but the materials are polar or ions that the hydrophobic parts repel. Proteins shield the material from the repulsive force
 - Attach to protein or glycoprotein receptors on the exterior, and then pass to specific integral proteins that allow passage.
 - Pore or channel, or carrier proteins
+#### Channels
+- Proteins create a hydrophillic channel through the core and provides a hydrated opening in the membrane.
+- Aquaporins are channels that allow water to pass in a high rate
+- Open at all times are are gated by particular ions.
+#### Carrier Proteins
+- Binds to a substance, changing its shape, and moving the molecule inside the interior. Typically specific for a single substance.
