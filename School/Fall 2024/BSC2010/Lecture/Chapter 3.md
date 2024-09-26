@@ -19,3 +19,41 @@ While there are the same few base elements, the Tetravalence property of Carbon 
 ## Lipids
 - Hydrophobic and no Monomers
 - Butters and oils
+- Saturated fats are bad fats (meat, butter, etc)
+	- Lots of Hydrogen, no double bonds
+	- Tight straight lines, can be solid at room temperature
+- Unsaturated fats are good fats (avocado, salmon, oil)
+	- Does not increase the pressure in arteries as much
+	- Double carbon bond
+- Trans fat (ultimate worst fat)
+	- Is unsaturated and has a double bond
+	- Hydrogen alternate across the double bond
+## Phospholipids
+- Can have 2 hydrocarbon shells rather than 3
+- Hydrocarbon = Hydrophobic
+- Ionized = Hydrophillic
+- Has both
+## Steroids
+- Manufacturing of Choleterol (creator of sex hormones)
+## Proteins
+- Strings of amino acids
+- Proteins are Enzymes
+## Amino Acid Structure
+- Left: Amino (NH3+)
+- Top: Hydrogen
+- Right: Carboxyl (CO2-)
+- Bottom, the R group, which varies between all of the acids
+## Nucleotides
+- Phosphate group
+- Sugar (pentose)
+- Nitrogenous base (adenine)
+## Ribose
+- Deoxyribose *in DNA* (Minus an oxygen)
+- Ribose *in RNA*
+## DNA
+- A & T
+- C & G
+## Stages
+- 1st how amino is aligned
+- 2nd hydrogen bonds between back bone
+- 3rd how R interacts

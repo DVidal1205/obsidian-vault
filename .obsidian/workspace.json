@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fbf074598632dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -158,10 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5ec19ee016730cf",
+  "active": "7fbf074598632dba",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "conflict-files-obsidian-git.md",
+    "School/Fall 2024/COP3503/Asymptotic Notations.md",
+    "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
+    "School/Fall 2024/COP3503/Lab 3",
+    "School/Fall 2024/COP3503/B-Tree.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
+    "Obsidian/Attachments/Pasted image 20240913131009.png",
+    "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",
     "School/Fall 2024/IDH1920/8-27.md",
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
@@ -187,24 +208,16 @@
     "Life/SWE/KnightHacks/OPS/2024-2-19.md",
     "Life/SWE/KnightHacks/OPS/2024-2-12.md",
     "Life/SWE/ICPC/Practice Problems/timeConversion.md",
-    "Life/SWE/ICPC/Practice Problems/plusMinus.md",
-    "Life/SWE/ICPC/Practice Problems/miniMaxSum.md",
-    "Life/SWE/ICPC/Practice Problems/matchingStrings.md",
-    "Life/SWE/ICPC/Practice Problems/lonelyInt.md",
-    "Life/SWE/ICPC/Practice Problems/flippingBits.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
     "Life/SWE/Project Wildspace",
-    "Life/SWE/Project Launch",
     "D&D/Deitara/Images/Tree.png",
     "D&D/Deitara/Images/Technora.png",
     "D&D/Deitara/Images/Tattoo.png",
     "D&D/Deitara/Images/Symbol 2.png",
     "D&D/Deitara/Images/Symbol 1.png",
     "D&D/Deitara/Images/Seranis.png",
-    "D&D/Deitara/Images/Resource Images/Ranged Fumble.png",
-    "D&D/Deitara/Images/Resource Images/Pasted image 20230806144140.png",
-    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143858.png"
+    "D&D/Deitara/Images/Resource Images/Ranged Fumble.png"
   ]
 }
