@@ -90,24 +90,6 @@
       "modifiedDate": 1724183074344,
       "sizeInBytes": 280
     },
-    "School/Fall 2024/COP3503/B-Tree.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726087354652,
-      "modifiedDate": 1726090612716,
-      "sizeInBytes": 1045
-    },
     "School/Fall 2024/COP3503/Lab 3/Backtracking.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -125,6 +107,24 @@
       "createdDate": 1726252286516,
       "modifiedDate": 1726256036831,
       "sizeInBytes": 458
+    },
+    "School/Fall 2024/COP3503/B-Tree.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726087354652,
+      "modifiedDate": 1726090612716,
+      "sizeInBytes": 1045
     },
     "School/Fall 2024/COP3503/Closest Pair of Points.md": {
       "isCountable": true,
@@ -1638,24 +1638,6 @@
       "modifiedDate": 1724173703075,
       "sizeInBytes": 38
     },
-    "Obsidian/Attachments/Pasted image 20240913131009.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726247409464,
-      "modifiedDate": 1726247409464,
-      "sizeInBytes": 56820
-    },
     "Obsidian/Attachments/photo-1506744038136-46273834b3fb.avif": {
       "isCountable": false,
       "isDirectory": false,
@@ -1727,6 +1709,24 @@
       "createdDate": 1724173703067,
       "modifiedDate": 1724173703067,
       "sizeInBytes": 1316051
+    },
+    "Obsidian/Attachments/Pasted image 20240913131009.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726247409464,
+      "modifiedDate": 1726247409464,
+      "sizeInBytes": 56820
     },
     "Obsidian/Attachments/Pasted image 20240830123927.png": {
       "isCountable": false,
@@ -3330,24 +3330,6 @@
       "modifiedDate": 1724173702975,
       "sizeInBytes": 78818
     },
-    "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726246452885,
-      "modifiedDate": 1726246452885,
-      "sizeInBytes": 106436
-    },
     "Obsidian/Attachments/Pasted image 20230821134440.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -3527,6 +3509,24 @@
       "createdDate": 1725042704784,
       "modifiedDate": 1725042912307,
       "sizeInBytes": 29990
+    },
+    "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726246452885,
+      "modifiedDate": 1726246452885,
+      "sizeInBytes": 106436
     },
     "Life/Tasks/Task Master List.md": {
       "isCountable": true,
@@ -6786,24 +6786,6 @@
       "modifiedDate": 1724173702967,
       "sizeInBytes": 2448
     },
-    "Life/HOA/Dylan Egan 05-28-2024.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702967,
-      "modifiedDate": 1724173702967,
-      "sizeInBytes": 2449
-    },
     "Life/HOA/Drake Austin 05-23-2024.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6821,6 +6803,24 @@
       "createdDate": 1724173702967,
       "modifiedDate": 1724173702967,
       "sizeInBytes": 2269
+    },
+    "Life/HOA/Dylan Egan 05-28-2024.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702967,
+      "modifiedDate": 1724173702967,
+      "sizeInBytes": 2449
     },
     "Life/HOA/Diego Ramirez 05-28-2024.md": {
       "isCountable": true,
@@ -6858,24 +6858,6 @@
       "modifiedDate": 1724173702967,
       "sizeInBytes": 2448
     },
-    "Life/HOA/David Tang 05-23-2024.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702967,
-      "modifiedDate": 1724173702967,
-      "sizeInBytes": 2862
-    },
     "Life/HOA/Daniyl Nguyen 06-03-2024.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6893,6 +6875,24 @@
       "createdDate": 1724173702967,
       "modifiedDate": 1724173702967,
       "sizeInBytes": 2557
+    },
+    "Life/HOA/David Tang 05-23-2024.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702967,
+      "modifiedDate": 1724173702967,
+      "sizeInBytes": 2862
     },
     "Life/HOA/Daniela Cifuentes 06-04-2024.md": {
       "isCountable": true,
@@ -10530,24 +10530,6 @@
       "modifiedDate": 1724173702815,
       "sizeInBytes": 1167
     },
-    "D&D/Miravalis/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702815,
-      "modifiedDate": 1724173702815,
-      "sizeInBytes": 695
-    },
     "D&D/Miravalis/Game Information/Resources/Grand Morellan University/Classes/College of Physical Prowess - CPP.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -10565,6 +10547,24 @@
       "createdDate": 1724173702815,
       "modifiedDate": 1724173702815,
       "sizeInBytes": 645
+    },
+    "D&D/Miravalis/Game Information/Resources/Grand Morellan University/Classes/College of Science and Engineering - CSE.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702815,
+      "modifiedDate": 1724173702815,
+      "sizeInBytes": 695
     },
     "D&D/Miravalis/Game Information/Resources/Grand Morellan University/Classes/College of Fine Arts and Design.md": {
       "isCountable": true,
@@ -11052,24 +11052,6 @@
       "modifiedDate": 1724173702811,
       "sizeInBytes": 136
     },
-    "D&D/Deitara/Resources/Critical Hits Revised.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702811,
-      "modifiedDate": 1724173702811,
-      "sizeInBytes": 962
-    },
     "D&D/Deitara/Resources/Injury Chart.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11087,6 +11069,24 @@
       "createdDate": 1724173702811,
       "modifiedDate": 1724173702811,
       "sizeInBytes": 427
+    },
+    "D&D/Deitara/Resources/Critical Hits Revised.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702811,
+      "modifiedDate": 1724173702811,
+      "sizeInBytes": 962
     },
     "D&D/Deitara/Resources/Critical Fumbles.md": {
       "isCountable": true,
@@ -11556,24 +11556,6 @@
       "modifiedDate": 1724173702787,
       "sizeInBytes": 204148
     },
-    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143258.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702783,
-      "modifiedDate": 1724173702783,
-      "sizeInBytes": 219767
-    },
     "D&D/Deitara/Images/Resource Images/Pasted image 20230806143318.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -11591,6 +11573,24 @@
       "createdDate": 1724173702787,
       "modifiedDate": 1724173702787,
       "sizeInBytes": 327238
+    },
+    "D&D/Deitara/Images/Resource Images/Pasted image 20230806143258.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702783,
+      "modifiedDate": 1724173702783,
+      "sizeInBytes": 219767
     },
     "D&D/Deitara/Images/Resource Images/Pasted image 20230806143238.png": {
       "isCountable": false,
@@ -11646,24 +11646,6 @@
       "modifiedDate": 1724173702783,
       "sizeInBytes": 128862
     },
-    "D&D/Deitara/Images/Polithea.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702783,
-      "modifiedDate": 1724173702783,
-      "sizeInBytes": 3358583
-    },
     "D&D/Deitara/Images/Meridia.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -11681,6 +11663,24 @@
       "createdDate": 1724173702779,
       "modifiedDate": 1724173702779,
       "sizeInBytes": 3285937
+    },
+    "D&D/Deitara/Images/Polithea.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702783,
+      "modifiedDate": 1724173702783,
+      "sizeInBytes": 3358583
     },
     "D&D/Deitara/Images/Hanlen.png": {
       "isCountable": false,
@@ -11736,24 +11736,6 @@
       "modifiedDate": 1724173702763,
       "sizeInBytes": 4136953
     },
-    "D&D/Deitara/Images/Druvina.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702759,
-      "modifiedDate": 1724173702759,
-      "sizeInBytes": 3773679
-    },
     "D&D/Deitara/Images/Bob.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -11789,6 +11771,24 @@
       "createdDate": 1724173702747,
       "modifiedDate": 1724173702747,
       "sizeInBytes": 2637763
+    },
+    "D&D/Deitara/Images/Druvina.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702759,
+      "modifiedDate": 1724173702759,
+      "sizeInBytes": 3773679
     },
     "D&D/Deitara/Images/Bear.png": {
       "isCountable": false,
@@ -11880,6 +11880,24 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 3956
     },
+    "D&D/Deitara/Deities/Deities Directory.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 1139
+    },
     "D&D/Deitara/Deities/Deities Directory/Zephyrus.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11916,24 +11934,6 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1232
     },
-    "D&D/Deitara/Deities/Deities Directory/Thalassos.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 981
-    },
     "D&D/Deitara/Deities/Deities Directory/Tempestra.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11951,6 +11951,24 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1105
+    },
+    "D&D/Deitara/Deities/Deities Directory/Thalassos.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 981
     },
     "D&D/Deitara/Deities/Deities Directory/Sylvanus.md": {
       "isCountable": true,
@@ -12024,6 +12042,24 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1401
     },
+    "D&D/Deitara/Deities/Deities Directory/Hephaeston.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 1209
+    },
     "D&D/Deitara/Deities/Deities Directory/Liora.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12059,24 +12095,6 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1247
-    },
-    "D&D/Deitara/Deities/Deities Directory/Hephaeston.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 1209
     },
     "D&D/Deitara/Deities/Deities Directory/Gaia.md": {
       "isCountable": true,
@@ -12240,24 +12258,6 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1026
     },
-    "D&D/Deitara/Deities/Deities Directory.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 1139
-    },
     "D&D/Deitara/Deities/Deitaran Deities.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12312,24 +12312,6 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 1103
     },
-    "D&D/Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 180
-    },
     "D&D/Deitara/DM View/Sessions/Session 3.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12347,24 +12329,6 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 10568
-    },
-    "D&D/Deitara/DM View/Sessions/Session 2.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 11014
     },
     "D&D/Deitara/DM View/Sessions/Session 1.md": {
       "isCountable": true,
@@ -12384,6 +12348,24 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 15421
     },
+    "D&D/Deitara/DM View/Sessions/Session 2.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 11014
+    },
     "D&D/Deitara/DM View/Sessions/Session 0.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12401,6 +12383,24 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 12688
+    },
+    "D&D/Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 180
     },
     "D&D/Deitara/DM View/Players/Ravi Moss.md": {
       "isCountable": true,
