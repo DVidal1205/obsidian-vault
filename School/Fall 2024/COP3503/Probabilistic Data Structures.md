@@ -6,3 +6,5 @@
 - Perform BST insertion
 - Randomly assign a priority
 - Fix heap priority based on assigned property
+### Treap Deletion
+- Just set the priority to zero. It will rotate and rebalance until it is a leaf, and then delete.
