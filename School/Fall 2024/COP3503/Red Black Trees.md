@@ -8,8 +8,8 @@
 	- parent
 ## Properties
 - Every node is either red or black
-- The root is black
-- Every leaf is black
+- The root is always black
+- Every leaf is black and NIL
 - If a node is red, then both the children are black
 - For each node, all simple paths from the node to descendant leaves contains the same number of black nodes.
 - All new nodes are inserted as red
