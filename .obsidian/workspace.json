@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b31d04bdc6a297cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Probabilistic Data Structures.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -195,11 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfb0091ebdb9d963",
+  "active": "b31d04bdc6a297cf",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Red Black Trees.md",
     "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
     "conflict-files-obsidian-git.md",
+    "School/Fall 2024/COP3503/Red Black Trees.md",
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/IDH1920/8-27.md",
     "School/Fall 2024/IDH1920/Test.md",
