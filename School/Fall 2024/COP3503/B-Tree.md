@@ -18,7 +18,8 @@
 - Reach the key, traverse from the root to the key
 #### Scenarios/Rules
 1. If the key k is a part of a leaf node, then just delete the key
-2. Not a leaf
-	1. Look left, and can we bring up a predecessor from a node with t keys
-	2. If that doesn't work, look right and do the same.
-	3. If that doesn't work, merge
+2. Not a leaf, and the key is an internal node
+	1. Look left, and can we bring up a predecessor from a LEAF node with t keys
+	2. If that doesn't work, look right for a successor and do the same.
+	3. If that doesn't work, merge the desired key DOWN into its children, creating a full leaf node, and delete the key
+3. 

@@ -112,19 +112,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 202,
+      "wordCount": 230,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6733333333333333,
-      "characterCount": 1045,
-      "nonWhitespaceCharacterCount": 819,
-      "readingTimeInMinutes": 0.7622641509433963,
+      "pageCount": 0.7666666666666667,
+      "characterCount": 1189,
+      "nonWhitespaceCharacterCount": 934,
+      "readingTimeInMinutes": 0.8679245283018868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1726087354652,
-      "modifiedDate": 1726090612716,
-      "sizeInBytes": 1045
+      "modifiedDate": 1728507468425,
+      "sizeInBytes": 1189
     },
     "School/Fall 2024/COP3503/Red Black Trees.md": {
       "isCountable": true,
@@ -12527,24 +12527,6 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 3651
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 83,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 644,
-      "nonWhitespaceCharacterCount": 544,
-      "readingTimeInMinutes": 0.3132075471698113,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1728506951007,
-      "modifiedDate": 1728506951315,
-      "sizeInBytes": 644
     }
   }
 }
