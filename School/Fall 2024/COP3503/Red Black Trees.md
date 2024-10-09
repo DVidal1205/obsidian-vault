@@ -24,3 +24,8 @@
 	- Change Z Grandparent to read
 	- Recursively make the grandparent the Z node
 - CASE 2 (Z's Uncle Y is Black and Z is a right child)
+	- Perform a left rotation on Z's parent
+- CASE 3 (Z's Uncle Y is Black and Z is a left child)
+	- Change Z's parent to the color black
+	- Change Z's grandparent to the color red
+	- Perform a right rotation on Z's grandparent
