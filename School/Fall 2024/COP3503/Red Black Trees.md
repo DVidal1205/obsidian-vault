@@ -1,11 +1,11 @@
 ## What is a RBT
 - A specialized Binary Search Tree that keeps things balanced
+- Nodes:
 	- color
 	- key
 	- left
 	- right
-	- p
-	- height of 2lg(n+1)
+	- parent
 ## Properties
 - Every node is either red or black
 - The root is black
