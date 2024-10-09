@@ -16,10 +16,12 @@
 ### Deletion
 - Predecessor and Successor
 - Reach the key, traverse from the root to the key
-#### Scenarios/Rules
+#### Scenarios/Rules (CANNOT DELETE A LEAF ENTIRELY)
 1. If the key k is a part of a leaf node, then just delete the key
 2. Not a leaf, and the key is an internal node
 	1. Look left, and can we bring up a predecessor from a LEAF node with t keys
 	2. If that doesn't work, look right for a successor and do the same.
 	3. If that doesn't work, merge the desired key DOWN into its children, creating a full leaf node, and delete the key
-3. 
+3. If the sub-tree the key is in has t-1 keys in order to prepare for deletion (CANNOT ASCEND DOWN A t-1 NODE)
+	1. From left to right, grab a sibling node by rotating values over.
+	2. If the sibling node does not have at least t keys, merge the parent and two children/sibling nodes
