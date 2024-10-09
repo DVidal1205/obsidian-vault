@@ -90,6 +90,42 @@
       "modifiedDate": 1724183074344,
       "sizeInBytes": 280
     },
+    "School/Fall 2024/COP3503/Lab 3/Backtracking.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726252286516,
+      "modifiedDate": 1726256036831,
+      "sizeInBytes": 458
+    },
+    "School/Fall 2024/COP3503/B-Tree.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726087354652,
+      "modifiedDate": 1726090612716,
+      "sizeInBytes": 1045
+    },
     "School/Fall 2024/COP3503/Red Black Trees.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -126,24 +162,6 @@
       "modifiedDate": 1727732558400,
       "sizeInBytes": 412
     },
-    "School/Fall 2024/COP3503/Lab 3/Backtracking.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726252286516,
-      "modifiedDate": 1726256036831,
-      "sizeInBytes": 458
-    },
     "School/Fall 2024/COP3503/Closest Pair of Points.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -161,24 +179,6 @@
       "createdDate": 1724708604585,
       "modifiedDate": 1726088694412,
       "sizeInBytes": 107
-    },
-    "School/Fall 2024/COP3503/B-Tree.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726087354652,
-      "modifiedDate": 1726090612716,
-      "sizeInBytes": 1045
     },
     "School/Fall 2024/COP3503/Asymptotic Notations.md": {
       "isCountable": true,
@@ -4914,7 +4914,7 @@
       "modifiedDate": 1724173702971,
       "sizeInBytes": 1644
     },
-    "Life/Journal/Daily Notes/2023-11-04.md": {
+    "Life/Journal/Daily Notes/2023-11-03.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -4932,7 +4932,7 @@
       "modifiedDate": 1724173702971,
       "sizeInBytes": 1644
     },
-    "Life/Journal/Daily Notes/2023-11-03.md": {
+    "Life/Journal/Daily Notes/2023-11-04.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 0,
@@ -12384,24 +12384,6 @@
       "modifiedDate": 1724173702723,
       "sizeInBytes": 11014
     },
-    "D&D/Deitara/DM View/Sessions/Session 1.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724173702723,
-      "modifiedDate": 1724173702723,
-      "sizeInBytes": 15421
-    },
     "D&D/Deitara/DM View/Sessions/Session 0.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12419,6 +12401,24 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 12688
+    },
+    "D&D/Deitara/DM View/Sessions/Session 1.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724173702723,
+      "modifiedDate": 1724173702723,
+      "sizeInBytes": 15421
     },
     "D&D/Deitara/DM View/Sacrina/Lesser Sylvanus Sacrina.md": {
       "isCountable": true,
