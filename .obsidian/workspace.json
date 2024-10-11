@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6cdc1037ca25518a",
+        "id": "ffff4858a8664ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "15e0fe4b21466c65",
+            "id": "647813bd79e0a655",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -154,7 +151,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "15e0fe4b21466c65",
+  "active": "647813bd79e0a655",
   "lastOpenFiles": [
     "School/Fall 2024/COP3503/B-Tree.md",
     "conflict-files-obsidian-git.md",
