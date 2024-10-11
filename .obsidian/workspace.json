@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "368b113943e777ce",
+        "id": "ffff4858a8664ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "b8790e3a4a84340f",
+            "id": "647813bd79e0a655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c56d8f07cd264853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Closest Pair of Points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448a084b6c759476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Red Black Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfb0091ebdb9d963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Red Black Trees.md"
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md"
               }
             }
           },
           {
-            "id": "e5ec19ee016730cf",
+            "id": "73aeafe79fe50bc6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,70 +142,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bfb0091ebdb9d963",
+  "active": "647813bd79e0a655",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/B-Tree.md",
-    "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
+    "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
+    "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+    "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
+    "School/Fall 2024/COP3503/Exam 2/Examples",
+    "Obsidian/Attachments/Pasted image 20241011140016.png",
+    "Obsidian/Attachments/Pasted image 20241011135846.png",
+    "Obsidian/Attachments/Pasted image 20241011135717.png",
+    "Obsidian/Attachments/Pasted image 20241011135217.png",
+    "Obsidian/Attachments/Pasted image 20241011135201.png",
+    "School/Fall 2024/COP3503/Exam 2/Probabilistic Data Structures.md",
+    "School/Fall 2024/COP3503/Exam 2/Exam 2 Checklist.md",
+    "School/Fall 2024/COP3503/Exam 1",
+    "School/Fall 2024/COP3503/Exam 2",
+    "School/Fall 2024/COP3503/Exam 2/B-Tree.md",
+    "School/Fall 2024/COP3503/Exam 1/Asymptotic Notations.md",
     "conflict-files-obsidian-git.md",
-    "School/Fall 2024/COP3503/Red Black Trees.md",
-    "School/Fall 2024/COP3503/Closest Pair of Points.md",
-    "School/Fall 2024/IDH1920/8-27.md",
-    "School/Fall 2024/IDH1920/Test.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+    "Obsidian/Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
+    "Life/SWE/Project Launch/Web Development Presentation.md",
+    "Life/SWE/Project Launch/Full-stack Tooling.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
-    "D&D/Miravalis/Game Information/Statblocks/Cambion.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
-    "School/Fall 2024/COP3503/Asymptotic Notations.md",
     "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
     "School/Fall 2024/COP3503/Lab 3",
     "Obsidian/Attachments/Pasted image 20240913131009.png",
     "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",
-    "School/Fall 2024/BSC2010/Lecture/8-26.md",
+    "School/Fall 2024/IDH1920/8-27.md",
+    "School/Fall 2024/COP3503/Exam 1/Closest Pair of Points.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/BSC2010/Lecture/8-28.md",
-    "School/Fall 2024/BSC2010/Lecture/8-21.md",
-    "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
-    "Obsidian/Attachments/Asymptotic Notations 2024-08-30 14.31.44.excalidraw.md",
-    "School/Fall 2024/IDH1920/8-20.md",
+    "School/Fall 2024/BSC2010/Lecture/8-26.md",
     "Obsidian/Attachments/Pasted image 20240830123927.png",
+    "Obsidian/Attachments/Asymptotic Notations 2024-08-30 14.31.44.excalidraw.md",
+    "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
     "Excalidraw",
-    "School/Fall 2024/CAP4102/Untitled.md",
+    "School/Fall 2024/BSC2010/Lecture/8-21.md",
+    "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/BSC2010/Lecture",
+    "School/Fall 2024/IDH1920/Test.md",
     "School/Fall 2024/BSC2010/Lab/LAB 0.md",
     "School/Fall 2024/BSC2010/Lab",
-    "Life/Journal/Daily Notes/2024-08-20.md",
     "TL",
-    "Obsidian/Excalidraw/Review 2024-03-27 15.38.46.excalidraw.md",
-    "Obsidian/Excalidraw/Drawing 2024-02-29 17.29.54.excalidraw.md",
-    "Obsidian/Excalidraw/Lootcode 2024-02-29 19.36.57.excalidraw.md",
     "Obsidian/Excalidraw",
     "Life/SWE/KnightHacks/OPS",
-    "Life/SWE/ICPC/Practice Problems",
-    "Life/SWE/ICPC/Lectures",
-    "Life/SWE/Project Wildspace",
     "D&D/Deitara/Images/Tree.png",
-    "D&D/Deitara/Images/Technora.png",
-    "D&D/Deitara/Images/Tattoo.png",
-    "D&D/Deitara/Images/Symbol 2.png",
-    "D&D/Deitara/Images/Symbol 1.png",
-    "D&D/Deitara/Images/Seranis.png",
-    "D&D/Deitara/Images/Resource Images/Ranged Fumble.png"
+    "D&D/Deitara/Images/Technora.png"
   ]
 }
