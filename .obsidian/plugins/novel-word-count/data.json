@@ -7002,24 +7002,6 @@
       "modifiedDate": 1724299623494,
       "sizeInBytes": 3051
     },
-    "Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1725137043145,
-      "modifiedDate": 1725137043509,
-      "sizeInBytes": 9736
-    },
     "D&D/Miravalis/Player View/Territories/Starless Swamps/Starless Swamps.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12527,6 +12509,42 @@
       "createdDate": 1728613826003,
       "modifiedDate": 1728613826003,
       "sizeInBytes": 1088
+    },
+    "Obsidian/Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728614091875,
+      "modifiedDate": 1728614092183,
+      "sizeInBytes": 9736
+    },
+    "conflict-files-obsidian-git.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 683,
+      "nonWhitespaceCharacterCount": 578,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728614092071,
+      "modifiedDate": 1728614092403,
+      "sizeInBytes": 683
     }
   }
 }
