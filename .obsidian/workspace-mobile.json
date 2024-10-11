@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7d28db30e74fa83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+            "file": "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
+            "file": "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
+            "file": "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md"
           }
         }
       }
@@ -133,8 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e61024f6dbab8ebe",
+  "active": "a7d28db30e74fa83",
   "lastOpenFiles": [
+    "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
+    "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
+    "School/Fall 2024/COP3503/Asymptotic Notations.md",
+    "School/Fall 2024/COP3503/Exam 2/Examples",
+    "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+    "School/Fall 2024/COP3503/Exam 2/Probabilistic Data Structures.md",
+    "School/Fall 2024/COP3503/Exam 2/Exam 2 Checklist.md",
+    "School/Fall 2024/COP3503/Exam 2/B-Tree.md",
+    "School/Fall 2024/COP3503/Exam 2",
+    "School/Fall 2024/COP3503/Exam 1/Closest Pair of Points.md",
+    "School/Fall 2024/COP3503/Exam 1/Asymptotic Notations.md",
+    "School/Fall 2024/COP3503/Exam 1",
+    "Obsidian/Attachments/Pasted image 20241011140016.png",
+    "Obsidian/Attachments/Pasted image 20241011135846.png",
+    "Obsidian/Attachments/Pasted image 20241011135717.png",
+    "Obsidian/Attachments/Pasted image 20241011135217.png",
+    "Obsidian/Attachments/Pasted image 20241011135201.png",
     "School/Fall 2024/COP3503/B-Tree.md",
     "Life/Journal/Daily Notes/2024-06-18.md",
     "Life/Journal/Daily Notes/2024-06-03.md",
@@ -151,4 +179,18 @@
     "School/Spring 2024/COP3502/Quiz 2/Review Topics.md",
     "School/Spring 2024/COP3502/Quiz 2",
     "School/Spring 2024/REL3930/Module 3/You're the Professor.md",
-    "School/Spring 2024/RE
+    "School/Spring 2024/REL3930/Module 3/Ray Buckner.md",
+    "School/Spring 2024/REL3930/Module 3/Documentary.md",
+    "School/Spring 2024/REL3930/Module 3",
+    "Obsidian/Attachments/Pasted image 20240229164000.png",
+    "Obsidian/Attachments/Pasted image 20240229155647.png",
+    "Obsidian/Attachments/Pasted image 20240229161212.png",
+    "Obsidian/Attachments/Pasted image 20240229161336.png",
+    "Obsidian/Attachments/Pasted image 20240229155602.png",
+    "Obsidian/Excalidraw 1",
+    "School/Spring 2024/REL3930/Module 2 - Buddhism",
+    "SWE/Project Launch",
+    "SWE/Events",
+    "Design Jam"
+  ]
+}
