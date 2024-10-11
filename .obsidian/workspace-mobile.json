@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Journal/Daily Notes/2024-06-18.md",
+                "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Life/Journal/Daily Notes/2024-06-18.md",
+            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Life/Journal/Daily Notes/2024-06-18.md",
+            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Life/Journal/Daily Notes/2024-06-18.md"
+            "file": "School/Fall 2024/COP3503/Asymptotic Notations.md"
           }
         }
       }
@@ -123,6 +123,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -131,10 +133,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e61024f6dbab8ebe",
+  "active": "e0b26935c32b02a1",
   "lastOpenFiles": [
-    "Life/Journal/Daily Notes/2024-06-03.md",
+    "School/Fall 2024/COP3503/B-Tree.md",
     "Life/Journal/Daily Notes/2024-06-18.md",
+    "Life/Journal/Daily Notes/2024-06-03.md",
     "Life/Journal/Daily Notes/2024-05-27.md",
     "Life/Journal/Daily Notes/2024-04-24.md",
     "Life/Journal/Daily Notes/2024-04-08.md",
@@ -160,7 +163,6 @@
     "D&D/Player View/Session Summaries/Session 011 Summary.md",
     "School/Spring 2024/COT3100/Unit 5 - Induction and Recursion.md",
     "D&D/Player View/Session Summaries/Session 010 Summary.md",
-    "D&D/Game Information/Sessions/Session 010.md",
     "Obsidian/Attachments/Pasted image 20240229164000.png",
     "Obsidian/Attachments/Pasted image 20240229155647.png",
     "Obsidian/Attachments/Pasted image 20240229161212.png",
