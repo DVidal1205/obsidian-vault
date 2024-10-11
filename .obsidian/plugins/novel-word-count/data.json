@@ -12653,6 +12653,24 @@
       "createdDate": 1728670989972,
       "modifiedDate": 1728670990516,
       "sizeInBytes": 39
+    },
+    "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 572,
+      "nonWhitespaceCharacterCount": 468,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728675741353,
+      "modifiedDate": 1728675907821,
+      "sizeInBytes": 572
     }
   }
 }

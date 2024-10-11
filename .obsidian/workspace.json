@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md"
+                "file": "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +160,9 @@
   },
   "active": "647813bd79e0a655",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
     "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
+    "School/Fall 2024/COP3503/Exam 2/Disjoint Sets.md",
+    "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
     "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
     "School/Fall 2024/COP3503/Exam 2/Examples",
     "Obsidian/Attachments/Pasted image 20241011140016.png",
@@ -200,7 +200,6 @@
     "School/Fall 2024/IDH1920/8-20.md",
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/IDH1920/Test.md",
-    "School/Fall 2024/BSC2010/Lab/LAB 0.md",
     "School/Fall 2024/BSC2010/Lab",
     "TL",
     "Obsidian/Excalidraw",
