@@ -16,10 +16,37 @@
 - Searching a RBT is hard, but insertion and deletion are quick.
 - AVL's are better for searching
 ## Rotations
+### Left Rotation
+![[Pasted image 20241011135201.png]]
+### Right Rotation
+![[Pasted image 20241011135217.png]]
+
 
 ## Insertion
+1. Insert Z and color it red
+2. Fix violations
+
 - Create a red node with NIL pointers.
 - Perform BST insertion, and color it red on insertion.
+
+0. Z = root
+	- Insert and color Z black
+1. Z uncle = Red
+	- Invert color of parent, grandparent, and uncle
+1. Z uncle = black (triangle)
+	- Z, parent, and grandparent form a triangle
+![[Pasted image 20241011135717.png]]
+
+- Rotate the parent, doing so in the opposite direction of Z so Z takes the place of the parent
+1. Z uncle = black (line)
+![[Pasted image 20241011135846.png]]
+	- Rotate Z's grandparent away from Z, so its parent becomes the grandparent
+	- Recolor original parent and grandparent
+![[Pasted image 20241011140016.png]]
+
+
+
+
 - CASE 1 (Z's Uncle Y is Red)
 	- Change Z Parent and Uncle both to black
 	- Change Z Grandparent to read

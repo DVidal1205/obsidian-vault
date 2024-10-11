@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "647813bd79e0a655",
+  "active": "e53f0df2cd4c7d9e",
   "lastOpenFiles": [
+    "School/Fall 2024/COP3503/Exam 2/Examples",
+    "Obsidian/Attachments/Pasted image 20241011140016.png",
+    "Obsidian/Attachments/Pasted image 20241011135846.png",
+    "Obsidian/Attachments/Pasted image 20241011135717.png",
+    "Obsidian/Attachments/Pasted image 20241011135217.png",
+    "Obsidian/Attachments/Pasted image 20241011135201.png",
     "School/Fall 2024/COP3503/Exam 2/Probabilistic Data Structures.md",
     "School/Fall 2024/COP3503/Exam 2/Exam 2 Checklist.md",
     "School/Fall 2024/COP3503/Exam 1",
@@ -200,11 +205,6 @@
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "D&D/Deitara/Images/Tree.png",
-    "D&D/Deitara/Images/Technora.png",
-    "D&D/Deitara/Images/Tattoo.png",
-    "D&D/Deitara/Images/Symbol 2.png",
-    "D&D/Deitara/Images/Symbol 1.png",
-    "D&D/Deitara/Images/Seranis.png",
-    "D&D/Deitara/Images/Resource Images/Ranged Fumble.png"
+    "D&D/Deitara/Images/Technora.png"
   ]
 }
