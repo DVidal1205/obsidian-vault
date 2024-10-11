@@ -46,14 +46,26 @@
 
 
 
+## Deletion
+X is the node deleted, and W is the sibling of X
 
-- CASE 1 (Z's Uncle Y is Red)
-	- Change Z Parent and Uncle both to black
-	- Change Z Grandparent to read
-	- Recursively make the grandparent the Z node
-- CASE 2 (Z's Uncle Y is Black and Z is a right child)
-	- Perform a left rotation on Z's parent
-- CASE 3 (Z's Uncle Y is Black and Z is a left child)
-	- Change Z's parent to the color black
-	- Change Z's grandparent to the color red
-	- Perform a right rotation on Z's grandparent
+Case 1: X's Sibling W is red.
+- Change sibling to black
+- Change parent to red
+- Rotate towards the deleted node
+- Reassign W to the new sibling
+
+Case 2: X's Sibling W is black AND both of W's children are black
+- Change sibling to red
+- Set X to parent 
+
+Case 3: X's sibling W is black, W's left child is red and W's right child is black
+- Recolor the left red node to black
+- Recolor W to red
+- Rotate right at W (away from former red child)
+
+Case 4: X's sibling W is black, W's right child is red and W's left child is black
+- Recolor W to X's parent color
+- Color X's Parent to Black
+- Color W's right child to black
+- Rotate the parent towards X
