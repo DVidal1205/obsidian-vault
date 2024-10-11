@@ -1,10 +1,10 @@
 ## Topics to Cover
-- [ ] B-Tree deletion
+- [x] B-Tree deletion
 - [ ] Red Black Trees
-	- [ ] Insertion
+	- [x] Insertion
 	- [ ] Deletion
-	- [ ] AVL vs. Red Black
-- [ ] Disjoint Sets
+	- [x] AVL vs. Red Black
+- [x] Disjoint Sets
 - [ ] Treaps
 - [ ] Skip Lists
 - [ ] Bloom Filters
