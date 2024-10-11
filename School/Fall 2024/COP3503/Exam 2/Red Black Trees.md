@@ -55,4 +55,17 @@ Case 1: X's Sibling W is red.
 - Rotate towards the deleted node
 - Reassign W to the new sibling
 
-Case 2: X's Sibling W is black.
+Case 2: X's Sibling W is black AND both of W's children are black
+- Change sibling to red
+- Set X to parent 
+
+Case 3: X's sibling W is black, W's left child is red and W's right child is black
+- Recolor the left red node to black
+- Recolor W to red
+- Rotate right at W (away from former red child)
+
+Case 4: X's sibling W is black, W's right child is red and W's left child is black
+- Recolor W to X's parent color
+- Color X's Parent to Black
+- Color W's right child to black
+- Rotate the parent towards X
