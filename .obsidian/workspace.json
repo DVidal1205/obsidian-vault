@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2d2bac4e9dfb6c",
+        "id": "6cdc1037ca25518a",
         "type": "tabs",
         "children": [
           {
-            "id": "edaba8912f9e5ce7",
+            "id": "15e0fe4b21466c65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/SWE/Project Launch/Web Development Presentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a0308d41c843d30a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a61b4c47589621b1",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/SWE/Project Launch/Web Development Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/SWE/Project Launch/Web Development Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Life/SWE/Project Launch/Web Development Presentation.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "e5ec19ee016730cf",
+            "id": "73aeafe79fe50bc6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,14 +150,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edaba8912f9e5ce7",
+  "active": "15e0fe4b21466c65",
   "lastOpenFiles": [
+    "Life/SWE/Project Launch/Web Development Presentation.md",
+    "conflict-files-obsidian-git.md",
+    "School/Fall 2024/COP3503/Red Black Trees.md",
+    "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
     "Life/SWE/Project Launch/Full-stack Tooling.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
     "School/Fall 2024/COP3503/Asymptotic Notations.md",
-    "conflict-files-obsidian-git.md",
     "School/Fall 2024/COP3503/Lab 3/Backtracking.md",
     "School/Fall 2024/COP3503/Lab 3",
     "School/Fall 2024/COP3503/B-Tree.md",
@@ -206,9 +187,6 @@
     "Obsidian/Excalidraw/Drawing 2024-02-29 17.29.54.excalidraw.md",
     "Obsidian/Excalidraw/Lootcode 2024-02-29 19.36.57.excalidraw.md",
     "Obsidian/Excalidraw",
-    "Life/SWE/KnightHacks/OPS/2024-2-5.md",
-    "Life/SWE/KnightHacks/OPS/2024-2-19.md",
-    "Life/SWE/KnightHacks/OPS/2024-2-12.md",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
     "Life/SWE/ICPC/Lectures",
