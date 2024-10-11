@@ -12,10 +12,11 @@
 - Every leaf is black and NIL
 - If a node is red, then both the children are black
 - For each node, all simple paths from the node to descendant leaves contains the same number of black nodes.
-- All new nodes are inserted as red
 ## AVL vs RBT
 - Searching a RBT is hard, but insertion and deletion are quick.
 - AVL's are better for searching
+## Rotations
+
 ## Insertion
 - Create a red node with NIL pointers.
 - Perform BST insertion, and color it red on insertion.

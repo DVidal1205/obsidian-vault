@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2 Checklist.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2 Checklist.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2 Checklist.md",
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 2 Checklist.md"
+                "file": "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +161,15 @@
   },
   "active": "647813bd79e0a655",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/B-Tree.md",
-    "School/Fall 2024/COP3503/Exam 2 Checklist.md",
-    "School/Fall 2024/COP3503/Asymptotic Notations.md",
+    "School/Fall 2024/COP3503/Exam 2/Probabilistic Data Structures.md",
+    "School/Fall 2024/COP3503/Exam 2/Exam 2 Checklist.md",
+    "School/Fall 2024/COP3503/Exam 1",
+    "School/Fall 2024/COP3503/Exam 2",
+    "School/Fall 2024/COP3503/Exam 2/B-Tree.md",
+    "School/Fall 2024/COP3503/Exam 1/Asymptotic Notations.md",
     "conflict-files-obsidian-git.md",
     "Obsidian/Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
-    "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
-    "School/Fall 2024/COP3503/Red Black Trees.md",
+    "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",
     "Life/SWE/Project Launch/Web Development Presentation.md",
     "Life/SWE/Project Launch/Full-stack Tooling.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
@@ -177,7 +180,7 @@
     "Obsidian/Attachments/Pasted image 20240913131009.png",
     "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",
     "School/Fall 2024/IDH1920/8-27.md",
-    "School/Fall 2024/COP3503/Closest Pair of Points.md",
+    "School/Fall 2024/COP3503/Exam 1/Closest Pair of Points.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/BSC2010/Lecture/8-28.md",
     "School/Fall 2024/BSC2010/Lecture/8-26.md",
@@ -193,12 +196,9 @@
     "School/Fall 2024/BSC2010/Lab",
     "Life/Journal/Daily Notes/2024-08-20.md",
     "TL",
-    "Obsidian/Excalidraw/Review 2024-03-27 15.38.46.excalidraw.md",
     "Obsidian/Excalidraw",
     "Life/SWE/KnightHacks/OPS",
     "Life/SWE/ICPC/Practice Problems",
-    "Life/SWE/ICPC/Lectures",
-    "Life/SWE/Project Wildspace",
     "D&D/Deitara/Images/Tree.png",
     "D&D/Deitara/Images/Technora.png",
     "D&D/Deitara/Images/Tattoo.png",
