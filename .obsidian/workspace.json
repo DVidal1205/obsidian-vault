@@ -30,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4d60d5406f70916",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".gitignore",
-                "staged": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md"
+              }
             }
           },
           {
@@ -178,7 +171,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4d60d5406f70916",
+  "active": "829f92fab96f8894",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
