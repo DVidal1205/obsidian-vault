@@ -1,0 +1,1 @@
+![[Disjoint 2024-10-11 16.09.16.excalidraw]]

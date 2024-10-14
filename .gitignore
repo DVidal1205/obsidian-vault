@@ -1,3 +1,5 @@
 *.pdf
 /.trash
 .trash
+.obsidian/plugins/novel-word-count/*
+.obsidian/workspace.json
