@@ -14,3 +14,10 @@
 - Photoautotrophs use light energy
 ### Heterotroph
 - Get organic material from other organisms
+### Anatomy of  a Chloroplast
+- Where you see green
+- Thylakoid: Phospholipid Bilayer
+- Stomata: Entrance and Exit for Oxygen and Carbon Dioxide 
+- Granum: Space between the outer membrane
+- Green is the only light NOT used
+### Stages of Photosynthesis
