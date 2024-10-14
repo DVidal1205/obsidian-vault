@@ -21,3 +21,17 @@
 - Granum: Space between the outer membrane
 - Green is the only light NOT used
 ### Stages of Photosynthesis
+#### Light Reactions
+- Occur in the Thylakoid Membranes
+- Splits water
+- Releases Oxygen
+- Produces ATP & NADPH
+	- ATP is made in House and USED in the Chloroplast to keep photosynthesis going
+	- NADPH is the electron shuttle in Photosynthesis
+#### Calvin Cycle
+- Occurs in the Stroma
+- Forms sugar from CO2
+- Uses ATP and NADPH from light reactions
+#### Relationship
+- Light gives ATP and NADPH (non-oxidized) to Calvin. Light + H2O Input
+- Calvin gives NADP+ and ADP + P to Light. CO2 Input
