@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
+                "file": "School/Fall 2024/BSC2010/Lab/LAB 0.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d7899810499bc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Fall 2024/BSC2010/Lab/LAB 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "652a190805f7d89b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f32323900370b9a5",
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
+                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
+                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md"
+                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md"
               }
             }
           },
@@ -155,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +195,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "829f92fab96f8894",
+  "active": "652a190805f7d89b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Obsidian/Attachments/Pasted Image 20241015131903_781.png",
+    "School/Fall 2024/BSC2010/Lab/LAB 9.md",
+    "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
+    "School/Fall 2024/BSC2010/Lab/LAB 0.md",
     "School/Fall 2024/COP3503/Chapter 8 - Photosynthesis.md",
+    "School/Fall 2024/COP3503/Untitled.md",
+    "School/Fall 2024/BSC2010/Lab/Light Reactions Flowchart Activity.docx",
+    "School/Fall 2024/BSC2010/Lab/Light Reaactions Flowchart Blank.docx",
+    "conflict-files-obsidian-git.md",
     "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
     "School/Fall 2024/COP3503/Exam 2/Examples/Disjoint.md",
     "School/Fall 2024/COP3503/Exam 2/Skip Lists.md",
@@ -203,11 +234,6 @@
     "School/Fall 2024/COP3503/Closest Pair of Points.md",
     "School/Fall 2024/IDH1920/8-27.md",
     "School/Fall 2024/IDH1920/Test.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 4.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 10.md",
-    "D&D/Miravalis/Game Information/Statblocks/Cambion.md",
-    "School/Fall 2024/BSC2010/Lecture/Chapter 3.md",
     "School/Fall 2024/COP3503/Lab 3",
     "Obsidian/Attachments/Pasted image 20240913131009.png",
     "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",
@@ -216,8 +242,6 @@
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/BSC2010/Lab",
     "TL",
-    "Obsidian/Excalidraw",
-    "Life/SWE/KnightHacks/OPS",
     "D&D/Deitara/Images/Tree.png"
   ]
 }
