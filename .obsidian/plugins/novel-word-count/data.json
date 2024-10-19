@@ -13031,6 +13031,24 @@
       "createdDate": 1729372550254,
       "modifiedDate": 1729372550254,
       "sizeInBytes": 842930
+    },
+    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 155,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 1014,
+      "nonWhitespaceCharacterCount": 853,
+      "readingTimeInMinutes": 0.5849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729374546989,
+      "modifiedDate": 1729374979722,
+      "sizeInBytes": 1014
     }
   }
 }
