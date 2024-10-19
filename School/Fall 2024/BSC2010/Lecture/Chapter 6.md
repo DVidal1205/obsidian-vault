@@ -47,8 +47,19 @@ Thermodynamics is the study of energy and energy transfer, focusing on a system,
 The cellular currency of energy, carrying high potential energy within its chemical bonds.
 Adenosine is a nucleoside consisting of three nitrogenous base adenine and a five carbon sugar, ribose
 ![[Pasted image 20241019165354.png]]
-The three phopshate groups, in order of closest fo furthest from ribose, are alpha, beta, and gamma.
+The three phopshate groups, in order of closest to furthest from ribose, are alpha, beta, and gamma.
 These high energy bonds are the bonds between the second and third, and the first and second. They are high energy because the products are ADP and an inorganic phosphate Pi have much less free energy than the reactants (ATP + H2O)
 ![[Pasted image 20241019165621.png]]
 Reversible
 ![[Pasted image 20241019165632.png]]
+The ATP production primarily fuels the sodium-potassium pump through phosphorylation, or the bonding of one of the three phosphate groups
+
+## Enzymes
+A substance that helps a chemical reaction to occur is a catalyst, and the molecules that catalyze biochemical reactions are enzymes, usually proteins. They lower the activation energies of chemical reactions by binding to reactant molecules, and holding them in a way to make the bond breaking process more available. They do NOT change exergonic or endergonic.
+![[Pasted image 20241019170051.png]]
+### Enzyme Active Site and Substrate Specificity
+The chemical reactants to which an enzyme binds is the substrates. There may be one or more substrates. The location where the enzyme binds is the active site, and where the action happens.
+Enzymes are known for their specificity, perfectly bonding to substrates they are made for. Heat and pH can modify the reactivity of an enzyme.
+### Induced fit
+As the enzyme and substrate come together, their interaction cases a mild shift in the structure that confirms an ideal binding. When bound, they form the enzyme-substrate complex, which lowers the activation energy.
+### Metabolism Control through Enzyme Regulation
