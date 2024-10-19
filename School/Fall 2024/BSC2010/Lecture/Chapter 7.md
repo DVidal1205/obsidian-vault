@@ -8,4 +8,7 @@ Energy production within a cell involves many coordinated chemical pathways. Mos
 - Usually occur together and are called redox reactions
 The removal of an electron results in a decrease in potential energy, and vise versa for the addition of one. The transfer of electrons between molecules causes changes in potential energy and is important because it allows cells to transfer energy.
 ### Electron Carriers
-In living systems, a small class of compounds function as electron shuttles. **NAD+**, or Nicotinamide Adenine Dinucleotide is derived from vitamin B3, niacin. It is the oxidized form of the molecule **NADH** after it has accepted two electrons and a proton.
+In living systems, a small class of compounds function as electron shuttles. **NAD+**, or Nicotinamide Adenine Dinucleotide is derived from vitamin B3, niacin. It is the oxidized form of the molecule **NADH** after it has accepted two electrons and a proton. Additionally, **FAD+** or falvin adenine dinucleotide is derived from riboflavin and its reduced form is FADH2.
+FAD+ and NAD+ are used in energy extraction from sugars and NADP plays an important role in anabolic reactions and photosynthesis in plants.
+### ATP in Living Systems
+
