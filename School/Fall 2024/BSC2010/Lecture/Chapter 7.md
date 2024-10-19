@@ -47,4 +47,16 @@ Prior to the first step, a transitional phase occurs during which pyruvic acid i
 ### Products of the Citric Acid Cycle
 Two carbon atoms come into the citric acid cycle from each acetyl group, representing four out of the six carbons of one glucose moelcule. Two CO2 molecules are released on each turn of the cycle but do not contain the most recently added carbon atoms. Each turn of the cycle forms three NADH molecules and one FAD2 molecules, which are carriers that will connect the last portion of aerobic respiration, the electron transport chain, to produce more ATP. 
 ## Oxidative Phosphorylation
-Most of the ATP generated during the aerobic catabolism of glucose is not generated directly from glycolysis and the citric acid cycle. Instead, it is derived from a process that begins by moving electrons through a series of carriers that undergo redox reactions, causing hydrogen ions to accumulate within the intermembrane space of the mitochondria. The concentration gradient forms in which hydrogen ions diffuse out of the membrane into the matrix by passing through ATP synthase. ATP synthase uses the ions to power the catalytic action of ATP sybth
+Most of the ATP generated during the aerobic catabolism of glucose is not generated directly from glycolysis and the citric acid cycle. Instead, it is derived from a process that begins by moving electrons through a series of carriers that undergo redox reactions, causing hydrogen ions to accumulate within the intermembrane space of the mitochondria. The concentration gradient forms in which hydrogen ions diffuse out of the membrane into the matrix by passing through ATP synthase. ATP synthase uses the ions to power the catalytic action of ATP synthase, which phosphorylates ADP, producing ATP.
+### Electron Transport Chain
+The ETC is a series of redox reactions that resemble a relay race of electrons passed from one component to the next, the endpoint being where the electrons reduce molecular oxygen, and produces water.
+1. Two electrons are carried to the transport chain via NADH.
+2. Carrier molecules in Complex I pump four hydrogen ions across the membrane from the matrix into the intermembrane space creating the ion gradient.
+3. Complex II receives electrons from FADH2. This creates ubiquinone, which delivers electrons to complex III. 
+4. Complex III is composed of cytochrome b and pumps protons tp Complex IV
+5. Complex IV is composed of chytochrome proteins c, a, and a3. These hold an oxygen molecule tightly until the oxygen is reduced by two electrons, which then picks up two hydrogen ions and creates H2O. The removal of hydrogen ions from the system contributes to the ion gradient for chemiosmosis
+### Chemiosmosis
+In chemiosmosis, the free energy from the redox reactions is used to fuel hydrogen pumps. These hydrogen ions seek to move into the mitochondrial membrane due to the gradient, but mast pass through ATP synthase first. This complex protein acts as a generated, turned by the force of hydrogen ion diffusing. This machine turns ADP + Pi into ATP, using the potential energy of the gradient.
+Chemiosmosis produces 90 percent of ATP made during aerobic glucose catabolism, and is the method used in light reactions of photosynthesis to use the sun.
+### ATP Yield
+Overall, these pathways extract about 34 percent of the energy contained in glucose, with the remainder being released as heat.
