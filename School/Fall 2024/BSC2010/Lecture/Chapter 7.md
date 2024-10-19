@@ -60,3 +60,7 @@ In chemiosmosis, the free energy from the redox reactions is used to fuel hydrog
 Chemiosmosis produces 90 percent of ATP made during aerobic glucose catabolism, and is the method used in light reactions of photosynthesis to use the sun.
 ### ATP Yield
 Overall, these pathways extract about 34 percent of the energy contained in glucose, with the remainder being released as heat.
+## Metabolism without Oxygen
+If aerobic respiration does not occur, NADH must be reoxidized to NAD+ for resuse as electron carrier for the glyoclytic pathway to continue. How is this done? Some systems use organic molecules as the final electron acceptors in a process called fermentation.
+### Anaerobic Cellular Respiration
+Certain prokaryotes, including species in the domains Bacteria nad Archaea, use anaerobic resporation. A group of archaeans called methanogens reduce CO2 i
