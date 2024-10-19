@@ -21,3 +21,5 @@ Most of the ATP generated during glucose catabolism, however, is derived from a 
 ## Glycolysis
 Glycolysis is the first step in the breakdown of glucose to extract energy for cellular metabolism. Nearly all living organisms carry out glycolysis. The process does not use oxygen directly and is *anaerobic* and takes place in the cytoplasm.
 Glycolysis begins with a six-carbon ring-shaped structure of a single glucose and ends with two molecules of a three-carbon sugar called pyruvate. The glycolysis pathway consists of two major steps.
+### 1st Half of Glycolysis (energy Requiring steps)
+Products of this reaction will serve as reactants for the next one. These reactions can be divided into two types, the first being investment steps, and the rest being energy releasing steps.
