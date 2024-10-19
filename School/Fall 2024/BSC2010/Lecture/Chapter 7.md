@@ -17,4 +17,7 @@ The hydrolysis of ATP produces ADP and inorganic phopsphate Pi, and the release 
 Like a battery, ATP is broken into ADP, and ADP is regenerated into ATP
 ### Phosphorylation
 ATP is generated through two mechanisms during the breakdown of glucose. ATP is broken in catabolic pathways to ADP, and the free energy created helps attach a phosphate group to ADP
-Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process called **chemiosmosis** which takes place in the mitochondria, which generates 90 percen
+Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process called **chemiosmosis** which takes place in the mitochondria, which generates 90 percent of the ATP made during glucose catabolism. This is called oxidative phosphorylation because it requires oxygen.
+## Glycolysis
+Glycolysis is the first step in the breakdown of glucose to extract energy for cellular metabolism. Nearly all living organisms carry out glycolysis. The process does not use oxygen directly and is *anaerobic* and takes place in the cytoplasm.
+Glycolysis begins with a six-carbon ring-shaped structure of a single glucose and ends with two molecules of a three-carbon sugar called pyruvate. The glycolysis pathway consists of two major steps.
