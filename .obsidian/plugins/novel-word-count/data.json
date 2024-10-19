@@ -13036,19 +13036,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 777,
+      "wordCount": 1120,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.59,
-      "characterCount": 4882,
-      "nonWhitespaceCharacterCount": 4090,
-      "readingTimeInMinutes": 2.9320754716981132,
+      "pageCount": 3.7333333333333334,
+      "characterCount": 6975,
+      "nonWhitespaceCharacterCount": 5834,
+      "readingTimeInMinutes": 4.226415094339623,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 2,
       "aliases": null,
       "createdDate": 1729374546989,
-      "modifiedDate": 1729378042451,
-      "sizeInBytes": 4882
+      "modifiedDate": 1729378642156,
+      "sizeInBytes": 6975
     },
     "Obsidian/Attachments/Pasted image 20241019183956.png": {
       "isCountable": false,
@@ -13067,6 +13067,24 @@
       "createdDate": 1729377596853,
       "modifiedDate": 1729377596853,
       "sizeInBytes": 891395
+    },
+    "Obsidian/Attachments/Pasted image 20241019184958.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1729378198478,
+      "modifiedDate": 1729378198478,
+      "sizeInBytes": 265150
     }
   }
 }

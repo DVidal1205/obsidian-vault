@@ -37,4 +37,14 @@ If oxygen is available, aerobic respiration will go forward and the pyruvate mol
 Step 1. A carboxyl group is removed from pyruvate releasing a molecule of carbon dioxide. This creates a two-carbon hydroxyethyl group bound to the enzyme pyruvate dehydrogenase. This step happens twice, this two of the six carbons has been removed
 Step 2. The hdryoxyethyl group is oxidized into an acetyl group and electrons are picked up by NAD+, forming NADH. The high energy NADH will be used to generate ATP.
 Step 3. The enzyme bound acetyl group is transferred to CoA, producing a molecule of acetyl CoA. 
-The carbon released gets bound to O2, creating carbon dio
+The carbon released gets bound to O2, creating carbon dioxide
+### Acetyl CoA to CO2
+In the presence of oxygen, acetyl CoA delivers the Acetyl group to a four carbon molecule, oxaloacetate to form citrate, a six carbon molecule with three carboxyl groups. This takes us to the Citric Acid Cycle
+### Citric Acid Cycle
+The citric acid cycle takes place in the matrix of the mitochondria in a closed loop. This last part of the pathway regenrates the compounds used in the first step, since the term cycle. This is an aurobix pathway because NADH and FADH2 produced must transfer their electrons to the next pathway, which will use oxygen. This produces very little ATP and does not directly consume oxygen.
+![[Pasted image 20241019184958.png]]
+Prior to the first step, a transitional phase occurs during which pyruvic acid is converted to acetyl CoA. Then the first step of the cycle begins, combining the two-carbon acetyl group with a four-carbon oxalecetate to form citrate. CO2 is produced, and NAD+ is reduced to NADH. Electrons are also given to FAD, creating FADH2.
+### Products of the Citric Acid Cycle
+Two carbon atoms come into the citric acid cycle from each acetyl group, representing four out of the six carbons of one glucose moelcule. Two CO2 molecules are released on each turn of the cycle but do not contain the most recently added carbon atoms. Each turn of the cycle forms three NADH molecules and one FAD2 molecules, which are carriers that will connect the last portion of aerobic respiration, the electron transport chain, to produce more ATP. 
+## Oxidative Phosphorylation
+Most of the ATP generated during the aerobic catabolism of glucose is not generated directly from glycolysis and the citric acid cycle. Instead, it is derived from a process that begins by moving electrons through a series of carriers that undergo redox reactions, causing hydrogen ions to accumulate within the intermembrane space of the mitochondria. The concentration gradient forms in which hydrogen ions diffuse out of the membrane into the matrix by passing through ATP synthase. ATP synthase uses the ions to power the catalytic action of ATP sybth
