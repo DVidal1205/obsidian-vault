@@ -63,3 +63,13 @@ Enzymes are known for their specificity, perfectly bonding to substrates they ar
 ### Induced fit
 As the enzyme and substrate come together, their interaction cases a mild shift in the structure that confirms an ideal binding. When bound, they form the enzyme-substrate complex, which lowers the activation energy.
 ### Metabolism Control through Enzyme Regulation
+Since the rates of biochemical reactions are controlled by activation energy, enzymes lower and determine activation energies for chemical reactions. The variety of enzymes in a cell ultimately determines which reactions will proceed at which rates, which is highly controlled.
+An inhibitor molecule may be produced which is similar enough to a substrate that it binds to the active site and blocks the substrate. This is called competitive inhibition.
+![[Pasted image 20241019171042.png]]
+Some inhibitor molecules bind to enzymes in a location where their binding induces a conformation change that reduces the enzyme's affinity for its substrate. This is an allosteric inhibition. There are also allosteric activators which attach to enzymes and make them MORE likely to bind.
+### Enzyme Compartmentalization
+Eukaryotic cells store enzymes with intent, like digestive enzymes with Lysosomes
+### Feedback Inhibition in Metabolic Pathways
+Feedback Inhibition involves using a reaction product to regulate its own further production. The cell responds to an abundance of specific products by slowing down the production during anabolic or catabolic reactions.
+![[Pasted image 20241019171550.png]]
+Producing both amino acids and nucleotides is controlled through feedback inhibition. Additionally, ATP is an allosteric regulator of some of the enzymes involved in sugar's catabolic breakdown, the process that produces ATP. In this way, when ATP is abundant, the cell can prevent its further production. Remember that ATP is an unstable molecule that can spontaneously dissociate into ADP. If too much ATP were present in a cell, much of it would go to waste. Alternatively, ADP serves as a positive allosteric regulator (an allosteric activator) for some of the same enzymes that ATP inhibits. Thus, when relative ADP levels are high compared to ATP, the cell is triggered to produce more ATP through sugar catabolism.
