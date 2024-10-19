@@ -41,3 +41,14 @@ Thermodynamics is the study of energy and energy transfer, focusing on a system,
 - In every energy transfer, some amount of energy is lost in a form that is unusable. 
 - This makes cell growth hard.
 - Entropy is random movement, and more entropy means more energy lost to external systems
+### Transfer of Energy & Entropy
+- Entropy is natural, and requires energy to maintain order. This is why cells are in a constant uphill battle against energy.
+## ATP: Adenosine Triphosphate
+The cellular currency of energy, carrying high potential energy within its chemical bonds.
+Adenosine is a nucleoside consisting of three nitrogenous base adenine and a five carbon sugar, ribose
+![[Pasted image 20241019165354.png]]
+The three phopshate groups, in order of closest fo furthest from ribose, are alpha, beta, and gamma.
+These high energy bonds are the bonds between the second and third, and the first and second. They are high energy because the products are ADP and an inorganic phosphate Pi have much less free energy than the reactants (ATP + H2O)
+![[Pasted image 20241019165621.png]]
+Reversible
+![[Pasted image 20241019165632.png]]
