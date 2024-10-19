@@ -7,5 +7,6 @@
   "better-word-count",
   "novel-word-count",
   "quick-latex",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-discordrpc"
 ]
