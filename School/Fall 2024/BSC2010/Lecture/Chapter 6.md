@@ -23,6 +23,21 @@ Energy is the ability to do work, and exists in many forms, all critical to meta
 **Chemical Energy:** potential energy stored within chemical bonds
 ### Free Energy
 After learning that chemical reactions have energy, how do we quantify and express the chemical reactions with associated energy. The measurement of free energy to quantitative these energy transfers is called Gibbs free energy
-## Endergonic and Exergonic Reactions
+### Endergonic and Exergonic Reactions
 If energy releases during a chemical reaction, $\Delta G < 0$. A negative $\Delta G$ means the products have *less* free energy than the reactants, because energy was given off energy. This is *exergonic*, since energy is *exiting* the system. 
 Positive G means it needs energy, negative G means it loses energy.
+### Activation Energy
+- Even exergonic reactions that take a small amount of energy input before they can proceed with energy-releasing steps. This is activation energy.
+- Exergonic reactions require energy to contort certain molecules, known as the transition state, which are high energy and unstable.
+- Supplied typically through heat
+- Higher activation energy, slower the reaction
+- Cells CANNOT heat up due to internal concerns, and instead must have the activation energy lowered through catalysis
+- DNA and RNA could not have raw heat as they would pronate
+## Thermodynamics
+Thermodynamics is the study of energy and energy transfer, focusing on a system, which includes all objects. An open system is one where energy can transfer between the system and surroundings. A closed system is one that cannot transfer energy to surroundings.
+### First Law
+- The total amount of energy in the universe will remain constant. Energy cannot be created or destroyed.
+### Second Law
+- In every energy transfer, some amount of energy is lost in a form that is unusable. 
+- This makes cell growth hard.
+- Entropy is random movement, and more entropy means more energy lost to external systems
