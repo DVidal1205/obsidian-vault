@@ -23,3 +23,18 @@ Glycolysis is the first step in the breakdown of glucose to extract energy for c
 Glycolysis begins with a six-carbon ring-shaped structure of a single glucose and ends with two molecules of a three-carbon sugar called pyruvate. The glycolysis pathway consists of two major steps.
 ### 1st Half of Glycolysis (energy Requiring steps)
 Products of this reaction will serve as reactants for the next one. These reactions can be divided into two types, the first being investment steps, and the rest being energy releasing steps.
+Two ATP molecules are needed for the first half.
+At the end of the energy requiring phase, the pathway will continue with two molecules of 3-carbon sugar, glyceraldehyde-3-phosphate
+### 2nd Half of Glycolysis
+So far, it has cost two ATP molecules and produced two small three-carbon sugar molecules.Both sugar molecules will proceed through stage 2, and sufficient energy will be extracted to pay back the two ATP molecules used at the start and produce a profit with two more ATP molecules and two NADH molecules.
+This depends on NAD+, which means NADH must be constantly oxidized back to NADH. If oxygen is in the system, the NADH will continue being oxidized, and the electrons released from this will produce the ATP. Without oxygen, there is an alternate pathway of fermentation which can provide oxidation from NADH to NAD+
+![[Pasted image 20241019183956.png]]
+### Glycolysis Outcome
+Glycolysis begins with glucose and produces two pyruvate molecules, four ATP molecules, and two molecules of NADH. Net gain of 2 ATP since 2 were needed as inputs. These pyruvate cells may continue to make ATP if a mitochondria is present.
+## Oxidation of Pyruvate and Citric Acid
+If oxygen is available, aerobic respiration will go forward and the pyruvate molecules will be used by the mitochondria. Pyruvate is transformed into an acetyl group that will be picked up and activated by coenzyme A (CoA) and produced acetyl CoA, which is derived from vitamin B5.
+### Breakdown of Pyruvate
+Step 1. A carboxyl group is removed from pyruvate releasing a molecule of carbon dioxide. This creates a two-carbon hydroxyethyl group bound to the enzyme pyruvate dehydrogenase. This step happens twice, this two of the six carbons has been removed
+Step 2. The hdryoxyethyl group is oxidized into an acetyl group and electrons are picked up by NAD+, forming NADH. The high energy NADH will be used to generate ATP.
+Step 3. The enzyme bound acetyl group is transferred to CoA, producing a molecule of acetyl CoA. 
+The carbon released gets bound to O2, creating carbon dio
