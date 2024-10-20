@@ -63,4 +63,13 @@ Overall, these pathways extract about 34 percent of the energy contained in gluc
 ## Metabolism without Oxygen
 If aerobic respiration does not occur, NADH must be reoxidized to NAD+ for resuse as electron carrier for the glyoclytic pathway to continue. How is this done? Some systems use organic molecules as the final electron acceptors in a process called fermentation.
 ### Anaerobic Cellular Respiration
-Certain prokaryotes, including species in the domains Bacteria nad Archaea, use anaerobic resporation. A group of archaeans called methanogens reduce CO2 i
+Certain prokaryotes, including species in the domains Bacteria nad Archaea, use anaerobic resporation. A group of archaeans called methanogens reduce CO2 to methane to oxidize NADH.
+### Lactic Acid Fermentation
+Used in animals and certain bacteria like those in yogurt, lactic acid fermentation is a type of fermentation used in mammalian red blood cells which lack a mitochondria, and in skeletal muscle which lack oxygen.
+When la lactic acid accumulation occurs, it must be removed by blood circulation, and when it loses a hydrogen, the lactate is brought to the liver for further metabolism.
+The enzyme used in this reaction is LDH, lactase dehydrogenase. This accumulation was claimed to cause stiffness, fatigue, and soreness, but was disputed. Once it has been removed from the muscle and given to the liver, it can be reconverted into pyruvate and further catabolized.
+### Alcohol Fermentation
+Another process is alcohol which produces ethanol. This creates CO2 as a byproduct. 
+1. Pyruvate decarboxylase, where a carboxyll is removed from pyruvate, releasing CO2 as gas, and produces acetaldehyde.
+2. Using alcohol dehydrogenase, NADH is oxidized to NAD+ and reduces the acetaldehyde to ethanol. The fermentation of pyruvate by yeast produces the ethanol found in alcoholic beverages.
+3. ![[Pasted image 20241019192143.png]]
