@@ -1,4 +1,7 @@
 # Photosynthesis
+## Photosynthesis
+The process of photosynthesis occurs in the middle layer of cells called the mesophyll. Oxygen and Carbon Dioxide enter and exit the cell through stomata and stoma. These are on the underside of the leaf, which helps minimize water loss due to temperatures on the upper surface of the  leaf. 
+Photosynthesis takes place inside of chloroplasts, which each have thylakoids, containing chlorophyll that absorbs the light in PSII and PSI. Stacks of thylakoids are called granum, and the space surrounding them is the stroma.
 ## Calvin Cycle
 After sun energy is converted into chemical energy and stored in ATP and NADPH, the cell has the fuel needed to build carbohydrate molecules for long-term storage.
 ### Calvin Cycle
@@ -17,4 +20,9 @@ Different kinds of pigments exist and each absorb only specific wavelengths of l
 ### Light Dependent Reactions
 The goal is to convert solar energy into NADPH and ATP to be used in the Calvin Cycle, which creates carbs. There are two photosystems, PII comes first and PI comes second.
 Both systems have the same basic structure - antenna proteins to which the chlorophyll molecules are bound and the reaction center where photochemistry occurs. PSII, PSI, and the cytochrome complex make up the electron transport chain.
-The reaction center of PSII, called P680, delivers high-energy electrons to the primary electron accepter. The ETC then refills the missing electron by taking a low energy electron from water, which releases two electrons, two hydrogen, and one oxygen. 10 percent of oxygen is stored for cellular respiration and 90 percent is ejected. Hydrogen are moved inside the thylakoid lumen.
+The reaction center of PSII, called P680, delivers high-energy electrons to the primary electron acceptor. The ETC then refills the missing electron by taking a low energy electron from water, which releases two electrons, two hydrogen, and one oxygen. 10 percent of oxygen is stored for cellular respiration and 90 percent is ejected. Hydrogen are moved inside the thylakoid lumen.
+Another photon is absorbed in PSI to re-excite the electron at PSI P700 and is oxidized. This sends the electron to NADP+ creating NADPH.
+PSII P680 makes the gradient to form ATP
+PSI P700 uses electrons to make NADPH
+### Generating an Energy Carrier: ATP
+Hydrogen ions are pulled inside the thylakoid lumen at PSII P680 and can be used. Hydrogen ions will rush out of the ATP synthase, which allows ATP synthase to attach a third phosphate group to ADP which makes ATP. This is chemoiosmosis.
