@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4d2afaff3bed5eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Exam 2 Content Map 2024-10-20 19.38.59.excalidraw"
-            }
-          },
-          {
             "id": "30fcf5cefc3815c9",
             "type": "leaf",
             "state": {
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exam 2 Content Map 2024-10-20 19.38.59.excalidraw"
+              "title": "Backlinks for Chapter 7"
             }
           },
           {
@@ -125,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exam 2 Content Map 2024-10-20 19.38.59.excalidraw"
+              "title": "Outgoing links from Chapter 7"
             }
           },
           {
@@ -152,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md"
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Exam 2 Content Map 2024-10-20 19.38.59.excalidraw"
+              "title": "Outline of Chapter 7"
             }
           },
           {
@@ -190,10 +178,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d4d2afaff3bed5eb",
+  "active": "30fcf5cefc3815c9",
   "lastOpenFiles": [
-    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
     "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
     "School/Fall 2024/BSC2010/Lecture/Exam 2 Content Map.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 8.md",
     "School/Fall 2024/COP3503/Exam 2/Red Black Trees.md",

@@ -73,3 +73,11 @@ Another process is alcohol which produces ethanol. This creates CO2 as a byprodu
 1. Pyruvate decarboxylase, where a carboxyll is removed from pyruvate, releasing CO2 as gas, and produces acetaldehyde.
 2. Using alcohol dehydrogenase, NADH is oxidized to NAD+ and reduces the acetaldehyde to ethanol. The fermentation of pyruvate by yeast produces the ethanol found in alcoholic beverages.
 3. ![[Pasted image 20241019192143.png]]
+Sample Exam
+1. C
+2. D
+3. A
+4. It still needs to be in a condition to react, which requires energy to conform. This activation energy is needed to conduct the reaction, despite the net energy transfer being negative (exergonic)
+5. It can be performed inside of prokaryotic cells. It was discovered first
+6. The NADH and FADH2 made in the Calvin cycle must be used by the ETC in order for NAD+ and FAD to exist which are needed for the Calvin cycle. Since the ETC needs oxygen, then the Calvin cycle does too.
+7. 

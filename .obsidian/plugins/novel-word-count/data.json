@@ -364,19 +364,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1641,
+      "wordCount": 1738,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.47,
-      "characterCount": 10310,
-      "nonWhitespaceCharacterCount": 8638,
-      "readingTimeInMinutes": 6.192452830188679,
+      "pageCount": 5.793333333333333,
+      "characterCount": 10821,
+      "nonWhitespaceCharacterCount": 9052,
+      "readingTimeInMinutes": 6.558490566037736,
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1729374546989,
-      "modifiedDate": 1729380107869,
-      "sizeInBytes": 10310
+      "modifiedDate": 1729471103995,
+      "sizeInBytes": 10821
     },
     "School/Fall 2024/BSC2010/Lecture/Chapter 6.md": {
       "isCountable": true,
@@ -13155,8 +13155,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1729467539544,
-      "modifiedDate": 1729470500908,
-      "sizeInBytes": 332918
+      "modifiedDate": 1729470576959,
+      "sizeInBytes": 336657
     },
     "Obsidian/Attachments/Pasted Image 20241020194337_734.png": {
       "isCountable": false,
