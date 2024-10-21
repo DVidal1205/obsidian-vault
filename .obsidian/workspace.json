@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "5f6506584ec10f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 5"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -166,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 5"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -193,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 5"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -214,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,9 +244,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f82f83e471b05970",
+  "active": "5f6506584ec10f3d",
   "lastOpenFiles": [
-    "Obsidian/Attachments/Pasted Image 20241015131903_781.png",
+    "conflict-files-obsidian-git.md",
+    "School/Fall 2024/BSC2010/Lecture/Exam 2 Content Map.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 8.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 6.md",
+    "Obsidian/Attachments/Pasted image 20241019192143.png",
+    "Obsidian/Attachments/Pasted image 20241019184958.png",
+    "Obsidian/Attachments/Pasted image 20241019183956.png",
+    "Obsidian/Attachments/Pasted image 20241019171550.png",
+    "Obsidian/Attachments/Pasted image 20241019171042.png",
+    "Obsidian/Attachments/Pasted image 20241019170051.png",
+    "Obsidian/Attachments/Pasted image 20241019165632.png",
+    "Obsidian/Attachments/Pasted image 20241019165621.png",
+    "Obsidian/Attachments/Pasted image 20241019165354.png",
+    "Obsidian/Attachments/Pasted image 20241019162425.png",
+    "Obsidian/Attachments/Exam 2 Content Map 2024-10-20 19.38.59.excalidraw.md",
     "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
     "School/Fall 2024/BSC2010/Lab/LAB 9.md",
     "School/Fall 2024/BSC2010/Lab/LAB 0.md",
@@ -241,7 +269,6 @@
     "School/Fall 2024/COP3503/Untitled.md",
     "School/Fall 2024/BSC2010/Lab/Light Reactions Flowchart Activity.docx",
     "School/Fall 2024/BSC2010/Lab/Light Reaactions Flowchart Blank.docx",
-    "conflict-files-obsidian-git.md",
     "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
     "School/Fall 2024/COP3503/Exam 2/Examples/Disjoint.md",
     "School/Fall 2024/COP3503/Exam 2/Skip Lists.md",
@@ -257,23 +284,10 @@
     "School/Fall 2024/COP3503/Exam 1",
     "Obsidian/Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
     "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
-    "Obsidian/Attachments/Pasted image 20241011140016.png",
-    "Obsidian/Attachments/Pasted image 20241011135846.png",
-    "Obsidian/Attachments/Pasted image 20241011135717.png",
-    "Obsidian/Attachments/Pasted image 20241011135217.png",
-    "Obsidian/Attachments/Pasted image 20241011135201.png",
-    "Obsidian/Attachments/Pasted Image 20241011161029_749.png",
     "Obsidian/Attachments/Disjoint 2024-10-11 16.09.16.excalidraw.md",
     "School/Fall 2024/COP3503/Red Black Trees.md",
     "School/Fall 2024/COP3503/B-Tree.md",
-    "School/Fall 2024/COP3503/Probabilistic Data Structures.md",
-    "School/Fall 2024/COP3503/Closest Pair of Points.md",
-    "School/Fall 2024/IDH1920/8-27.md",
-    "School/Fall 2024/IDH1920/Test.md",
     "School/Fall 2024/COP3503/Lab 3",
-    "Obsidian/Attachments/Pasted image 20240913131009.png",
-    "Obsidian/Attachments/52bfcab8c986c794f20141487ae15a68f1ac7ac4.webp",
-    "Obsidian/Attachments/Pasted image 20240830123927.png",
     "Excalidraw",
     "School/Fall 2024/BSC2010/Lecture",
     "School/Fall 2024/BSC2010/Lab",
