@@ -16,7 +16,9 @@
                 "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "School/Fall 2024/BSC2010/Lab/LAB 0.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LAB 0"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "School/Fall 2024/BSC2010/Lab/LAB 9.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LAB 9"
             }
           },
           {
@@ -50,11 +56,25 @@
               "type": "excalidraw",
               "state": {
                 "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "LAB 9 2024-10-15 13.19.00.excalidraw"
+            }
+          },
+          {
+            "id": "f82f83e471b05970",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,7 +111,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -97,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -121,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 5"
             }
           },
           {
@@ -138,10 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 5"
             }
           },
           {
@@ -152,7 +182,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -161,8 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md"
-              }
+                "file": "School/Fall 2024/BSC2010/Lecture/Chapter 5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 5"
             }
           },
           {
@@ -170,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -195,7 +231,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "652a190805f7d89b",
+  "active": "f82f83e471b05970",
   "lastOpenFiles": [
     "Obsidian/Attachments/Pasted Image 20241015131903_781.png",
     "Obsidian/Attachments/LAB 9 2024-10-15 13.19.00.excalidraw.md",
