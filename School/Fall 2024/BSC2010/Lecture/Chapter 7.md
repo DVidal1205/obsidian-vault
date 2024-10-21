@@ -68,6 +68,8 @@ Certain prokaryotes, including species in the domains Bacteria nad Archaea, use 
 Used in animals and certain bacteria like those in yogurt, lactic acid fermentation is a type of fermentation used in mammalian red blood cells which lack a mitochondria, and in skeletal muscle which lack oxygen.
 When la lactic acid accumulation occurs, it must be removed by blood circulation, and when it loses a hydrogen, the lactate is brought to the liver for further metabolism.
 The enzyme used in this reaction is LDH, lactase dehydrogenase. This accumulation was claimed to cause stiffness, fatigue, and soreness, but was disputed. Once it has been removed from the muscle and given to the liver, it can be reconverted into pyruvate and further catabolized.
+CREATES NAD+ and lactic acid from Pyruvate and NADH
+THE NAD+ is needed for glycolysis
 ### Alcohol Fermentation
 Another process is alcohol which produces ethanol. This creates CO2 as a byproduct. 
 1. Pyruvate decarboxylase, where a carboxyll is removed from pyruvate, releasing CO2 as gas, and produces acetaldehyde.
@@ -78,6 +80,17 @@ Sample Exam
 2. D
 3. A
 4. It still needs to be in a condition to react, which requires energy to conform. This activation energy is needed to conduct the reaction, despite the net energy transfer being negative (exergonic)
-5. It can be performed inside of prokaryotic cells. It was discovered first
+5. It can be performed inside of prokaryotic cells. No need for oxygen aka existed before Earth had oxygen.
 6. The NADH and FADH2 made in the Calvin cycle must be used by the ETC in order for NAD+ and FAD to exist which are needed for the Calvin cycle. Since the ETC needs oxygen, then the Calvin cycle does too.
-7. 
+7. Lactic acid is creating from sugars in fermentation process. This drops the pH.
+Question 8
+Similarities
+- Both use ATP synthase to make ATP
+- Both exploit an electrochemical gradient to maintain chemical energy
+- Both move hydrogen INSIDE of the thylakoid or mitochondria
+Differences
+- Photosynthesis uses NADPH and cell respiration uses NADH
+- The concentration gradient in photosynthesis is made at PII
+- The concentration gradient in cell respiration is done in the cytochrome complexes
+9. Law 1: Energy cannot be created or destroyed. The chemical energy of gas converts to an equal amount of chemical energy. Law 2: not all of the reactions translate into kinetic energy, and a lot is lost to heat.
+10. The Citric Acid Cycle needs the ETC to expel oxygen and create more NAD+ and FAD molecules.
