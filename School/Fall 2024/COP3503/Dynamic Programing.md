@@ -13,3 +13,9 @@ Tabulation
 - Bottom-Up
 - Iterative
 - Utilize subproblems that DONT have overlap
+
+Longest Common Subsequence (LCS)
+- AC**CG**G**T**
+- GT**CGT**T
+- LCS = 3
+- CGT
