@@ -14,3 +14,8 @@ Monk who discovered genetics
 ## Mendel's Model: Concept 4
 - Law of Segregation 
 - 2 alleles segregate and separate during meiosis
+
+- **Homozygous** 2 copies of the same allele
+- Homozygous dominant and Homozygous recessive
+- **Phenotype:** the physical appearance (eg Purple Flower)
+- **Genotype:** specific alleles
