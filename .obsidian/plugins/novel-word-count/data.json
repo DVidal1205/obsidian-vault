@@ -4954,19 +4954,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 122,
+      "wordCount": 145,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 709,
-      "nonWhitespaceCharacterCount": 566,
-      "readingTimeInMinutes": 0.46037735849056605,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 833,
+      "nonWhitespaceCharacterCount": 665,
+      "readingTimeInMinutes": 0.5471698113207547,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1724173702971,
-      "modifiedDate": 1724173702971,
-      "sizeInBytes": 718
+      "createdDate": 1729990359054,
+      "modifiedDate": 1729990655374,
+      "sizeInBytes": 842
     },
     "Life/Journal/Daily Notes/2024-08-20.md": {
       "isCountable": true,
@@ -13193,24 +13193,6 @@
       "createdDate": 1724173702723,
       "modifiedDate": 1724173702723,
       "sizeInBytes": 3651
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 83,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 644,
-      "nonWhitespaceCharacterCount": 544,
-      "readingTimeInMinutes": 0.3132075471698113,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729990359086,
-      "modifiedDate": 1729990359394,
-      "sizeInBytes": 644
     }
   }
 }
