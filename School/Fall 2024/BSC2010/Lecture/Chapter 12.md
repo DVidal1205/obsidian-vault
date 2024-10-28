@@ -19,3 +19,4 @@ Monk who discovered genetics
 - Homozygous dominant and Homozygous recessive
 - **Phenotype:** the physical appearance (eg Purple Flower)
 - **Genotype:** specific alleles
+- **Epistasis:** more than one gene but the other masks the expression of another
