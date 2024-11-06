@@ -9,4 +9,3 @@
 ### Primms (Priority Queue)
 - Starts with a source node (difference from Kruskals)
 - Create a map where all elements are in a priority queue with priority infinity and prev. of NULL
-- 
