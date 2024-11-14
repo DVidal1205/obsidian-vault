@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Mafia"
             }
+          },
+          {
+            "id": "de3daa67bf4d034b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +192,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "30fcf5cefc3815c9",
+  "active": "de3daa67bf4d034b",
   "lastOpenFiles": [
-    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
+    "Life/Mafia.md",
     "conflict-files-obsidian-git.md",
+    "School/Fall 2024/COP3503/Exam 3/Minimum Spanning Trees.md",
+    "School/Fall 2024/COP3503/Exam 3/Dynamic Programing.md",
+    "School/Fall 2024/COP3503/Exam 3",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 15.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 14.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 13.md",
+    "School/Fall 2024/BSC2010/Lecture/Chapter 7.md",
     "School/Fall 2024/COP3503/Dynamic Programing.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 8 - Photosynthesis.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 12.md",
@@ -211,19 +233,12 @@
     "School/Fall 2024/COP3503/Exam 2/Exam 2 Checklist.md",
     "School/Fall 2024/COP3503/Exam 2/Examples/Disjoint.md",
     "Obsidian/Attachments/Disjoint 2024-10-11 16.09.16.excalidraw.md",
-    "School/Fall 2024/COP3503/Exam 2/Examples/RBT.md",
-    "Obsidian/Attachments/RBT 2024-10-11 14.08.38.excalidraw.md",
     "School/Fall 2024/COP3503/Exam 2/Examples",
     "School/Fall 2024/COP3503/Exam 1",
     "School/Fall 2024/COP3503/Exam 2",
-    "School/Fall 2024/COP3503/Exam 2/B-Tree.md",
-    "School/Fall 2024/COP3503/Exam 1/Asymptotic Notations.md",
-    "Obsidian/Excalidraw/Asymptotic Notations 2024-08-26 17.02.07.excalidraw.md",
-    "Life/SWE/Project Launch/Web Development Presentation.md",
     "School/Fall 2024/COP3503/Lab 3",
     "Excalidraw",
     "School/Fall 2024/BSC2010/Lecture",
-    "School/Fall 2024/BSC2010/Lab",
-    "TL"
+    "School/Fall 2024/BSC2010/Lab"
   ]
 }
