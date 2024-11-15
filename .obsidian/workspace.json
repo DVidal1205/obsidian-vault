@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Chapter 15"
             }
+          },
+          {
+            "id": "d33149a640cc8f7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "728eb3e197b9fae7",
+  "active": "d33149a640cc8f7b",
   "lastOpenFiles": [
     "School/Fall 2024/BSC2010/Lecture/Chapter 14.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 15.md",
