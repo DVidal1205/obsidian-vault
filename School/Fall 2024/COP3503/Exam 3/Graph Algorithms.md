@@ -1,3 +1,4 @@
+# Dijkstra's
 ## Single Source Shortest Path
 - Multi-source is Floyd Warshall's
 - **Input:** directed, weighted graph, and a sourve vertex
@@ -7,3 +8,4 @@
 - Iterate over each vertex, and set distance to infinity and previous equal to none
 - Set source to a distance of 0
 - Enqueue all vertices into priority Queue, where every vertex except source has infinite
+# Bellman-Ford

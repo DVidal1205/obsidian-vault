@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Dijkstra's Algorithm.md",
+                "file": "School/Fall 2024/COP3503/Exam 3/Graph Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dijkstra's Algorithm"
+              "title": "Graph Algorithms"
             }
           }
         ],
@@ -195,7 +195,7 @@
   "active": "9c34bd408ae077b1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "School/Fall 2024/COP3503/Exam 3/Dijkstra's Algorithm.md",
+    "School/Fall 2024/COP3503/Exam 3/Graph Algorithms.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programing.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 14.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 15.md",
