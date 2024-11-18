@@ -6,4 +6,4 @@
 ## Psuedocode
 - Iterate over each vertex, and set distance to infinity and previous equal to none
 - Set source to a distance of 0
-- 
+- Enqueue all vertices into priority Queue, where every vertex except source has infinite
