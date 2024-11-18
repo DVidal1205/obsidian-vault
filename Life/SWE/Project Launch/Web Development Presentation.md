@@ -127,6 +127,8 @@ A noob website consists of main 3 elements in implementation - HTML, CSS, and Ja
 - Each component returns JSX, and contains all of the functionality inside of itself, making these components standalone and reusable
 - Components can receive inputs, also known as properties/props
 
+QUESTION: ASK ABOUT BUCKET STORAGE / QR CODES
+
 ---
 
 ![[Pasted image 20240211182506.png]]
