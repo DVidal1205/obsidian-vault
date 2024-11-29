@@ -43,12 +43,31 @@ int LCSMemo(String X, String Y, int m, int n, int[][] memo){
 
 	// Case where they are the same
 	if (X.chartAt(m-1) == Y.charAt(n-1)) {
-		memo[m][n] = 1 + LCSMemo(X, Y, m-1, n-1);
+		memo[m][n] = 1 + LCSMemo(X, Y, m-1, n-1, memo);
 		return memo[m][n];
 	}
 
 	// Case where they are different
 	memo[m][n] = max(LCSMemo(X, Y, m-1, n, memo), LCSMemo(X, Y, m, n-1, memo));
 	return memo[m][n];
+}
+```
+## Tabulation Approach
+Build the table Bottom-Up and solve similar to memoization approach. Initialize the top and left row to 0.
+- Index i and j represent the position of the pointer on the string, m and n. For example, c(5, 7) means index 5 of String X and index 7 of String Y.
+- If they are different, pull the minimum value from either the above cell or left cell (take the answer from that sub problem.)
+- If there is a match, take diagonal and add 1 to it
+```java
+int LCSTabulation(String X, String Y, int m, int n) {
+	int c[][] = new [m+1][n+1] // Numerical Solution
+	char r[][] = new char[m+1][n+1] // String Solution
+
+	// Initialize Top and Left row to zeroes 
+	for (int i = 0; i <= m; i++){
+		c[i][0] = 0;
+	}
+	for (int j = 0; j <= n; j++){
+		c[0][j] = 0;
+	}
 }
 ```
