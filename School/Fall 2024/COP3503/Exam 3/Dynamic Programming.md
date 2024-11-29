@@ -71,6 +71,16 @@ int fibWithTable(int n){
 	int [] table = new int[n + 1];
 	table[0] = 0;
 	table[1] = 1;
+
+	// Build response
+	for (int i = 2; i <= n; i++){
+		table[i] = table[i-1] + table[i-2]
+	}
+
+	// Return Solution
+	return table[n]
 	
 }
 ```
+# Knapsack - All or Nothing, non-Fractional
+The [[Greedy Algorithms]] approach to the Knapsack requires the ability to take a fractional item. In the case of all or nothing, we can use Dynamic Programming to accomplish this as well.
