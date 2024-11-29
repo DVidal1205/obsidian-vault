@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45e556ad7c440c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Dynamic Programing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Programing"
-            }
-          },
-          {
-            "id": "9c34bd408ae077b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Graph Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graph Algorithms"
-            }
-          },
-          {
-            "id": "1653c73db0e47150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Dynamic Programing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Programing"
-            }
-          },
-          {
             "id": "bab0a7c7b8d2e47d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Greedy Algorithms.md",
+                "file": "School/Fall 2024/COP3503/Exam 3/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greedy Algorithms"
+              "title": "Dynamic Programming"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f32323900370b9a5",
@@ -224,8 +180,8 @@
   },
   "active": "bab0a7c7b8d2e47d",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Exam 3/Dynamic Programing.md",
     "School/Fall 2024/COP3503/Exam 3/Greedy Algorithms.md",
+    "School/Fall 2024/COP3503/Exam 3/Dynamic Programming.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms.md",
     "conflict-files-obsidian-git.md",
     "School/Fall 2024/BSC2010/Lecture/Chapter 14.md",

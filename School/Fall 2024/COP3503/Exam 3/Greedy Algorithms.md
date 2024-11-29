@@ -25,7 +25,26 @@ A thief robbing a store finds n items, where the *ith* item costs *vi* dollars a
 - **Greedy Assumption:** sort all of the items by their fractional value (v/w) and then grab as much of the front item as possible until the knapsack fills.
 ```java
 public int FractionalKnapsack(int weight, int n){
+	// Create the starting array and load with 0
 	arr I[] = sorted(I) // By v/w
-	
+	for (int i = 1; i < n; i++){
+		I[i] = 0;
+	}
+
+	// Loop
+	int load = 0;
+	int value = 0;
+	i = 1
+	while (load < weight && i <= n) {
+		if (weights[i] < weight - load) {
+			I[i] = 1
+		} else {
+			I[i] = (weight - load) / weights[i]
+		}
+		load = load + I[i] * weights[i];
+		value = value I[i] * values[i];
+		i = i + 1
+	} 
+	return value;
 }
 ```
