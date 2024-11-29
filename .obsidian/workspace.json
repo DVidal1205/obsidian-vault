@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Longest Common Sub-sequence (LCS).md",
+                "file": "School/Fall 2024/COP3503/Exam 3/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Common Sub-sequence (LCS)"
+              "title": "Dynamic Programming"
             }
           }
         ],
@@ -195,8 +195,8 @@
   },
   "active": "dd9da18e23422215",
   "lastOpenFiles": [
-    "School/Fall 2024/COP3503/Exam 3/Dynamic Programming.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Longest Common Sub-sequence (LCS).md",
+    "School/Fall 2024/COP3503/Exam 3/Dynamic Programming.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples",
     "Obsidian/Attachments/Pasted image 20241128222640.png",
     "Obsidian/Attachments/Pasted image 20241128215058.png",
