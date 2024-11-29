@@ -69,5 +69,22 @@ int LCSTabulation(String X, String Y, int m, int n) {
 	for (int j = 0; j <= n; j++){
 		c[0][j] = 0;
 	}
+
+	// Build the table
+	for (int i = 1; i <= m; i++){
+		for (int j = 1; j <= n; j++){
+			if (X.charAt(i-1) == Y.charAt(j-1)) {
+				c[i][j] = 1 + c[i-1][j-1] // Take Diagonal
+				r[i][j] = 'd';
+			} else if (c[i-1][j] >= c[i][j-1]) // Choose Up
+				c[i][j] = c[i-1][j];
+				r[i][j] = 'v';
+			} else {
+				c[i][j] = c[i][j-1];
+				r[i][j] = 'h';
+			}
+		}
+	}
+	return c[i][j];
 }
 ```
