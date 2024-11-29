@@ -82,5 +82,8 @@ int fibWithTable(int n){
 	
 }
 ```
+# Make Change with Provided Coins
+Given a list of coins that we can use and a total amount of money we want to split, we want to use the fewest number of coins possible to sum up to that amount. Infinite quantity of each coins
+- 
 # Knapsack - All or Nothing, non-Fractional
 The [[Greedy Algorithms]] approach to the Knapsack requires the ability to take a fractional item. In the case of all or nothing, we can use Dynamic Programming to accomplish this as well.
