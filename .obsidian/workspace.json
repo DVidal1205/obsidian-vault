@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Graph Algorithms"
             }
+          },
+          {
+            "id": "1653c73db0e47150",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c34bd408ae077b1",
+  "active": "1653c73db0e47150",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms.md",
