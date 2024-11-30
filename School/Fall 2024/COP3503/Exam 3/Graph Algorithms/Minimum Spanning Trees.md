@@ -8,5 +8,5 @@ Kruskal's Algorithm is a **greedy** algorithm to construct a minimum spanning tr
 ## Prim's Algorithm
 Prim's Algorithm is another **greedy** algorithm to construct a minimum spanning tree **with a specified source node**. This algorithm has a runtime of O(|E| log |V|) and works as follows.
 - Create a priority queue of edges that contain the distance from the source, and the predecessor. Set all of the edges to infinite weight except the source, which is 0 and NIL
-- Grab all of the adjacent edges to the MST and update their costs if they are lower. Iterate to the next in queue, aka the node with the smallest cost.
-- Keep updating the costs until the priority queue is empty
+- Grab all of the adjacent edges to the MST and update their add costs if they are lower. Iterate to the next in queue, aka the node with the smallest cost. Once it has been iterated to, it has been fixed.
+- Keep updating the costs until all nodes have been fixed.
