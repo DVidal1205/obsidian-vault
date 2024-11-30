@@ -94,3 +94,7 @@ Given a list of coins that we can use and a total amount of money we want to spl
 The [[Greedy Algorithms]] approach to the Knapsack requires the ability to take a fractional item. In the case of all or nothing, we can use Dynamic Programming to accomplish this as well.
 - Create a Items X Weight 2D array where the I index is the number of items held and the J index is the profit at that particular position
 - Initialize Top Row and Left Column to 0's and start at 1,1
+- If there is not enough room in the bag for the current item, just take previous profit
+- If there is space, take the max between the previous item and the profit available before adding the current item (V(i, j - w[i])) + P[i])
+![[Pasted image 20241129190434.png]]
+
