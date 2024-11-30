@@ -6,3 +6,13 @@ Given two sequences with possibly differing sizes, make them match as closely as
 - A matching M of these two sets is an alignment if there are no crossing pairs.
 ![[Pasted image 20241129191401.png]]
 - We may also want to look at the gap penalty for typos, or how far the two letters are on the keyboard alpha
+- Delta: cost to insert a gap
+The three main cases:
+1. Pay the alpha and move to the next character over, alpha + OPT(m-1, n-1)
+2. Not Aligned
+	1. Pick a character from X, delta + OPT(m-1, n)
+	2. Pick a character from Y, delta + OPT(m, n-1)
+## Tabulation Approach
+1. Set table first row and column to 0
+2. Loop and assign A(i, j) = min(alpha + A[i-1, j-1], delta + A[i-1, j], delta + A[i, j-1])
+3. return A[m,n]
