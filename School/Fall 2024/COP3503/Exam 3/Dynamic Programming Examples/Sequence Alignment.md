@@ -18,9 +18,16 @@ To Construct a Solution
 - Horizontal means an insertion of a gap in the X letter
 - Vertical means an insertion of a gap in the Y letter
 - Diagonal means both of the letters at that spot.
-
-X: n _
-Y: m e
+## Sample
+Delta = 2
+Cost misalignment
+- Same = 0
+- Vowel and diff vowel = 1
+- Consonant and diff consonant = 1
+- vowel and consonant = 3
+X: m e a n _
+Y: n _ a m e
+C: 1 2 0 1 2 = 6
 ## Tabulation Approach
 1. Set table first row and column to 0, initialize each position by delta * i
 2. Loop and assign A(i, j) = min(alpha + A[i-1, j-1], delta + A[i-1, j], delta + A[i, j-1])
