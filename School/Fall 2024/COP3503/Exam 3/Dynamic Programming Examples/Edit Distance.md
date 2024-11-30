@@ -16,3 +16,6 @@ Create a table where the top row is the target string, and the column is the sou
 - If the letters are the same, grab diagonally
 - If they are different, initialize with 1 + minimum from all directions
 	- Left = removal
+	- Diagonal = replace
+	- Diagonal but same = nothing
+	- Up = insert
