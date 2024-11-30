@@ -2744,15 +2744,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.47,
-      "characterCount": 2770,
-      "nonWhitespaceCharacterCount": 2143,
+      "characterCount": 2766,
+      "nonWhitespaceCharacterCount": 2139,
       "readingTimeInMinutes": 1.6641509433962265,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732851206387,
-      "modifiedDate": 1732853053264,
-      "sizeInBytes": 2770
+      "modifiedDate": 1732938005673,
+      "sizeInBytes": 2766
     },
     "School/Fall 2024/COP3503/Exam 2/Skip Lists.md": {
       "isCountable": true,

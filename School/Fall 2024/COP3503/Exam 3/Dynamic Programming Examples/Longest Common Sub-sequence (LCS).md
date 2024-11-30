@@ -55,7 +55,7 @@ int LCSMemo(String X, String Y, int m, int n, int[][] memo){
 ## Tabulation Approach
 Build the table Bottom-Up and solve similar to memoization approach. Initialize the top and left row to 0.
 - Index i and j represent the position of the pointer on the string, m and n. For example, c(5, 7) means index 5 of String X and index 7 of String Y.
-- If they are different, pull the minimum value from either the above cell or left cell (take the answer from that sub problem.)
+- If they are different, pull the max value from either the above cell or left cell (take the answer from that sub problem.)
 - If there is a match, take diagonal and add 1 to it
 ```java
 int LCSTabulation(String X, String Y, int m, int n) {
