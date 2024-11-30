@@ -1,4 +1,4 @@
-Example: Google Search Alignment
+2Example: Google Search Alignment
 "Did you mean: bibliography?"
 # The Problem
 Given two sequences with possibly differing sizes, make them match as closely as possible.
