@@ -9,3 +9,4 @@ Create two tables, M and S, and fill using bottom up approach. Both M and S shou
 - Fill out each of the cells with their  2 multiplication costs in the M table, and mark S = 1 in the cell of the multiplication (A1 * A2, S[1,2] = 1)
 - Fill out the costs of the N multiplication, where N > 2 as follows
 	- Multiply a cell by an already computed bundle of N-1. Find the cost by doing Cost + Left * Bridge to Parenthesis * Right
+	- Fill out the S table with the right value of first m index
