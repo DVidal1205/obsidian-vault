@@ -1,0 +1,1 @@
+Input: Sequence of n matrices 
