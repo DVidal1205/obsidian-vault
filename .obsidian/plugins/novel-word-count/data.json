@@ -13482,23 +13482,23 @@
       "modifiedDate": 1724299623326,
       "sizeInBytes": 3651
     },
-    "conflict-files-obsidian-git.md": {
+    "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Path Algorithms.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 87,
+      "wordCount": 124,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 683,
-      "nonWhitespaceCharacterCount": 578,
-      "readingTimeInMinutes": 0.3283018867924528,
-      "linkCount": 1,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 740,
+      "nonWhitespaceCharacterCount": 609,
+      "readingTimeInMinutes": 0.4679245283018868,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1733072804706,
-      "modifiedDate": 1733072805022,
-      "sizeInBytes": 683
+      "createdDate": 1733072826554,
+      "modifiedDate": 1733072983553,
+      "sizeInBytes": 740
     }
   }
 }
