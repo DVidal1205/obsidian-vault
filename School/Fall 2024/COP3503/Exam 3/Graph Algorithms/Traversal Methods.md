@@ -14,4 +14,11 @@ Depth First search does not take a source node and instead of iterating over nei
 ### Depth Search Tree
 - The initial graph, only containing the edges used in the search. Can contain isolated nodes
 ### Topological Sort
-- Nodes in a sorted order by time
+- Nodes in a sorted order by time, no back edges or cycles
+- Depth first traverse and insert at head of linked list as u traverse back up
+- connect edges as before
+### Edge Types
+- Forward Edge - an edge that connects to a descendant in the depth search tree
+- Backward Edge - an edge that connects to an ancestor in the depth first tree
+- Island - Standalone node
+- Cross Edge - connects two islands in a depth search tree
