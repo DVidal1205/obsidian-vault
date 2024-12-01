@@ -13,7 +13,11 @@ Bellman Fords also finds the shortest path distance from all nodes to all other 
 	- If the distance from adj[i, j] is greater than dist[i, k] + dist [k, j] then update adj[i, j] to that.
 	- This works, because it is checking if there is a quicker path by using an **intermediate** vertex.
 ## Bellman Ford's - One to All (with Negatives)
-Bellman Ford operates on a fundamental idea, that there is at most |v| - 1 edges in the shortest path. If it is more than that, there must be a cycle. There are multiple iterations of Bellman Ford's
+Bellman Ford operates on a fundamental idea, that there is at most |v| - 1 edges in the shortest path. If it is more than that, there must be a cycle. There are multiple iterations of Bellman Ford's. Runtime of O(|V| * |E|)
 - Make a tabulation table with the source node at index 0 with a distance of 0, and all others with the distance of infinity.
 - Update the table with all of the edges based on the new node. Skip if we cannot traverse.
-- Loop again, since we now have all of our discovered nodes and e
+	- If distance of current + weight from current to source is less than the distance of the source, **relax** the weight
+- Loop again, since we now have all of our discovered nodes and edges. Negative edges are now discovered and we can apply negative edges.
+- Loop until all of the values remain the same
+# Dijkstra's vs Bellman Ford's
+Dijkstra's only traverses once so it is quicker, but cannot support negative weights. Bellman-Ford does the same type of approach, but instead of using a priority queue enforces DP by iterating over all elements and updating in multiple loops.
