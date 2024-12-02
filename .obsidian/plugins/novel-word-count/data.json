@@ -134,15 +134,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.6266666666666667,
-      "characterCount": 2789,
-      "nonWhitespaceCharacterCount": 2268,
+      "characterCount": 2791,
+      "nonWhitespaceCharacterCount": 2270,
       "readingTimeInMinutes": 1.8415094339622642,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1733072826554,
-      "modifiedDate": 1733084645412,
-      "sizeInBytes": 2789
+      "modifiedDate": 1733101901990,
+      "sizeInBytes": 2791
     },
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Minimum Spanning Trees.md": {
       "isCountable": true,
