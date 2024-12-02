@@ -6,9 +6,9 @@ Given an initial string s and a target string t, what is the minimum number of o
 - If m is zero, return n. If n is zero, return m. This is because we need to perform those many delete operations to make them equal (different lengths)
 - If they are the same, then traverse 1 backwards in both m and n
 - If they are different, call all of the functions
-	- Insert = s, t, m, n-1, memo
-	- Replace = s, t, m -1, n-1, memo
-	- Delete = s, t, m-1, n, memo
+	- Insert = s, t, m, n-1, memo (LEFT)
+	- Replace = s, t, m -1, n-1, memo (DIAGONAL)
+	- Delete = s, t, m-1, n, memo (UP)
 	- Return 1 + min(insert, replace, delete) (accrue one cost)
 ![[Pasted image 20241129211128.png]]
 ## Tabulation
