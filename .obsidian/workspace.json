@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Edit Distance"
             }
+          },
+          {
+            "id": "18fd6c3044f8a8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LM CWEP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LM CWEP"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,14 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79614392e374fc0c",
+  "active": "18fd6c3044f8a8c5",
   "lastOpenFiles": [
+    "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Edit Distance.md",
+    "LM CWEP.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Path Algorithms.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Graphs.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Sequence Alignment.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Matrix Chain Multiplication.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Longest Common Sub-sequence (LCS).md",
-    "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Edit Distance.md",
     "School/Fall 2024/COP3503/Exam 3/Dynamic Programming Examples/Dynamic Programming.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Traversal Methods.md",
     "School/Fall 2024/COP3503/Exam 3/Graph Algorithms/Minimum Spanning Trees.md",
